@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<HTML  lang="en-us">
+
+<HEAD>
+  <link rel="stylesheet" href="style.css">
+  <link href="panzoom/cytoscape-panzoom.css" rel="stylesheet" type="text/css" />
+  <link href="font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.css">
+  <link rel="stylesheet" href="jqueryUI.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" href="favicon.png">
+
+
+
+<meta charset="utf-8" />
+<meta name="description" content="Cytoscape.js test">
+<meta name="keywords" content="cytoscape, cytoscape.js, javascript, jquery, glycolysis, TCA cycle">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<title>ICU Network</title>
+
+<style>
+
+  #cy {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    bottom: 0px;
+    left: 0px;
+  }
+  h1 {
+    opacity: 0.5;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+</style>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.9.0/cytoscape.min.js'></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/4f450ce68d.js" crossorigin="anonymous"></script>
+<script src="panzoom/cytoscape-panzoom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.js"></script>
+<script src="cytoscape-qtip.js"></script>
+<script src="./Autocomplete/jQueryUI-autocomplete-for-ICU.js"></script>
+
+</HEAD>
+
+  <div id="mainDiv">
+   <div id="navbar">
+    <div id="content" class="col-md-2">
+      <button type="button" id="sidebarCollapse" class="navbar-btn active">
+        <div class="container1 active" onclick="this.classList.toggle('active')">
+          <svg xmlns="https://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 200 200">
+                <g stroke-width="6.5" stroke-linecap="round">
+                  <path
+                    d="M72 82.286h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 103.714l72.482-.143c.043 39.398-32.284 71.434-72.16 71.434-39.878 0-72.204-32.036-72.204-71.554"
+                    fill="none"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M72 125.143h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 103.714l-71.908-.143c.026-39.638 32.352-71.674 72.23-71.674 39.876 0 72.203 32.036 72.203 71.554"
+                    fill="none"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 82.286h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 125.143h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                </g>
+              </svg>
+        </div>
+      </button>
+  <div>
+
+</div>   </div>
+<div id="nav-links"  class="col-md-4">
+
+  <div><a class="nonicu-pages" href="icu.html">ICU Network</a></div> 
+  <div><a class="nonicu-pages" href="nonicu.html">Non-ICU Network</a></div> 
+ 
+
+</div>
+
+      <div id ="headerText" class="col-md-6"><h2></h2></div>
+ 
+      
+    
+
+</div>
+<BODY>
+ 
+
+
+<div class="wrapper" id="wrapperID">
+
+  <nav id="sidebar">
+<div id="sidebar-div">
+
+
+      <div class="sidebar-item">
+        <h4 class="reset_everything"><i class="fas fa-sync"></i>
+
+          Reset everything</h4>
+        <button class="reset" id="resetButton" class="slider-button"><p class="reset-p">Reset</p></button></div>  
+      <div id="checkboxes" class="sidebar-item"><div class="form-check">
+        <input class="form-check-input critical_box" id ="critical_box" type="checkbox" value="" id="flexCheckDefault">
+        <label class="form-check-label" for="flexCheckDefault">
+          Show Critical
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input indispensable_box" id="indispensable_box" type="checkbox" value="" id="flexCheckDefault" >
+        <label class="form-check-label" for="flexCheckDefault">
+          Show Indispensable
+        </label>
+      </div>
+      <div class="form-check">
+        <input class="form-check-input dual_box" id="dual_box" type="checkbox" value="" id="flexCheckDefault" >
+        <label class="form-check-label" for="flexCheckDefault">
+          Show Filt-indispensable 
+        </label>
+      </div></div>
+      <div id="search-drugs" class="sidebar-item">
+        <button type="button" id="drug-page-button" onclick="location.href='./icu-drugtargets.html';" class="drug-page-button form-child slider-button"><p class="path-p">Search for Drugs</p></button>
+      </div>
+      <div id="search-nodes" class="sidebar-item ">
+        <h4> <i class="fas fa-caret-right "></i>
+
+
+
+          Search for nodes</h4>
+        <div id="cover" class="node-search-box autocompete-append-searchNode">
+  
+            <div class="tb ">
+              <div class="td ">
+                <input type="text" placeholder="SEARCH"   id="searchNodes"  required>
+               
+              
+              </div>
+              <div class="td " id="s-cover">
+                <button type="submit" id="searchButton">
+                  
+                  <div id="s-circle"></div>
+                  
+                  <span></span>
+                </button>
+                
+              </div>
+            </div>
+      
+        </div></div>
+        <div id="search-neighbors" class="sidebar-item">
+          <h4> <i class="fas fa-caret-right"></i>
+  
+  
+  
+            Search for a node's first neighbors</h4>
+          <div id="cover" class="node-search-box autocompete-append-searchNeighbors">
+    
+              <div class="tb">
+                <div class="td"><input type="text" placeholder="SEARCH" autocomplete= "off" id="searchNeighbors"  required></div>
+                <div class="td" id="s-cover">
+                  <button type="submit" id="searchButton">
+                    
+                    <div id="s-circle"></div>
+                    
+                    <span></span>
+                  </button>
+                  
+                </div>
+              </div>
+        
+          </div></div>
+        <div id="path-form" class="sidebar-item">
+          <h4 class="form-child"><i class="fas fa-caret-right"></i>
+
+             Search for the shortest path between two nodes</h4>
+        <form >
+          <label for="firstnode" class="form-child"><i class="fas fa-circle-notch"></i>
+
+            First node:</label><br>
+          <div id="cover" class="autocomplete-append-firstNodePath">
+  
+            <div class="tb">
+              <div class="td"><input type="text" placeholder="Enter starting node.." name="firstnode" autocomplete= "off" id="first-node" class="form-child" required></div>
+             
+            </div>
+      
+        </div>
+          <label for="lastnode" class="form-child"><i class="fas fa-circle-notch"></i>
+
+            Last node:</label><br>
+          <div id="cover" class="autocomplete-append-lastNodePath">
+  
+            <div class="tb">
+              <div class="td"><input type="text" placeholder="Enter finishing node.." autocomplete= "off" name="lastnode" id="last-node" class="form-child" required></div>
+             
+            </div>
+      
+        </div>
+         
+        </form>
+        <button type="button" id="path-submit" class="path-submit form-child slider-button"><p class="path-p">Submit Path</p></button>
+        <div id="button-div">
+        <button type="button" id="show-drug-targets" class="show-drug-targets form-child slider-button"><p class="path-p">Show Drug Targets</p></button>
+        <button type="button" id="show-platelet-targets" class="show-platelet-targets form-child slider-button"><p class="path-p">Show Platelet-Related Targets</p></button></div>
+      </div>
+        
+      <div id="path-form" class="sidebar-item">
+        <h4 class="form-child"><i class="fas fa-caret-right"></i>
+
+           Search for the path between a source and a target node</h4>
+      <form >
+        <label for="sourcenode" class="form-child"><i class="fas fa-circle-notch"></i>
+
+          First node:</label><br>
+        <div id="cover" class="source-node-cover" >
+
+          <div class="tb">
+            <div class="td"><input type="text" placeholder="Enter source node.." name="sourcenode" autocomplete= "off" id="source-node" class="form-child" required></div>
+           
+          </div>
+    
+      </div>
+        <label for="targetnode" class="form-child"><i class="fas fa-circle-notch"></i>
+
+          Last node:</label><br>
+        <div id="cover" class="target-node-cover">
+
+          <div class="tb">
+            <div class="td"><input type="text" placeholder="Enter target node.." autocomplete= "off" name="targetnode" id="target-node" class="form-child" required></div>
+           
+          </div>
+    
+      </div>
+       
+      </form>
+      <button type="button" id="target-path-submit" class="path-submit form-child slider-button"><p class="path-p">Submit Path</p></button>
+    </div>
+          
+          
+          </div>
+         
+          </div>
+  </nav>
+
+ </div>
+<div id='cy' class="col-md-7"></div>
+</div>
+
+<script>
+
+
+  var json = $.getJSON('icu_data/ICU_merged.json')
+  .done(function(data){
+  var cy = cytoscape({
+    container: $('#cy'),
+  elements: data.elements,
+  style: fetch('icu_data/styles.json').then(res => res.json()).then(json => json.style),
+
+      layout: {
+        name: 'preset',
+        zoom: 0.4,
+        spacingFactor: 2,
+        pan: { x: 1000, y: 900 },
+      },
+      maxZoom: 0.25e1,                                                        
+      zoomingEnabled: true,
+      userZoomingEnabled: true,
+      panningEnabled: true,
+      userPanningEnabled: true,
+      boxSelectionEnabled: false,
+      selectionType: 'single',
+      touchTapThreshold: 8,
+      desktopTapThreshold: 4,
+      autolock: false,
+      autoungrabify: false,
+      autounselectify: false,
+      // Rendering options:
+      headless: false,                                                          // headless: outside the browser
+      styleEnabled: true,
+      hideEdgesOnViewport: false,
+      hideLabelsOnViewport: false,
+      textureOnViewport: false,
+      motionBlur: false,
+      motionBlurOpacity: 0.2,
+      pixelRatio: 'auto',
+      
+    }
+    );
+   
+
+//
+// ----------------- Show node details on click -----------------
+//
+
+    cy.on('click', 'node', function(node) {
+      var nodeId = node.target.id();
+      selectedNodeName = cy.$('#' +nodeId + '').data("name");
+      link1 = "https://www.genecards.org/cgi-bin/carddisp.pl?gene=" + selectedNodeName;
+				// just use the regular qtip api but on cy elements
+				cy.nodes().qtip({
+					content: function(){ return 'Node ID: ' + nodeId + '<br>' + 'Node Name: ' + selectedNodeName  + 
+         '<br><hr>' +
+           'Node on Genecards: <a href=' + link1 + ' target=”_blank”>Genecards </a>' + '<br>'},
+					position: {
+						my: 'top center',
+						at: 'bottom center'
+					},
+					style: {
+						classes: 'qtip-bootstrap',
+						tip: {
+							width: 16,
+							height: 8
+						}
+					}
+				});
+			});
+
+//
+// ----------------- Checkboxes ---------------
+//
+// 1. Critical Checkbox
+
+var checkbox_critical = document.querySelector("#critical_box");
+
+checkbox_critical.addEventListener('change', function() {
+  if (this.checked) {
+    criticalNodes = cy.nodes('[classification = "critical"]');
+      criticalNodes.addClass('critical-nodes')
+      console.log('checcck')
+  } else {
+    criticalNodes.removeClass('critical-nodes');
+  }
+});
+
+// 2. Indispensable Checkbox
+var checkbox_indispensable = document.querySelector("#indispensable_box");
+
+checkbox_indispensable.addEventListener('change', function() {
+  if (this.checked) {
+    indispensableNodes = cy.nodes('[classification = "indispensable"]');
+    indispensableNodes.addClass('indispensable-nodes')
+      console.log('checcck')
+  } else {
+    indispensableNodes.removeClass('indispensable-nodes');
+  }
+});
+
+// 3. Dual Checkbox
+var checkbox_dual = document.querySelector("#dual_box");
+
+checkbox_dual.addEventListener('change', function() {
+  if (this.checked) {
+    dualNodes = cy.nodes('[classification = "dual"]');
+    dualNodes.addClass('dual-nodes')
+      console.log('checcck')
+  } else {
+    dualNodes.removeClass('dual-nodes');
+  }
+});
+//
+// ----------------- Show drug target nodes after the corresponding button is clicked ---------------
+//
+    document.getElementById("show-drug-targets").addEventListener('click', showTargets);
+      let drugTarget;
+    function showTargets(){
+      drugTarget = cy.nodes('[target_original = "drug target"]');
+      drugTarget.addClass('drug-target')
+
+  
+    }
+//
+// ----------------- Show platelet target nodes after the corresponding button is clicked ---------------
+//
+document.getElementById("show-platelet-targets").addEventListener('click', showPlateletTargets);
+    function showPlateletTargets(){
+      const plateletTargets = ["GATA1","GNA15","GP1BB","TIMP1","PRKAR1B","ALDOA","HSPB1","PDGFA","TBXA2R","SELP","CD40","ITGA2B","CD63","HPSE"];
+      for (const element of plateletTargets) {
+        if (cy.nodes('node[name = "'+element+'"]')) {
+          currentNode = cy.nodes('node[name = "'+element+'"]');
+          currentNode.addClass('platelet-target-selector');
+  
+}
+}
+
+  
+    }
+
+
+  
+// ----------------- Finding the shortest past between two nodes -----------------
+let first_node_input;
+let last_node_input;
+    document.getElementById("path-submit").addEventListener('click', pathSearch);
+    function pathSearch(){
+      first_node_input = document.getElementById('first-node').value;
+      last_node_input = document.getElementById('last-node').value;
+      first_node_input=first_node_input.toUpperCase();
+      last_node_input=last_node_input.toUpperCase();
+      let first_node_id = cy.nodes('node[name = "'+first_node_input+'"]').data("id");
+      let last_node_id = cy.nodes('node[name = "'+last_node_input+'"]').data("id") 
+      first_node_id = "#" + first_node_id;
+      last_node_id = "#" + last_node_id;
+      console.log(first_node_id);
+      var dfs = cy.elements().aStar({
+  root: first_node_id,
+  goal: last_node_id,
+  directed: false
+})
+dfs.path.addClass('shortest_path')
+console.log(dfs.distance);
+document.getElementById('first-node').value='';
+document.getElementById('last-node').value='';
+
+    }
+
+// ----------------- Finding the path between source and target nodes -----------------
+let source_node_input;
+let target_node_input;
+    document.getElementById("target-path-submit").addEventListener('click', targetPathSearch);
+
+    function targetPathSearch(){
+      source_node_input = document.getElementById('source-node').value;
+      target_node_input = document.getElementById('target-node').value;
+      source_node_input=source_node_input.toUpperCase();
+      target_node_input=target_node_input.toUpperCase();
+      let source_node_id = cy.nodes('node[name = "'+source_node_input+'"]').data("id");
+      let target_node_id = cy.nodes('node[name = "'+target_node_input+'"]').data("id") 
+      source_node_id = "#" + source_node_id;
+      target_node_id = "#" + target_node_id;
+      console.log(source_node_id);
+      var dfs1 = cy.elements().aStar({
+  root: source_node_id,
+  goal: target_node_id,
+  directed: true
+})
+dfs1.path.addClass('shortest_path')
+console.log(dfs1.distance);
+document.getElementById('source-node').value='';
+document.getElementById('target-node').value='';
+
+    }
+
+
+//
+// ----------------- Focusing on input and its first neighbors with the search bar -----------------
+//
+//declaring input as a variable
+let input;
+//adding event listener to the search bar enter
+  document.getElementById("searchNeighbors").addEventListener('change', searchNeighborsFunction);
+//declaring function
+function searchNeighborsFunction(){
+  input = document.getElementById('searchNeighbors').value;  //declaring the value of the input
+  input=input.toUpperCase(); //input to upper case
+  let nodeId = cy.nodes('node[name = "'+input+'"]').data("id")  //getting the id of the node based on the display name
+
+   // add all successors (nodes and edges) to a collection
+   var neighborNodes = cy.nodes('[id="'+nodeId+'"]').neighborhood();   
+
+
+   //select the node
+  selectedNode =  cy.getElementById(nodeId);
+
+
+// add clicked node to collection
+neighborNodes = neighborNodes.add(selectedNode);  
+
+// add other nodes to other collection
+var others = cy.elements().not(neighborNodes);  
+
+//cy.remove() returns the deleted nodes and edges, so that you can just do cy.add() afterwards
+referenceNodes = cy.remove(others);  
+
+// just call a new layout
+cy.elements().makeLayout({'name': 'preset'}).run();  
+cy.center(selectedNode);
+cy.fit();
+
+document.getElementById('searchNeighbors').value='';
+
+
+}
+
+
+
+//
+// ----------------- Focusing on node with the search bar -----------------
+//
+
+let inputSearch;
+document.getElementById("searchNodes").addEventListener('change', searchFunction);
+//declaring function
+function searchFunction(){
+  inputSearch = document.getElementById('searchNodes').value;  //declaring the value of the input
+  inputSearch=inputSearch.toUpperCase(); //input to upper case
+  let nodeSearchId = cy.nodes('node[name = "'+inputSearch+'"]').data("id")  //getting the id of the node based on the display name
+
+   //select the node
+  selectedNode =  cy.getElementById(nodeSearchId);
+  nodeSearchId = '#' + nodeSearchId;
+  console.log(nodeSearchId)
+  cy.$(nodeSearchId).addClass('node_searched');
+  cy.fit( cy.$(nodeSearchId), 50 );
+
+  document.getElementById('searchNodes').value='';
+
+
+}
+
+
+//
+//Reset button function
+//
+
+$('button.reset')
+  .on("click", function() {
+    cy.elements().remove();
+    cy.add(data.elements);
+    cy.center();
+    cy.fit();
+;
+            
+});
+
+//
+// Panzoom plugin
+//
+cy.panzoom({
+	// options here...
+});
+
+function pageLoad(){
+  document.getElementById('resetButton').click();
+
+};
+$(document).ready(function(){
+      setTimeout(pageLoad,2); });
+
+
+  });
+  
+</script>
+
+<script>$(document).ready(function () {
+  $('#sidebarCollapse').on('click', function () {
+      $('#sidebar').toggleClass('active');
+      $(this).toggleClass('active');
+  });
+});
+
+</script>
+<script>
+  //SCRIPT FOR MAKING CYTOSCAPE THE SAME HEIGHT AS THE SIDEBAR
+let divElementTwo = document.getElementById("cy");
+
+var wrapperHeight = $("#wrapperID").height();
+var cyHeight = $("#cy").height();
+wrapperHeight = wrapperHeight - 20;
+wrapperHeightString= wrapperHeight.toString();
+newHeight = wrapperHeightString + "px";
+if (cyHeight < wrapperHeight){
+  divElementTwo.style.height = newHeight;
+}
+var cyNew = $("#cy").height();
+
+</script>
+</BODY>
+</HTML>
+

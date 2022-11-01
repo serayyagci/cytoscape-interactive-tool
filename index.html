@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<HTML  lang="en-us">
+
+<HEAD>
+  <link rel="stylesheet" href="style.css">
+  <link href="font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="jqueryUI.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" href="favicon.png">
+
+
+
+<meta charset="utf-8" />
+<meta name="keywords" content="cytoscape, cytoscape.js, javascript, jquery">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<title>ICU Network</title>
+
+<style>
+body{
+    background: url(./images/index-background.jpg) no-repeat fixed center ;
+    background-size: cover;
+    overflow: hidden;
+}
+.index-button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items:center;
+    height: 100vh;
+}
+#resetButton{
+    width: 200px!important;
+    height: 150px;
+    right: 20%;
+    font-size: 16px;
+}
+p{
+    user-select: none;
+}
+</style>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.9.0/cytoscape.min.js'></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/4f450ce68d.js" crossorigin="anonymous"></script>
+
+</HEAD>
+<body>
+    <div class="index-button-container">
+    <button onclick="location.href='icu.html'" class="reset" id="resetButton" class="slider-button index-buttons"><p class="reset-p">ICU Network</p></button>
+    <button  onclick="location.href='nonicu.html'" class="reset" id="resetButton" class="slider-button index-buttons"><p class="reset-p">non-ICU Network</p></button>
+</div>
+
+</body>
+</HTML>

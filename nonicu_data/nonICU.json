@@ -1,0 +1,3819 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Merged Network",
+    "name" : "nonICU_net_for_simulation",
+    "SUID" : 51,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "121",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "E2F1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 1.223263745,
+        "target_original" : "",
+        "shared_name" : "E2F1",
+        "monolinks" : "",
+        "name" : "E2F1",
+        "SUID" : 121,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -8.699900007864926,
+        "y" : -408.158470871218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "RELA" ],
+        "classification" : "dual",
+        "log2FoldChange" : 0.862539937,
+        "target_original" : "drug target",
+        "shared_name" : "RELA",
+        "monolinks" : "",
+        "name" : "RELA",
+        "SUID" : 120,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -388.4268781991268,
+        "y" : 319.65157066166284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TP53" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "TP53",
+        "monolinks" : "",
+        "name" : "TP53",
+        "SUID" : 119,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -8.699900007864926,
+        "y" : 66.50025186763378
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TIMP1" ],
+        "classification" : "",
+        "log2FoldChange" : 1.467590496,
+        "target_original" : "",
+        "shared_name" : "TIMP1",
+        "monolinks" : "",
+        "name" : "TIMP1",
+        "SUID" : 118,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -562.4684098699363,
+        "y" : 525.3370171818824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "SPI1" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "SPI1",
+        "monolinks" : "",
+        "name" : "SPI1",
+        "SUID" : 117,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 70.40988711526734,
+        "y" : -455.6243431450275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TBXA2R" ],
+        "classification" : "",
+        "log2FoldChange" : 1.090615147,
+        "target_original" : "",
+        "shared_name" : "TBXA2R",
+        "monolinks" : "",
+        "name" : "TBXA2R",
+        "SUID" : 116,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 687.4662266757805,
+        "y" : -329.04868374799844
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "GATA1" ],
+        "classification" : "indispensable",
+        "log2FoldChange" : 1.622055525,
+        "target_original" : "",
+        "shared_name" : "GATA1",
+        "monolinks" : "",
+        "name" : "GATA1",
+        "SUID" : 115,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 181.16358908757684,
+        "y" : -455.6243431450275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "RAC1" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "RAC1",
+        "monolinks" : "",
+        "name" : "RAC1",
+        "SUID" : 114,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -261.8512188020395,
+        "y" : 145.61003899079515
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "ITGB1" ],
+        "classification" : "critical",
+        "log2FoldChange" : -1.12751826,
+        "target_original" : "",
+        "shared_name" : "ITGB1",
+        "monolinks" : "",
+        "name" : "ITGB1",
+        "SUID" : 113,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1399.454310784029,
+        "y" : -218.29498177551432
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "RHOA" ],
+        "classification" : "dual",
+        "target_original" : "",
+        "shared_name" : "RHOA",
+        "monolinks" : "",
+        "name" : "RHOA",
+        "SUID" : 112,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1494.3860553317936,
+        "y" : -803.7074064868502
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PRKAR1B" ],
+        "classification" : "",
+        "log2FoldChange" : 0.910508547,
+        "target_original" : "",
+        "shared_name" : "PRKAR1B",
+        "monolinks" : "",
+        "name" : "PRKAR1B",
+        "SUID" : 111,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1304.5225662361481,
+        "y" : -218.29498177551432
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PDGFA" ],
+        "classification" : "",
+        "log2FoldChange" : 0.942711675,
+        "target_original" : "",
+        "shared_name" : "PDGFA",
+        "monolinks" : "",
+        "name" : "PDGFA",
+        "SUID" : 110,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1494.3860553317936,
+        "y" : 683.556591428176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "HSPB1" ],
+        "classification" : "",
+        "log2FoldChange" : 1.73949889,
+        "target_original" : "",
+        "shared_name" : "HSPB1",
+        "monolinks" : "",
+        "name" : "HSPB1",
+        "SUID" : 109,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1146.302991989971,
+        "y" : 161.43199641554384
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "STAT3" ],
+        "classification" : "dual",
+        "log2FoldChange" : -0.92639359,
+        "target_original" : "",
+        "shared_name" : "STAT3",
+        "monolinks" : "",
+        "name" : "STAT3",
+        "SUID" : 108,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 576.71252470318,
+        "y" : 208.89786868938245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "HPSE" ],
+        "classification" : "",
+        "log2FoldChange" : 1.700878247,
+        "target_original" : "",
+        "shared_name" : "HPSE",
+        "monolinks" : "",
+        "name" : "HPSE",
+        "SUID" : 107,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -483.3586227467458,
+        "y" : 414.5833152095438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PRKACA" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "PRKACA",
+        "monolinks" : "",
+        "name" : "PRKACA",
+        "SUID" : 106,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1257.0566939623677,
+        "y" : -265.76085404944024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "AKT1" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "AKT1",
+        "monolinks" : "",
+        "name" : "AKT1",
+        "SUID" : 105,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 181.16358908757684,
+        "y" : -645.4878322406439
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "GNA15" ],
+        "classification" : "",
+        "log2FoldChange" : 1.086074854,
+        "target_original" : "",
+        "shared_name" : "GNA15",
+        "monolinks" : "",
+        "name" : "GNA15",
+        "SUID" : 104,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1257.0566939623677,
+        "y" : -772.0634916376439
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "SP1" ],
+        "classification" : "dual",
+        "target_original" : "",
+        "shared_name" : "SP1",
+        "monolinks" : "",
+        "name" : "SP1",
+        "SUID" : 103,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 497.6027375801932,
+        "y" : -281.5828114741598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "ALDOA" ],
+        "classification" : "",
+        "log2FoldChange" : 0.648253567,
+        "target_original" : "",
+        "shared_name" : "ALDOA",
+        "monolinks" : "",
+        "name" : "ALDOA",
+        "SUID" : 102,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 576.71252470318,
+        "y" : -186.65106692636618
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TNF" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "TNF",
+        "monolinks" : "",
+        "name" : "TNF",
+        "SUID" : 101,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 766.5760137988254,
+        "y" : -550.5560876927921
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK3" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "MAPK3",
+        "monolinks" : "",
+        "name" : "MAPK3",
+        "SUID" : 100,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 845.6858009219577,
+        "y" : -123.3632372278662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK14" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "MAPK14",
+        "monolinks" : "",
+        "name" : "MAPK14",
+        "SUID" : 99,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -71.98772970651044,
+        "y" : 145.61003899079515
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TXN" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "TXN",
+        "monolinks" : "",
+        "name" : "TXN",
+        "SUID" : 98,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 497.6027375801932,
+        "y" : -376.51455602195347
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TGFB1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "TGFB1",
+        "monolinks" : "",
+        "name" : "TGFB1",
+        "SUID" : 97,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -704.8660266916268,
+        "y" : 746.8444211267051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "SMAD3" ],
+        "classification" : "indispensable",
+        "log2FoldChange" : 1.134740887,
+        "target_original" : "",
+        "shared_name" : "SMAD3",
+        "monolinks" : "",
+        "name" : "SMAD3",
+        "SUID" : 96,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -562.4684098699363,
+        "y" : 699.3785488528956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "WT1" ],
+        "classification" : "dual",
+        "target_original" : "",
+        "shared_name" : "WT1",
+        "monolinks" : "",
+        "name" : "WT1",
+        "SUID" : 95,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1494.3860553317936,
+        "y" : 746.8444211267051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "HIF1A" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "HIF1A",
+        "monolinks" : "",
+        "name" : "HIF1A",
+        "SUID" : 94,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 576.71252470318,
+        "y" : -123.3632372278662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "SRC" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "SRC",
+        "monolinks" : "",
+        "name" : "SRC",
+        "SUID" : 93,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 671.64426925109,
+        "y" : 272.18569838788244
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PPP2CA" ],
+        "classification" : "",
+        "log2FoldChange" : 0.962745348,
+        "target_original" : "",
+        "shared_name" : "PPP2CA",
+        "monolinks" : "",
+        "name" : "PPP2CA",
+        "SUID" : 92,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 497.6027375801932,
+        "y" : 588.6248468804406
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "MAPK1",
+        "monolinks" : "",
+        "name" : "MAPK1",
+        "SUID" : 91,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 576.71252470318,
+        "y" : -28.43149268013076
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "NR3C1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "NR3C1",
+        "monolinks" : "",
+        "name" : "NR3C1",
+        "SUID" : 90,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -1052.9490900334786,
+        "y" : 319.65157066166284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "STAT1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 1.466482022,
+        "target_original" : "",
+        "shared_name" : "STAT1",
+        "monolinks" : "",
+        "name" : "STAT1",
+        "SUID" : 89,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -958.0173454856267,
+        "y" : 319.65157066166284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PPARG" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "PPARG",
+        "monolinks" : "",
+        "name" : "PPARG",
+        "SUID" : 88,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -1147.8808345811267,
+        "y" : 319.65157066166284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PIM1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 2.123420825,
+        "target_original" : "drug target",
+        "shared_name" : "PIM1",
+        "monolinks" : "",
+        "name" : "PIM1",
+        "SUID" : 87,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -768.1538563900976,
+        "y" : 319.65157066166284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PRKCD" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "PRKCD",
+        "monolinks" : "",
+        "name" : "PRKCD",
+        "SUID" : 86,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1494.3860553317936,
+        "y" : -882.8171936099534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "EIF2AK2" ],
+        "classification" : "indispensable",
+        "log2FoldChange" : 2.096019522,
+        "target_original" : "",
+        "shared_name" : "EIF2AK2",
+        "monolinks" : "",
+        "name" : "EIF2AK2",
+        "SUID" : 85,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -958.0173454856267,
+        "y" : -882.8171936099534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "IRF9" ],
+        "classification" : "",
+        "log2FoldChange" : 1.479705815,
+        "target_original" : "",
+        "shared_name" : "IRF9",
+        "monolinks" : "",
+        "name" : "IRF9",
+        "SUID" : 84,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -958.0173454856267,
+        "y" : 1031.6396547700278
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "FOS" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "FOS",
+        "monolinks" : "",
+        "name" : "FOS",
+        "SUID" : 83,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -562.4684098699363,
+        "y" : 1031.6396547700278
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "ESR1" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "ESR1",
+        "monolinks" : "",
+        "name" : "ESR1",
+        "SUID" : 82,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -562.4684098699363,
+        "y" : 968.351825071557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "NFKB1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "NFKB1",
+        "monolinks" : "",
+        "name" : "NFKB1",
+        "SUID" : 81,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -562.4684098699363,
+        "y" : 462.0491874834115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MYC" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "MYC",
+        "monolinks" : "",
+        "name" : "MYC",
+        "SUID" : 80,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 402.67099303234136,
+        "y" : -170.8291095016757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CREBBP" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "CREBBP",
+        "monolinks" : "",
+        "name" : "CREBBP",
+        "SUID" : 79,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 402.67099303234136,
+        "y" : -408.158470871218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "GAPDH" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "GAPDH",
+        "monolinks" : "",
+        "name" : "GAPDH",
+        "SUID" : 78,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 402.67099303234136,
+        "y" : -234.1169392002339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CSK" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "CSK",
+        "monolinks" : "",
+        "name" : "CSK",
+        "SUID" : 77,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 624.1783969772223,
+        "y" : -408.158470871218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK8" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "MAPK8",
+        "monolinks" : "",
+        "name" : "MAPK8",
+        "SUID" : 76,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 671.64426925109,
+        "y" : 208.89786868938245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "JAK2" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "JAK2",
+        "monolinks" : "",
+        "name" : "JAK2",
+        "SUID" : 75,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1083.0151622913254,
+        "y" : 113.96612414161791
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "JAK3" ],
+        "classification" : "indispensable",
+        "log2FoldChange" : 3.202622632,
+        "target_original" : "",
+        "shared_name" : "JAK3",
+        "monolinks" : "",
+        "name" : "JAK3",
+        "SUID" : 74,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1177.9469068391772,
+        "y" : 113.96612414161791
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "FYN" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "FYN",
+        "monolinks" : "",
+        "name" : "FYN",
+        "SUID" : 73,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -166.91947425424587,
+        "y" : 145.61003899079515
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "GATA2" ],
+        "classification" : "critical",
+        "target_original" : "",
+        "shared_name" : "GATA2",
+        "monolinks" : "",
+        "name" : "GATA2",
+        "SUID" : 72,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 117.87575938898954,
+        "y" : 19.03437959376606
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PIN1" ],
+        "classification" : "",
+        "target_original" : "",
+        "shared_name" : "PIN1",
+        "monolinks" : "",
+        "name" : "PIN1",
+        "SUID" : 71,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -704.8660266916268,
+        "y" : 810.1322508252342
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "DAPK1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "DAPK1",
+        "monolinks" : "",
+        "name" : "DAPK1",
+        "SUID" : 70,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -609.9342821439204,
+        "y" : 810.1322508252342
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CTNNB1" ],
+        "classification" : "indispensable",
+        "target_original" : "",
+        "shared_name" : "CTNNB1",
+        "monolinks" : "",
+        "name" : "CTNNB1",
+        "SUID" : 69,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -704.8660266916268,
+        "y" : 873.4200805237051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CSNK2A1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 0.876488079,
+        "target_original" : "drug target",
+        "shared_name" : "CSNK2A1",
+        "monolinks" : "",
+        "name" : "CSNK2A1",
+        "SUID" : 68,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 829.8638434973545,
+        "y" : -692.9537045144243
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TRIM28" ],
+        "classification" : "indispensable",
+        "log2FoldChange" : 1.485577868,
+        "target_original" : "",
+        "shared_name" : "TRIM28",
+        "monolinks" : "",
+        "name" : "TRIM28",
+        "SUID" : 67,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 924.7955880451482,
+        "y" : 82.32220929232426
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "HDAC3" ],
+        "classification" : "",
+        "log2FoldChange" : 1.256537132,
+        "target_original" : "",
+        "shared_name" : "HDAC3",
+        "monolinks" : "",
+        "name" : "HDAC3",
+        "SUID" : 66,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 924.7955880451482,
+        "y" : 19.03437959376606
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CREB1" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "CREB1",
+        "monolinks" : "",
+        "name" : "CREB1",
+        "SUID" : 65,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 497.6027375801932,
+        "y" : 699.3785488528956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CDK2" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "CDK2",
+        "monolinks" : "",
+        "name" : "CDK2",
+        "SUID" : 64,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -1021.3051751841849,
+        "y" : -455.6243431450275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "KDR" ],
+        "classification" : "",
+        "log2FoldChange" : -2.031089211,
+        "target_original" : "",
+        "shared_name" : "KDR",
+        "monolinks" : "",
+        "name" : "KDR",
+        "SUID" : 63,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -8.699900007864926,
+        "y" : -503.09021541892434
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "IRF3" ],
+        "classification" : "",
+        "log2FoldChange" : 1.269703049,
+        "target_original" : "",
+        "shared_name" : "IRF3",
+        "monolinks" : "",
+        "name" : "IRF3",
+        "SUID" : 62,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 307.73924848469323,
+        "y" : -408.158470871218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "61",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "AR" ],
+        "classification" : "dual",
+        "target_original" : "drug target",
+        "shared_name" : "AR",
+        "monolinks" : "",
+        "name" : "AR",
+        "SUID" : 61,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -878.9075583624654,
+        "y" : 873.4200805237051
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "247",
+        "source" : "121",
+        "target" : "120",
+        "path_rank_121" : 1,
+        "path_rank_123" : 1,
+        "path_rank_127" : 1,
+        "shared_name" : "E2F1 (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.134387728,
+        "path_rank_82" : 1,
+        "selected" : false,
+        "weight" : 7.441155638854166,
+        "name" : "E2F1 (activation) RELA",
+        "path_rank_76" : 1,
+        "path_rank_78" : 1,
+        "SUID" : 247,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "121",
+        "target" : "117",
+        "path_rank_126" : 1,
+        "path_rank_119" : 1,
+        "shared_name" : "E2F1 (inhibition) SPI1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.232658793,
+        "path_rank_81" : 1,
+        "selected" : false,
+        "weight" : 4.298139722576486,
+        "path_rank_74" : 1,
+        "name" : "E2F1 (inhibition) SPI1",
+        "SUID" : 246,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "121",
+        "target" : "63",
+        "path_rank_120" : 1,
+        "path_rank_122" : 1,
+        "shared_name" : "E2F1 (activation) KDR",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.298906072,
+        "selected" : false,
+        "weight" : 3.345532572519972,
+        "name" : "E2F1 (activation) KDR",
+        "SUID" : 245,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "121",
+        "target" : "62",
+        "path_rank_125" : 1,
+        "shared_name" : "E2F1 (inhibition) IRF3",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.126559314,
+        "selected" : false,
+        "weight" : 7.9014334733198694,
+        "name" : "E2F1 (inhibition) IRF3",
+        "SUID" : 244,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "120",
+        "target" : "118",
+        "path_rank_121" : 1,
+        "path_rank_40" : 1,
+        "path_rank_49" : 1,
+        "path_rank_130" : 1,
+        "path_rank_139" : 1,
+        "path_rank_30" : 1,
+        "path_rank_103" : 1,
+        "shared_name" : "RELA (inhibition) TIMP1",
+        "path_rank_112" : 1,
+        "path_rank_94" : 1,
+        "shared_interaction" : "inhibition",
+        "path_rank_168" : 1,
+        "Edge_weight_nonICU" : 0.132683921,
+        "selected" : false,
+        "path_rank_3" : 1,
+        "weight" : 7.536708234602141,
+        "name" : "RELA (inhibition) TIMP1",
+        "path_rank_76" : 1,
+        "SUID" : 243,
+        "path_rank_150" : 1,
+        "path_rank_159" : 1,
+        "interaction" : "inhibition",
+        "path_rank_58" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "120",
+        "target" : "107",
+        "path_rank_127" : 1,
+        "path_rank_46" : 1,
+        "path_rank_136" : 1,
+        "path_rank_37" : 1,
+        "path_rank_36" : 1,
+        "path_rank_18" : 1,
+        "path_rank_184" : 1,
+        "path_rank_100" : 1,
+        "shared_name" : "RELA (activation) HPSE",
+        "path_rank_27" : 1,
+        "path_rank_118" : 1,
+        "path_rank_109" : 1,
+        "path_rank_91" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_165" : 1,
+        "Edge_weight_nonICU" : 0.15082753,
+        "path_rank_82" : 1,
+        "path_rank_9" : 1,
+        "selected" : false,
+        "path_rank_174" : 1,
+        "weight" : 6.6300893477470595,
+        "name" : "RELA (activation) HPSE",
+        "path_rank_147" : 1,
+        "path_rank_146" : 1,
+        "path_rank_64" : 1,
+        "SUID" : 242,
+        "path_rank_156" : 1,
+        "interaction" : "activation",
+        "path_rank_55" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "120",
+        "target" : "103",
+        "path_rank_123" : 1,
+        "path_rank_42" : 1,
+        "path_rank_45" : 1,
+        "path_rank_132" : 1,
+        "path_rank_32" : 1,
+        "path_rank_35" : 1,
+        "path_rank_105" : 1,
+        "shared_name" : "RELA (activation) SP1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.303425223,
+        "selected" : false,
+        "path_rank_170" : 1,
+        "path_rank_173" : 1,
+        "weight" : 3.2957049190337084,
+        "name" : "RELA (activation) SP1",
+        "path_rank_78" : 1,
+        "path_rank_141" : 1,
+        "path_rank_145" : 1,
+        "path_rank_69" : 1,
+        "SUID" : 241,
+        "path_rank_152" : 1,
+        "path_rank_51" : 1,
+        "interaction" : "activation",
+        "path_rank_54" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "120",
+        "target" : "97",
+        "path_rank_48" : 1,
+        "path_rank_47" : 1,
+        "path_rank_29" : 1,
+        "path_rank_138" : 1,
+        "path_rank_137" : 1,
+        "path_rank_39" : 1,
+        "path_rank_38" : 1,
+        "shared_name" : "RELA (activation) TGFB1",
+        "path_rank_28" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_167" : 1,
+        "path_rank_166" : 1,
+        "path_rank_169" : 1,
+        "Edge_weight_nonICU" : 0.200397061,
+        "path_rank_84" : 1,
+        "selected" : false,
+        "path_rank_172" : 1,
+        "path_rank_171" : 1,
+        "weight" : 4.990093143132474,
+        "name" : "RELA (activation) TGFB1",
+        "path_rank_140" : 1,
+        "path_rank_143" : 1,
+        "path_rank_142" : 1,
+        "path_rank_144" : 1,
+        "SUID" : 240,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "119",
+        "target" : "121",
+        "shared_name" : "TP53 (inhibition) E2F1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.273806188,
+        "path_rank_82" : 1,
+        "path_rank_81" : 1,
+        "selected" : false,
+        "weight" : 3.652218407861549,
+        "path_rank_74" : 1,
+        "name" : "TP53 (inhibition) E2F1",
+        "path_rank_76" : 1,
+        "path_rank_78" : 1,
+        "SUID" : 239,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "119",
+        "target" : "114",
+        "shared_name" : "TP53 (inhibition) RAC1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.443898932,
+        "path_rank_80" : 1,
+        "selected" : false,
+        "weight" : 2.2527650505813788,
+        "path_rank_75" : 1,
+        "name" : "TP53 (inhibition) RAC1",
+        "path_rank_77" : 1,
+        "SUID" : 238,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "119",
+        "target" : "108",
+        "shared_name" : "TP53 (inhibition) STAT3",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.605356362,
+        "selected" : false,
+        "weight" : 1.6519195349598061,
+        "name" : "TP53 (inhibition) STAT3",
+        "path_rank_79" : 1,
+        "SUID" : 237,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "117",
+        "target" : "115",
+        "path_rank_126" : 1,
+        "path_rank_119" : 1,
+        "shared_name" : "SPI1 (activation) GATA1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.216570716,
+        "path_rank_81" : 1,
+        "selected" : false,
+        "weight" : 4.617429440460454,
+        "path_rank_74" : 1,
+        "name" : "SPI1 (activation) GATA1",
+        "SUID" : 236,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "115",
+        "target" : "116",
+        "path_rank_126" : 1,
+        "path_rank_183" : 1,
+        "shared_name" : "GATA1 (activation) TBXA2R",
+        "path_rank_117" : 1,
+        "path_rank_108" : 1,
+        "path_rank_17" : 1,
+        "path_rank_99" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_164" : 1,
+        "Edge_weight_nonICU" : 0.099062125,
+        "path_rank_81" : 1,
+        "selected" : false,
+        "path_rank_8" : 1,
+        "weight" : 10.094675437257175,
+        "path_rank_72" : 1,
+        "name" : "GATA1 (activation) TBXA2R",
+        "path_rank_63" : 1,
+        "SUID" : 235,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "114",
+        "target" : "112",
+        "shared_name" : "RAC1 (inhibition) RHOA",
+        "path_rank_113" : 1,
+        "path_rank_116" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.239381376,
+        "path_rank_80" : 1,
+        "selected" : false,
+        "weight" : 4.177434421631864,
+        "name" : "RAC1 (inhibition) RHOA",
+        "path_rank_77" : 1,
+        "SUID" : 234,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "114",
+        "target" : "105",
+        "shared_name" : "RAC1 (activation) AKT1",
+        "path_rank_111" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.2443475,
+        "selected" : false,
+        "weight" : 4.0925321519557185,
+        "path_rank_75" : 1,
+        "name" : "RAC1 (activation) AKT1",
+        "SUID" : 233,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "114",
+        "target" : "120",
+        "shared_name" : "RAC1 (activation) RELA",
+        "path_rank_112" : 1,
+        "path_rank_118" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.217871514,
+        "selected" : false,
+        "weight" : 4.5898611600964045,
+        "name" : "RAC1 (activation) RELA",
+        "SUID" : 232,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "source" : "114",
+        "target" : "108",
+        "shared_name" : "RAC1 (activation) STAT3",
+        "path_rank_115" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.316765926,
+        "selected" : false,
+        "weight" : 3.1569052032446194,
+        "name" : "RAC1 (activation) STAT3",
+        "SUID" : 231,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "114",
+        "target" : "94",
+        "shared_name" : "RAC1 (activation) HIF1A",
+        "path_rank_114" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.308383505,
+        "selected" : false,
+        "weight" : 3.2427155920677406,
+        "name" : "RAC1 (activation) HIF1A",
+        "SUID" : 230,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "113",
+        "target" : "111",
+        "path_rank_122" : 1,
+        "path_rank_41" : 1,
+        "path_rank_131" : 1,
+        "path_rank_31" : 1,
+        "path_rank_104" : 1,
+        "shared_name" : "ITGB1 (activation) PRKAR1B",
+        "path_rank_22" : 1,
+        "path_rank_113" : 1,
+        "path_rank_95" : 1,
+        "path_rank_13" : 1,
+        "path_rank_160" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_169" : 1,
+        "Edge_weight_nonICU" : 0.250378362,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_4" : 1,
+        "path_rank_177" : 1,
+        "weight" : 3.993955356253988,
+        "path_rank_179" : 1,
+        "name" : "ITGB1 (activation) PRKAR1B",
+        "path_rank_77" : 1,
+        "path_rank_140" : 1,
+        "SUID" : 229,
+        "path_rank_68" : 1,
+        "path_rank_151" : 1,
+        "path_rank_50" : 1,
+        "interaction" : "activation",
+        "path_rank_59" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "112",
+        "target" : "113",
+        "path_rank_41" : 1,
+        "path_rank_31" : 1,
+        "path_rank_104" : 1,
+        "shared_name" : "RHOA (activation) ITGB1",
+        "path_rank_113" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.337949008,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_4" : 1,
+        "path_rank_177" : 1,
+        "weight" : 2.9590262919191646,
+        "path_rank_179" : 1,
+        "name" : "RHOA (activation) ITGB1",
+        "path_rank_77" : 1,
+        "SUID" : 228,
+        "path_rank_50" : 1,
+        "interaction" : "activation",
+        "path_rank_59" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "112",
+        "target" : "110",
+        "path_rank_125" : 1,
+        "path_rank_44" : 1,
+        "path_rank_134" : 1,
+        "path_rank_34" : 1,
+        "path_rank_182" : 1,
+        "path_rank_107" : 1,
+        "shared_name" : "RHOA (inhibition) PDGFA",
+        "path_rank_25" : 1,
+        "path_rank_116" : 1,
+        "path_rank_98" : 1,
+        "shared_interaction" : "inhibition",
+        "path_rank_163" : 1,
+        "Edge_weight_nonICU" : 0.20335024,
+        "path_rank_80" : 1,
+        "selected" : false,
+        "path_rank_89" : 1,
+        "path_rank_7" : 1,
+        "weight" : 4.917623898550599,
+        "name" : "RHOA (inhibition) PDGFA",
+        "path_rank_62" : 1,
+        "SUID" : 227,
+        "path_rank_154" : 1,
+        "path_rank_53" : 1,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "source" : "108",
+        "target" : "109",
+        "path_rank_133" : 1,
+        "path_rank_181" : 1,
+        "path_rank_106" : 1,
+        "shared_name" : "STAT3 (activation) HSPB1",
+        "path_rank_24" : 1,
+        "path_rank_115" : 1,
+        "path_rank_97" : 1,
+        "path_rank_15" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_162" : 1,
+        "Edge_weight_nonICU" : 0.164216323,
+        "selected" : false,
+        "path_rank_171" : 1,
+        "path_rank_6" : 1,
+        "weight" : 6.089528627431269,
+        "path_rank_70" : 1,
+        "name" : "STAT3 (activation) HSPB1",
+        "path_rank_79" : 1,
+        "path_rank_142" : 1,
+        "path_rank_61" : 1,
+        "SUID" : 226,
+        "path_rank_153" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "108",
+        "target" : "115",
+        "path_rank_128" : 1,
+        "shared_name" : "STAT3 (inhibition) GATA1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.181877041,
+        "selected" : false,
+        "weight" : 5.498220085953565,
+        "name" : "STAT3 (inhibition) GATA1",
+        "SUID" : 225,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "106",
+        "target" : "104",
+        "path_rank_120" : 1,
+        "path_rank_129" : 1,
+        "path_rank_48" : 1,
+        "path_rank_29" : 1,
+        "path_rank_138" : 1,
+        "path_rank_39" : 1,
+        "path_rank_102" : 1,
+        "shared_name" : "PRKACA (activation) GNA15",
+        "path_rank_20" : 1,
+        "path_rank_111" : 1,
+        "path_rank_93" : 1,
+        "path_rank_11" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_167" : 1,
+        "Edge_weight_nonICU" : 0.166141375,
+        "path_rank_84" : 1,
+        "selected" : false,
+        "path_rank_2" : 1,
+        "path_rank_176" : 1,
+        "weight" : 6.018970289610279,
+        "path_rank_75" : 1,
+        "name" : "PRKACA (activation) GNA15",
+        "path_rank_149" : 1,
+        "SUID" : 224,
+        "path_rank_66" : 1,
+        "path_rank_158" : 1,
+        "interaction" : "activation",
+        "path_rank_57" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "106",
+        "target" : "113",
+        "path_rank_122" : 1,
+        "path_rank_131" : 1,
+        "shared_name" : "PRKACA (activation) ITGB1",
+        "path_rank_22" : 1,
+        "path_rank_95" : 1,
+        "path_rank_13" : 1,
+        "path_rank_160" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_169" : 1,
+        "Edge_weight_nonICU" : 0.332639716,
+        "selected" : false,
+        "weight" : 3.006255572921425,
+        "name" : "PRKACA (activation) ITGB1",
+        "path_rank_140" : 1,
+        "SUID" : 223,
+        "path_rank_68" : 1,
+        "path_rank_151" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "106",
+        "target" : "120",
+        "shared_name" : "PRKACA (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.221005096,
+        "selected" : false,
+        "weight" : 4.524782541665917,
+        "name" : "PRKACA (activation) RELA",
+        "path_rank_147" : 1,
+        "SUID" : 222,
+        "path_rank_150" : 1,
+        "path_rank_152" : 1,
+        "path_rank_156" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "106",
+        "target" : "116",
+        "path_rank_135" : 1,
+        "shared_name" : "PRKACA (inhibition) TBXA2R",
+        "path_rank_26" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.175012898,
+        "selected" : false,
+        "weight" : 5.713864586140389,
+        "name" : "PRKACA (inhibition) TBXA2R",
+        "SUID" : 221,
+        "path_rank_155" : 1,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "106",
+        "target" : "112",
+        "shared_name" : "PRKACA (activation) RHOA",
+        "path_rank_98" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.242824327,
+        "selected" : false,
+        "weight" : 4.118203527441466,
+        "name" : "PRKACA (activation) RHOA",
+        "SUID" : 220,
+        "path_rank_154" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "source" : "106",
+        "target" : "93",
+        "shared_name" : "PRKACA (activation) SRC",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.195025932,
+        "selected" : false,
+        "weight" : 5.127523246498317,
+        "name" : "PRKACA (activation) SRC",
+        "SUID" : 219,
+        "path_rank_153" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "106",
+        "target" : "91",
+        "shared_name" : "PRKACA (activation) MAPK1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.258066323,
+        "selected" : false,
+        "weight" : 3.874972868893087,
+        "name" : "PRKACA (activation) MAPK1",
+        "path_rank_148" : 1,
+        "SUID" : 218,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "105",
+        "target" : "106",
+        "path_rank_48" : 1,
+        "path_rank_29" : 1,
+        "path_rank_138" : 1,
+        "path_rank_39" : 1,
+        "shared_name" : "AKT1 (activation) PRKACA",
+        "path_rank_111" : 1,
+        "path_rank_11" : 1,
+        "path_rank_13" : 1,
+        "path_rank_160" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_167" : 1,
+        "path_rank_169" : 1,
+        "Edge_weight_nonICU" : 0.247861878,
+        "path_rank_84" : 1,
+        "selected" : false,
+        "path_rank_2" : 1,
+        "path_rank_176" : 1,
+        "weight" : 4.034505056078046,
+        "path_rank_75" : 1,
+        "name" : "AKT1 (activation) PRKACA",
+        "path_rank_140" : 1,
+        "SUID" : 217,
+        "path_rank_66" : 1,
+        "path_rank_68" : 1,
+        "path_rank_158" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "105",
+        "target" : "115",
+        "shared_name" : "AKT1 (activation) GATA1",
+        "shared_interaction" : "activation",
+        "path_rank_164" : 1,
+        "Edge_weight_nonICU" : 0.140296656,
+        "selected" : false,
+        "weight" : 7.127753636551395,
+        "name" : "AKT1 (activation) GATA1",
+        "SUID" : 216,
+        "path_rank_157" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "103",
+        "target" : "102",
+        "path_rank_123" : 1,
+        "path_rank_42" : 1,
+        "path_rank_132" : 1,
+        "path_rank_32" : 1,
+        "path_rank_105" : 1,
+        "shared_name" : "SP1 (activation) ALDOA",
+        "path_rank_23" : 1,
+        "path_rank_161" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.256522727,
+        "path_rank_87" : 1,
+        "selected" : false,
+        "path_rank_170" : 1,
+        "path_rank_5" : 1,
+        "weight" : 3.898290072364621,
+        "name" : "SP1 (activation) ALDOA",
+        "path_rank_78" : 1,
+        "path_rank_141" : 1,
+        "path_rank_60" : 1,
+        "path_rank_69" : 1,
+        "SUID" : 215,
+        "path_rank_152" : 1,
+        "path_rank_51" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "source" : "103",
+        "target" : "116",
+        "path_rank_45" : 1,
+        "path_rank_35" : 1,
+        "shared_name" : "SP1 (activation) TBXA2R",
+        "path_rank_90" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.24028101,
+        "selected" : false,
+        "path_rank_173" : 1,
+        "weight" : 4.1617937264372244,
+        "name" : "SP1 (activation) TBXA2R",
+        "path_rank_145" : 1,
+        "SUID" : 214,
+        "interaction" : "activation",
+        "path_rank_54" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "103",
+        "target" : "120",
+        "shared_name" : "SP1 (activation) RELA",
+        "path_rank_91" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.303425223,
+        "path_rank_84" : 1,
+        "selected" : false,
+        "weight" : 3.2957049190337084,
+        "name" : "SP1 (activation) RELA",
+        "SUID" : 213,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "101",
+        "target" : "120",
+        "shared_name" : "TNF (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.439778895,
+        "path_rank_9" : 1,
+        "selected" : false,
+        "path_rank_3" : 1,
+        "weight" : 2.2738699182005995,
+        "name" : "TNF (activation) RELA",
+        "SUID" : 212,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "101",
+        "target" : "100",
+        "shared_name" : "TNF (activation) MAPK3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.483775486,
+        "selected" : false,
+        "path_rank_1" : 1,
+        "path_rank_8" : 1,
+        "weight" : 2.067074560284768,
+        "name" : "TNF (activation) MAPK3",
+        "SUID" : 211,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "101",
+        "target" : "112",
+        "shared_name" : "TNF (activation) RHOA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.483197069,
+        "selected" : false,
+        "path_rank_4" : 1,
+        "path_rank_7" : 1,
+        "weight" : 2.069548977334546,
+        "name" : "TNF (activation) RHOA",
+        "SUID" : 210,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "101",
+        "target" : "99",
+        "shared_name" : "TNF (activation) MAPK14",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.470932862,
+        "selected" : false,
+        "path_rank_6" : 1,
+        "weight" : 2.123444933855561,
+        "name" : "TNF (activation) MAPK14",
+        "SUID" : 209,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "101",
+        "target" : "105",
+        "shared_name" : "TNF (activation) AKT1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.49322131,
+        "selected" : false,
+        "path_rank_2" : 1,
+        "weight" : 2.0274874173624005,
+        "name" : "TNF (activation) AKT1",
+        "SUID" : 208,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "101",
+        "target" : "98",
+        "shared_name" : "TNF (activation) TXN",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.40855665,
+        "selected" : false,
+        "path_rank_5" : 1,
+        "weight" : 2.447640981978876,
+        "name" : "TNF (activation) TXN",
+        "SUID" : 207,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "100",
+        "target" : "115",
+        "path_rank_47" : 1,
+        "path_rank_137" : 1,
+        "path_rank_38" : 1,
+        "path_rank_183" : 1,
+        "path_rank_19" : 1,
+        "path_rank_101" : 1,
+        "shared_name" : "MAPK3 (activation) GATA1",
+        "path_rank_28" : 1,
+        "path_rank_108" : 1,
+        "path_rank_17" : 1,
+        "path_rank_10" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_166" : 1,
+        "Edge_weight_nonICU" : 0.137609794,
+        "selected" : false,
+        "path_rank_1" : 1,
+        "path_rank_175" : 1,
+        "path_rank_8" : 1,
+        "weight" : 7.266924620205448,
+        "path_rank_72" : 1,
+        "name" : "MAPK3 (activation) GATA1",
+        "path_rank_63" : 1,
+        "SUID" : 206,
+        "path_rank_65" : 1,
+        "interaction" : "activation",
+        "path_rank_56" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "100",
+        "target" : "94",
+        "path_rank_180" : 1,
+        "shared_name" : "MAPK3 (activation) HIF1A",
+        "path_rank_14" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.318192265,
+        "selected" : false,
+        "weight" : 3.142753957265429,
+        "name" : "MAPK3 (activation) HIF1A",
+        "SUID" : 205,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "100",
+        "target" : "108",
+        "shared_name" : "MAPK3 (activation) STAT3",
+        "path_rank_24" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.326841306,
+        "selected" : false,
+        "weight" : 3.0595888024018603,
+        "path_rank_70" : 1,
+        "name" : "MAPK3 (activation) STAT3",
+        "SUID" : 204,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "99",
+        "target" : "108",
+        "path_rank_181" : 1,
+        "shared_name" : "MAPK14 (activation) STAT3",
+        "path_rank_15" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.31816476,
+        "selected" : false,
+        "path_rank_171" : 1,
+        "path_rank_6" : 1,
+        "weight" : 3.1430256449520053,
+        "name" : "MAPK14 (activation) STAT3",
+        "path_rank_142" : 1,
+        "SUID" : 203,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "99",
+        "target" : "120",
+        "path_rank_18" : 1,
+        "path_rank_184" : 1,
+        "shared_name" : "MAPK14 (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.218833632,
+        "selected" : false,
+        "weight" : 4.569681501242003,
+        "name" : "MAPK14 (activation) RELA",
+        "SUID" : 202,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "99",
+        "target" : "72",
+        "shared_name" : "MAPK14 (activation) GATA2",
+        "path_rank_110" : 1,
+        "path_rank_117" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.240052636,
+        "selected" : false,
+        "weight" : 4.165753047594111,
+        "name" : "MAPK14 (activation) GATA2",
+        "SUID" : 201,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "98",
+        "target" : "103",
+        "shared_name" : "TXN (activation) SP1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.281883451,
+        "selected" : false,
+        "path_rank_5" : 1,
+        "weight" : 3.5475654794647733,
+        "name" : "TXN (activation) SP1",
+        "SUID" : 200,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "97",
+        "target" : "96",
+        "shared_name" : "TGFB1 (activation) SMAD3",
+        "path_rank_12" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.279081791,
+        "selected" : false,
+        "path_rank_178" : 1,
+        "weight" : 3.583178954158281,
+        "name" : "TGFB1 (activation) SMAD3",
+        "SUID" : 199,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "97",
+        "target" : "100",
+        "path_rank_47" : 1,
+        "path_rank_137" : 1,
+        "path_rank_38" : 1,
+        "path_rank_180" : 1,
+        "path_rank_183" : 1,
+        "shared_name" : "TGFB1 (activation) MAPK3",
+        "path_rank_28" : 1,
+        "path_rank_14" : 1,
+        "path_rank_17" : 1,
+        "path_rank_10" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_166" : 1,
+        "Edge_weight_nonICU" : 0.220445289,
+        "selected" : false,
+        "path_rank_175" : 1,
+        "weight" : 4.536272943442216,
+        "name" : "TGFB1 (activation) MAPK3",
+        "SUID" : 198,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "97",
+        "target" : "105",
+        "path_rank_48" : 1,
+        "path_rank_29" : 1,
+        "path_rank_138" : 1,
+        "path_rank_39" : 1,
+        "shared_name" : "TGFB1 (activation) AKT1",
+        "path_rank_11" : 1,
+        "path_rank_13" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_167" : 1,
+        "path_rank_169" : 1,
+        "Edge_weight_nonICU" : 0.224749532,
+        "path_rank_84" : 1,
+        "selected" : false,
+        "path_rank_176" : 1,
+        "weight" : 4.449397474162482,
+        "name" : "TGFB1 (activation) AKT1",
+        "path_rank_140" : 1,
+        "SUID" : 197,
+        "path_rank_66" : 1,
+        "path_rank_68" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "97",
+        "target" : "95",
+        "shared_name" : "TGFB1 (activation) WT1",
+        "path_rank_16" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.441486718,
+        "selected" : false,
+        "path_rank_172" : 1,
+        "weight" : 2.2650738045532774,
+        "path_rank_71" : 1,
+        "name" : "TGFB1 (activation) WT1",
+        "path_rank_143" : 1,
+        "path_rank_144" : 1,
+        "SUID" : 196,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "97",
+        "target" : "99",
+        "path_rank_181" : 1,
+        "path_rank_18" : 1,
+        "path_rank_184" : 1,
+        "shared_name" : "TGFB1 (activation) MAPK14",
+        "path_rank_15" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.214593203,
+        "selected" : false,
+        "path_rank_171" : 1,
+        "weight" : 4.659979841020407,
+        "name" : "TGFB1 (activation) MAPK14",
+        "path_rank_142" : 1,
+        "SUID" : 195,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "96",
+        "target" : "118",
+        "shared_name" : "SMAD3 (activation) TIMP1",
+        "path_rank_21" : 1,
+        "path_rank_12" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.184781484,
+        "path_rank_85" : 1,
+        "selected" : false,
+        "path_rank_178" : 1,
+        "weight" : 5.411797645266232,
+        "name" : "SMAD3 (activation) TIMP1",
+        "SUID" : 194,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "96",
+        "target" : "82",
+        "shared_name" : "SMAD3 (activation) ESR1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.629035953,
+        "path_rank_88" : 1,
+        "selected" : false,
+        "weight" : 1.5897342516445956,
+        "name" : "SMAD3 (activation) ESR1",
+        "SUID" : 193,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "95",
+        "target" : "110",
+        "shared_name" : "WT1 (inhibition) PDGFA",
+        "path_rank_16" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.407737894,
+        "selected" : false,
+        "path_rank_172" : 1,
+        "weight" : 2.4525559549782736,
+        "path_rank_71" : 1,
+        "name" : "WT1 (inhibition) PDGFA",
+        "path_rank_143" : 1,
+        "path_rank_144" : 1,
+        "SUID" : 192,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "94",
+        "target" : "102",
+        "path_rank_180" : 1,
+        "shared_name" : "HIF1A (activation) ALDOA",
+        "path_rank_114" : 1,
+        "path_rank_96" : 1,
+        "path_rank_14" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.24454248,
+        "selected" : false,
+        "weight" : 4.089269070960595,
+        "name" : "HIF1A (activation) ALDOA",
+        "SUID" : 191,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "93",
+        "target" : "120",
+        "path_rank_103" : 1,
+        "path_rank_105" : 1,
+        "shared_name" : "SRC (activation) RELA",
+        "path_rank_109" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.180334795,
+        "selected" : false,
+        "weight" : 5.545241560287908,
+        "name" : "SRC (activation) RELA",
+        "path_rank_64" : 1,
+        "SUID" : 190,
+        "interaction" : "activation",
+        "path_rank_58" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "93",
+        "target" : "100",
+        "path_rank_101" : 1,
+        "shared_name" : "SRC (activation) MAPK3",
+        "path_rank_108" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.198375943,
+        "selected" : false,
+        "weight" : 5.040933819278681,
+        "name" : "SRC (activation) MAPK3",
+        "path_rank_63" : 1,
+        "SUID" : 189,
+        "interaction" : "activation",
+        "path_rank_56" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "93",
+        "target" : "112",
+        "path_rank_104" : 1,
+        "path_rank_107" : 1,
+        "shared_name" : "SRC (inhibition) RHOA",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.198138759,
+        "selected" : false,
+        "weight" : 5.046968119952745,
+        "name" : "SRC (inhibition) RHOA",
+        "path_rank_62" : 1,
+        "SUID" : 188,
+        "interaction" : "inhibition",
+        "path_rank_59" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "93",
+        "target" : "108",
+        "path_rank_106" : 1,
+        "shared_name" : "SRC (activation) STAT3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.262190854,
+        "selected" : false,
+        "weight" : 3.8140155720305944,
+        "name" : "SRC (activation) STAT3",
+        "SUID" : 187,
+        "path_rank_153" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "93",
+        "target" : "92",
+        "path_rank_102" : 1,
+        "shared_name" : "SRC (inhibition) PPP2CA",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.185151596,
+        "selected" : false,
+        "weight" : 5.4009796383283675,
+        "name" : "SRC (inhibition) PPP2CA",
+        "SUID" : 186,
+        "interaction" : "inhibition",
+        "path_rank_57" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "92",
+        "target" : "106",
+        "path_rank_102" : 1,
+        "shared_name" : "PPP2CA (inhibition) PRKACA",
+        "path_rank_20" : 1,
+        "path_rank_26" : 1,
+        "path_rank_22" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.226908214,
+        "selected" : false,
+        "weight" : 4.407068313534036,
+        "name" : "PPP2CA (inhibition) PRKACA",
+        "SUID" : 185,
+        "interaction" : "inhibition",
+        "path_rank_57" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "92",
+        "target" : "100",
+        "path_rank_19" : 1,
+        "shared_name" : "PPP2CA (inhibition) MAPK3",
+        "path_rank_24" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.230805875,
+        "selected" : false,
+        "weight" : 4.332645345357869,
+        "name" : "PPP2CA (inhibition) MAPK3",
+        "SUID" : 184,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "92",
+        "target" : "120",
+        "shared_name" : "PPP2CA (inhibition) RELA",
+        "path_rank_27" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.209815411,
+        "selected" : false,
+        "weight" : 4.76609413595458,
+        "name" : "PPP2CA (inhibition) RELA",
+        "SUID" : 183,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "92",
+        "target" : "103",
+        "shared_name" : "PPP2CA (activation) SP1",
+        "path_rank_23" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.311529809,
+        "selected" : false,
+        "weight" : 3.209965695449709,
+        "name" : "PPP2CA (activation) SP1",
+        "SUID" : 182,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "91",
+        "target" : "115",
+        "shared_name" : "MAPK1 (activation) GATA1",
+        "path_rank_92" : 1,
+        "path_rank_99" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.146072654,
+        "selected" : false,
+        "weight" : 6.845908338189022,
+        "name" : "MAPK1 (activation) GATA1",
+        "path_rank_148" : 1,
+        "SUID" : 181,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "91",
+        "target" : "120",
+        "path_rank_100" : 1,
+        "shared_name" : "MAPK1 (activation) RELA",
+        "path_rank_94" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.238626407,
+        "selected" : false,
+        "weight" : 4.190651037208971,
+        "name" : "MAPK1 (activation) RELA",
+        "SUID" : 180,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "91",
+        "target" : "106",
+        "shared_name" : "MAPK1 (activation) PRKACA",
+        "path_rank_95" : 1,
+        "path_rank_93" : 1,
+        "path_rank_98" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.258066323,
+        "selected" : false,
+        "weight" : 3.874972868893087,
+        "name" : "MAPK1 (activation) PRKACA",
+        "SUID" : 179,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "91",
+        "target" : "108",
+        "shared_name" : "MAPK1 (activation) STAT3",
+        "path_rank_97" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.346941706,
+        "selected" : false,
+        "weight" : 2.882328594994572,
+        "name" : "MAPK1 (activation) STAT3",
+        "SUID" : 178,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "91",
+        "target" : "94",
+        "shared_name" : "MAPK1 (activation) HIF1A",
+        "path_rank_96" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.337760758,
+        "selected" : false,
+        "weight" : 2.9606754968260702,
+        "name" : "MAPK1 (activation) HIF1A",
+        "SUID" : 177,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "90",
+        "target" : "89",
+        "path_rank_40" : 1,
+        "path_rank_42" : 1,
+        "path_rank_41" : 1,
+        "path_rank_44" : 1,
+        "path_rank_43" : 1,
+        "path_rank_46" : 1,
+        "path_rank_45" : 1,
+        "path_rank_29" : 1,
+        "path_rank_31" : 1,
+        "path_rank_30" : 1,
+        "path_rank_37" : 1,
+        "path_rank_36" : 1,
+        "path_rank_39" : 1,
+        "path_rank_38" : 1,
+        "path_rank_33" : 1,
+        "path_rank_32" : 1,
+        "path_rank_35" : 1,
+        "path_rank_34" : 1,
+        "shared_name" : "NR3C1 (inhibition) STAT1",
+        "path_rank_28" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.333574646,
+        "selected" : false,
+        "weight" : 2.9978297571212895,
+        "name" : "NR3C1 (inhibition) STAT1",
+        "SUID" : 176,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "89",
+        "target" : "87",
+        "path_rank_40" : 1,
+        "path_rank_42" : 1,
+        "path_rank_46" : 1,
+        "path_rank_45" : 1,
+        "path_rank_29" : 1,
+        "path_rank_30" : 1,
+        "path_rank_37" : 1,
+        "path_rank_36" : 1,
+        "path_rank_39" : 1,
+        "path_rank_38" : 1,
+        "path_rank_32" : 1,
+        "path_rank_35" : 1,
+        "shared_name" : "STAT1 (activation) PIM1",
+        "path_rank_28" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.126522726,
+        "selected" : false,
+        "weight" : 7.903718419724848,
+        "name" : "STAT1 (activation) PIM1",
+        "SUID" : 175,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "89",
+        "target" : "85",
+        "path_rank_41" : 1,
+        "path_rank_44" : 1,
+        "path_rank_31" : 1,
+        "path_rank_34" : 1,
+        "shared_name" : "STAT1 (activation) EIF2AK2",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.270199315,
+        "selected" : false,
+        "weight" : 3.7009716327371147,
+        "name" : "STAT1 (activation) EIF2AK2",
+        "SUID" : 174,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "89",
+        "target" : "84",
+        "path_rank_43" : 1,
+        "path_rank_33" : 1,
+        "shared_name" : "STAT1 (activation) IRF9",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.118043403,
+        "selected" : false,
+        "weight" : 8.471460281435634,
+        "name" : "STAT1 (activation) IRF9",
+        "SUID" : 173,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "88",
+        "target" : "90",
+        "path_rank_29" : 1,
+        "path_rank_31" : 1,
+        "path_rank_30" : 1,
+        "path_rank_37" : 1,
+        "path_rank_36" : 1,
+        "path_rank_33" : 1,
+        "path_rank_32" : 1,
+        "path_rank_35" : 1,
+        "path_rank_34" : 1,
+        "shared_name" : "PPARG (activation) NR3C1",
+        "path_rank_28" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.877151101,
+        "selected" : false,
+        "weight" : 1.1400544317392358,
+        "name" : "PPARG (activation) NR3C1",
+        "SUID" : 172,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "87",
+        "target" : "120",
+        "path_rank_40" : 1,
+        "path_rank_42" : 1,
+        "path_rank_46" : 1,
+        "path_rank_45" : 1,
+        "path_rank_29" : 1,
+        "path_rank_30" : 1,
+        "path_rank_37" : 1,
+        "path_rank_36" : 1,
+        "path_rank_39" : 1,
+        "path_rank_38" : 1,
+        "path_rank_32" : 1,
+        "path_rank_35" : 1,
+        "shared_name" : "PIM1 (activation) RELA",
+        "path_rank_28" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_167" : 1,
+        "path_rank_166" : 1,
+        "path_rank_169" : 1,
+        "path_rank_168" : 1,
+        "Edge_weight_nonICU" : 0.150850763,
+        "selected" : false,
+        "path_rank_170" : 1,
+        "path_rank_172" : 1,
+        "path_rank_171" : 1,
+        "path_rank_174" : 1,
+        "path_rank_173" : 1,
+        "weight" : 6.629068226854113,
+        "name" : "PIM1 (activation) RELA",
+        "SUID" : 171,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "86",
+        "target" : "112",
+        "path_rank_41" : 1,
+        "path_rank_44" : 1,
+        "path_rank_31" : 1,
+        "path_rank_34" : 1,
+        "shared_name" : "PRKCD (activation) RHOA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.267856541,
+        "selected" : false,
+        "weight" : 3.733341721903293,
+        "name" : "PRKCD (activation) RHOA",
+        "SUID" : 170,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "85",
+        "target" : "86",
+        "path_rank_41" : 1,
+        "path_rank_44" : 1,
+        "path_rank_31" : 1,
+        "path_rank_34" : 1,
+        "shared_name" : "EIF2AK2 (activation) PRKCD",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.384313913,
+        "selected" : false,
+        "weight" : 2.6020395467701944,
+        "name" : "EIF2AK2 (activation) PRKCD",
+        "SUID" : 169,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "84",
+        "target" : "83",
+        "path_rank_43" : 1,
+        "path_rank_33" : 1,
+        "shared_name" : "IRF9 (inhibition) FOS",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.186968064,
+        "selected" : false,
+        "weight" : 5.348507004918231,
+        "name" : "IRF9 (inhibition) FOS",
+        "SUID" : 168,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "83",
+        "target" : "82",
+        "path_rank_43" : 1,
+        "path_rank_33" : 1,
+        "shared_name" : "FOS (activation) ESR1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.600042561,
+        "selected" : false,
+        "weight" : 1.6665484500523622,
+        "name" : "FOS (activation) ESR1",
+        "SUID" : 167,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "82",
+        "target" : "109",
+        "path_rank_124" : 1,
+        "path_rank_43" : 1,
+        "path_rank_33" : 1,
+        "shared_name" : "ESR1 (activation) HSPB1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.249645749,
+        "path_rank_88" : 1,
+        "selected" : false,
+        "weight" : 4.005676058998305,
+        "name" : "ESR1 (activation) HSPB1",
+        "SUID" : 166,
+        "path_rank_52" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "81",
+        "target" : "118",
+        "shared_name" : "NFKB1 (inhibition) TIMP1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.265936067,
+        "selected" : false,
+        "weight" : 3.760302283480789,
+        "name" : "NFKB1 (inhibition) TIMP1",
+        "SUID" : 165,
+        "path_rank_67" : 1,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "81",
+        "target" : "100",
+        "shared_name" : "NFKB1 (activation) MAPK3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.450565438,
+        "selected" : false,
+        "weight" : 2.2194334399879114,
+        "path_rank_72" : 1,
+        "path_rank_70" : 1,
+        "name" : "NFKB1 (activation) MAPK3",
+        "SUID" : 164,
+        "path_rank_65" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "81",
+        "target" : "97",
+        "shared_name" : "NFKB1 (activation) TGFB1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.401652333,
+        "selected" : false,
+        "weight" : 2.4897154026987813,
+        "path_rank_71" : 1,
+        "name" : "NFKB1 (activation) TGFB1",
+        "SUID" : 163,
+        "path_rank_66" : 1,
+        "path_rank_68" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "81",
+        "target" : "107",
+        "shared_name" : "NFKB1 (activation) HPSE",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.302300986,
+        "selected" : false,
+        "weight" : 3.307961423585962,
+        "path_rank_73" : 1,
+        "name" : "NFKB1 (activation) HPSE",
+        "SUID" : 162,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "81",
+        "target" : "120",
+        "shared_name" : "NFKB1 (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.40958911,
+        "selected" : false,
+        "weight" : 2.441471161183949,
+        "name" : "NFKB1 (activation) RELA",
+        "path_rank_69" : 1,
+        "SUID" : 161,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "80",
+        "target" : "96",
+        "shared_name" : "MYC (activation) SMAD3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.603990584,
+        "path_rank_85" : 1,
+        "path_rank_88" : 1,
+        "selected" : false,
+        "weight" : 1.6556549497467,
+        "name" : "MYC (activation) SMAD3",
+        "SUID" : 160,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "80",
+        "target" : "103",
+        "shared_name" : "MYC (activation) SP1",
+        "path_rank_91" : 1,
+        "path_rank_90" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.643950135,
+        "path_rank_84" : 1,
+        "path_rank_87" : 1,
+        "selected" : false,
+        "weight" : 1.5529152734784348,
+        "name" : "MYC (activation) SP1",
+        "SUID" : 159,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "80",
+        "target" : "78",
+        "shared_name" : "MYC (activation) GAPDH",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.451802779,
+        "path_rank_83" : 1,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_89" : 1,
+        "weight" : 2.2133551329926635,
+        "name" : "MYC (activation) GAPDH",
+        "SUID" : 158,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "79",
+        "target" : "77",
+        "path_rank_125" : 1,
+        "shared_name" : "CREBBP (activation) CSK",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.307936516,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_89" : 1,
+        "weight" : 3.247422595376769,
+        "name" : "CREBBP (activation) CSK",
+        "SUID" : 157,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "79",
+        "target" : "115",
+        "shared_name" : "CREBBP (activation) GATA1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.21474063,
+        "path_rank_83" : 1,
+        "selected" : false,
+        "weight" : 4.656780600857882,
+        "name" : "CREBBP (activation) GATA1",
+        "SUID" : 156,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "78",
+        "target" : "79",
+        "shared_name" : "GAPDH (activation) CREBBP",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.36544556,
+        "path_rank_83" : 1,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_89" : 1,
+        "weight" : 2.7363856876520813,
+        "name" : "GAPDH (activation) CREBBP",
+        "SUID" : 155,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "77",
+        "target" : "112",
+        "path_rank_125" : 1,
+        "shared_name" : "CSK (activation) RHOA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.197095518,
+        "path_rank_86" : 1,
+        "selected" : false,
+        "path_rank_89" : 1,
+        "weight" : 5.073682091543046,
+        "name" : "CSK (activation) RHOA",
+        "SUID" : 154,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "76",
+        "target" : "93",
+        "shared_name" : "MAPK8 (activation) SRC",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.349584211,
+        "selected" : false,
+        "weight" : 2.860541090055123,
+        "name" : "MAPK8 (activation) SRC",
+        "path_rank_62" : 1,
+        "path_rank_64" : 1,
+        "path_rank_63" : 1,
+        "SUID" : 153,
+        "interaction" : "activation",
+        "path_rank_59" : 1,
+        "path_rank_58" : 1,
+        "path_rank_57" : 1,
+        "path_rank_56" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "76",
+        "target" : "108",
+        "shared_name" : "MAPK8 (activation) STAT3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.575969838,
+        "selected" : false,
+        "weight" : 1.7362020266068168,
+        "name" : "MAPK8 (activation) STAT3",
+        "path_rank_61" : 1,
+        "SUID" : 152,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "76",
+        "target" : "103",
+        "shared_name" : "MAPK8 (activation) SP1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.588198561,
+        "selected" : false,
+        "weight" : 1.7001061653396325,
+        "name" : "MAPK8 (activation) SP1",
+        "path_rank_60" : 1,
+        "SUID" : 151,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "75",
+        "target" : "120",
+        "path_rank_130" : 1,
+        "path_rank_132" : 1,
+        "path_rank_136" : 1,
+        "shared_name" : "JAK2 (activation) RELA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.1904676,
+        "selected" : false,
+        "weight" : 5.250236785679035,
+        "name" : "JAK2 (activation) RELA",
+        "SUID" : 150,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "75",
+        "target" : "106",
+        "path_rank_129" : 1,
+        "path_rank_131" : 1,
+        "path_rank_135" : 1,
+        "shared_name" : "JAK2 (activation) PRKACA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.205984215,
+        "selected" : false,
+        "weight" : 4.85474093245446,
+        "name" : "JAK2 (activation) PRKACA",
+        "SUID" : 149,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "75",
+        "target" : "74",
+        "path_rank_134" : 1,
+        "shared_name" : "JAK2 (activation) JAK3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.152178553,
+        "selected" : false,
+        "weight" : 6.57122820717056,
+        "name" : "JAK2 (activation) JAK3",
+        "SUID" : 148,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "75",
+        "target" : "108",
+        "path_rank_128" : 1,
+        "path_rank_133" : 1,
+        "shared_name" : "JAK2 (activation) STAT3",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.276923057,
+        "selected" : false,
+        "weight" : 3.6111113709105127,
+        "name" : "JAK2 (activation) STAT3",
+        "SUID" : 147,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "74",
+        "target" : "112",
+        "path_rank_134" : 1,
+        "shared_name" : "JAK3 (activation) RHOA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.179395566,
+        "selected" : false,
+        "weight" : 5.574273781103375,
+        "name" : "JAK3 (activation) RHOA",
+        "SUID" : 146,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "73",
+        "target" : "114",
+        "shared_name" : "FYN (activation) RAC1",
+        "path_rank_112" : 1,
+        "path_rank_111" : 1,
+        "path_rank_114" : 1,
+        "path_rank_113" : 1,
+        "path_rank_116" : 1,
+        "path_rank_115" : 1,
+        "path_rank_118" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.22952158,
+        "selected" : false,
+        "weight" : 4.356888794508995,
+        "name" : "FYN (activation) RAC1",
+        "SUID" : 145,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "73",
+        "target" : "99",
+        "shared_name" : "FYN (activation) MAPK14",
+        "path_rank_110" : 1,
+        "path_rank_117" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.230535145,
+        "selected" : false,
+        "weight" : 4.33773340719915,
+        "name" : "FYN (activation) MAPK14",
+        "SUID" : 144,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "72",
+        "target" : "115",
+        "shared_name" : "GATA2 (activation) GATA1",
+        "path_rank_110" : 1,
+        "path_rank_117" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.137224697,
+        "selected" : false,
+        "weight" : 7.28731796726066,
+        "name" : "GATA2 (activation) GATA1",
+        "SUID" : 143,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "71",
+        "target" : "97",
+        "path_rank_181" : 1,
+        "path_rank_180" : 1,
+        "path_rank_183" : 1,
+        "path_rank_184" : 1,
+        "shared_name" : "PIN1 (activation) TGFB1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.205711142,
+        "selected" : false,
+        "path_rank_176" : 1,
+        "path_rank_175" : 1,
+        "path_rank_178" : 1,
+        "weight" : 4.8611853994763194,
+        "name" : "PIN1 (activation) TGFB1",
+        "SUID" : 142,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "71",
+        "target" : "69",
+        "path_rank_182" : 1,
+        "shared_name" : "PIN1 (activation) CTNNB1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.275599402,
+        "selected" : false,
+        "path_rank_177" : 1,
+        "weight" : 3.6284548977359536,
+        "path_rank_179" : 1,
+        "name" : "PIN1 (activation) CTNNB1",
+        "SUID" : 141,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "70",
+        "target" : "71",
+        "path_rank_181" : 1,
+        "path_rank_180" : 1,
+        "path_rank_183" : 1,
+        "path_rank_182" : 1,
+        "path_rank_184" : 1,
+        "shared_name" : "DAPK1 (inhibition) PIN1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.431636274,
+        "selected" : false,
+        "path_rank_176" : 1,
+        "path_rank_175" : 1,
+        "path_rank_178" : 1,
+        "path_rank_177" : 1,
+        "weight" : 2.316765434779006,
+        "path_rank_179" : 1,
+        "name" : "DAPK1 (inhibition) PIN1",
+        "SUID" : 140,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "69",
+        "target" : "112",
+        "path_rank_182" : 1,
+        "shared_name" : "CTNNB1 (activation) RHOA",
+        "path_rank_25" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_163" : 1,
+        "Edge_weight_nonICU" : 0.294986207,
+        "selected" : false,
+        "path_rank_177" : 1,
+        "weight" : 3.389989010570925,
+        "path_rank_179" : 1,
+        "name" : "CTNNB1 (activation) RHOA",
+        "SUID" : 139,
+        "path_rank_50" : 1,
+        "path_rank_53" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "68",
+        "target" : "120",
+        "shared_name" : "CSNK2A1 (activation) RELA",
+        "shared_interaction" : "activation",
+        "path_rank_165" : 1,
+        "Edge_weight_nonICU" : 0.383847496,
+        "selected" : false,
+        "weight" : 2.6052013115125283,
+        "name" : "CSNK2A1 (activation) RELA",
+        "SUID" : 138,
+        "path_rank_159" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "68",
+        "target" : "105",
+        "shared_name" : "CSNK2A1 (activation) AKT1",
+        "path_rank_160" : 1,
+        "shared_interaction" : "activation",
+        "path_rank_164" : 1,
+        "Edge_weight_nonICU" : 0.430493066,
+        "selected" : false,
+        "weight" : 2.3229177865550104,
+        "name" : "CSNK2A1 (activation) AKT1",
+        "SUID" : 137,
+        "path_rank_158" : 1,
+        "path_rank_157" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "68",
+        "target" : "69",
+        "shared_name" : "CSNK2A1 (activation) CTNNB1",
+        "shared_interaction" : "activation",
+        "path_rank_163" : 1,
+        "Edge_weight_nonICU" : 0.504290817,
+        "selected" : false,
+        "weight" : 1.9829827676596379,
+        "name" : "CSNK2A1 (activation) CTNNB1",
+        "SUID" : 136,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "68",
+        "target" : "66",
+        "shared_name" : "CSNK2A1 (activation) HDAC3",
+        "shared_interaction" : "activation",
+        "path_rank_162" : 1,
+        "Edge_weight_nonICU" : 0.317023352,
+        "selected" : false,
+        "weight" : 3.154341765965556,
+        "name" : "CSNK2A1 (activation) HDAC3",
+        "SUID" : 135,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "68",
+        "target" : "103",
+        "shared_name" : "CSNK2A1 (inhibition) SP1",
+        "path_rank_161" : 1,
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.569929236,
+        "selected" : false,
+        "weight" : 1.7546037943559716,
+        "name" : "CSNK2A1 (inhibition) SP1",
+        "SUID" : 134,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "67",
+        "target" : "108",
+        "shared_name" : "TRIM28 (inhibition) STAT3",
+        "shared_interaction" : "inhibition",
+        "path_rank_162" : 1,
+        "Edge_weight_nonICU" : 0.275416217,
+        "selected" : false,
+        "weight" : 3.6308682578411857,
+        "name" : "TRIM28 (inhibition) STAT3",
+        "SUID" : 133,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "66",
+        "target" : "67",
+        "shared_name" : "HDAC3 (activation) TRIM28",
+        "shared_interaction" : "activation",
+        "path_rank_162" : 1,
+        "Edge_weight_nonICU" : 0.156453053,
+        "selected" : false,
+        "weight" : 6.391693743426023,
+        "name" : "HDAC3 (activation) TRIM28",
+        "SUID" : 132,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "65",
+        "target" : "96",
+        "shared_name" : "CREB1 (activation) SMAD3",
+        "path_rank_21" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.538238969,
+        "selected" : false,
+        "weight" : 1.8579108121024956,
+        "name" : "CREB1 (activation) SMAD3",
+        "SUID" : 131,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "65",
+        "target" : "92",
+        "path_rank_19" : 1,
+        "shared_name" : "CREB1 (activation) PPP2CA",
+        "path_rank_20" : 1,
+        "path_rank_26" : 1,
+        "path_rank_27" : 1,
+        "path_rank_22" : 1,
+        "path_rank_24" : 1,
+        "path_rank_23" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.396810279,
+        "selected" : false,
+        "weight" : 2.5200960078960053,
+        "name" : "CREB1 (activation) PPP2CA",
+        "SUID" : 130,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "65",
+        "target" : "69",
+        "shared_name" : "CREB1 (activation) CTNNB1",
+        "path_rank_25" : 1,
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.507758651,
+        "selected" : false,
+        "weight" : 1.9694396107886305,
+        "name" : "CREB1 (activation) CTNNB1",
+        "SUID" : 129,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "64",
+        "target" : "121",
+        "path_rank_121" : 1,
+        "path_rank_120" : 1,
+        "path_rank_123" : 1,
+        "path_rank_122" : 1,
+        "path_rank_125" : 1,
+        "path_rank_127" : 1,
+        "path_rank_126" : 1,
+        "path_rank_119" : 1,
+        "shared_name" : "CDK2 (inhibition) E2F1",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.180395346,
+        "selected" : false,
+        "weight" : 5.543380259931983,
+        "name" : "CDK2 (inhibition) E2F1",
+        "SUID" : 128,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "64",
+        "target" : "82",
+        "path_rank_124" : 1,
+        "shared_name" : "CDK2 (activation) ESR1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.606318799,
+        "selected" : false,
+        "weight" : 1.6492973690561754,
+        "name" : "CDK2 (activation) ESR1",
+        "SUID" : 127,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "63",
+        "target" : "106",
+        "path_rank_120" : 1,
+        "path_rank_122" : 1,
+        "shared_name" : "KDR (activation) PRKACA",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.491560994,
+        "selected" : false,
+        "weight" : 2.0343355396502436,
+        "name" : "KDR (activation) PRKACA",
+        "SUID" : 126,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "62",
+        "target" : "79",
+        "path_rank_125" : 1,
+        "shared_name" : "IRF3 (activation) CREBBP",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.330368254,
+        "selected" : false,
+        "weight" : 3.0269252202422576,
+        "name" : "IRF3 (activation) CREBBP",
+        "SUID" : 125,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "61",
+        "target" : "120",
+        "path_rank_48" : 1,
+        "path_rank_47" : 1,
+        "path_rank_49" : 1,
+        "shared_name" : "AR (inhibition) RELA",
+        "shared_interaction" : "inhibition",
+        "Edge_weight_nonICU" : 0.313173745,
+        "selected" : false,
+        "weight" : 3.1931156936543323,
+        "name" : "AR (inhibition) RELA",
+        "SUID" : 124,
+        "path_rank_51" : 1,
+        "interaction" : "inhibition",
+        "path_rank_55" : 1,
+        "path_rank_54" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "61",
+        "target" : "69",
+        "shared_name" : "AR (activation) CTNNB1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.411441119,
+        "selected" : false,
+        "weight" : 2.4304814317793064,
+        "name" : "AR (activation) CTNNB1",
+        "SUID" : 123,
+        "path_rank_50" : 1,
+        "path_rank_53" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "61",
+        "target" : "82",
+        "shared_name" : "AR (activation) ESR1",
+        "shared_interaction" : "activation",
+        "Edge_weight_nonICU" : 0.692199378,
+        "selected" : false,
+        "weight" : 1.4446704689179886,
+        "name" : "AR (activation) ESR1",
+        "SUID" : 122,
+        "path_rank_52" : 1,
+        "interaction" : "activation"
+      },
+      "selected" : false
+    } ]
+  }
+}

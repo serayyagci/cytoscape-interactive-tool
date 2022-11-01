@@ -1,0 +1,4223 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "ICU_merged.json",
+    "name" : "ICU_merged.json",
+    "SUID" : 51,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "154",
+        "shared_name" : "TYK2",
+        "name" : "TYK2",
+        "SUID" : 154,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -226.12725014369062,
+        "y" : -155.96692248038016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "shared_name" : "RELA",
+        "name" : "RELA",
+        "SUID" : 153,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -29.917286373325624,
+        "y" : 43.433385281823575
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "shared_name" : "STAT3",
+        "name" : "STAT3",
+        "SUID" : 152,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : -0.7579697,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -194.34580607972748,
+        "y" : -12.813064237969229
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "shared_name" : "TIMP1",
+        "name" : "TIMP1",
+        "SUID" : 151,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.617315583,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -315.4544694923534,
+        "y" : -121.87256227075704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "shared_name" : "AKT1",
+        "name" : "AKT1",
+        "SUID" : 150,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : 0.874049208,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 31.71838329351158,
+        "y" : 68.09361744450871
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "shared_name" : "HPSE",
+        "name" : "HPSE",
+        "SUID" : 149,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 3.019983046,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -287.7360155562492,
+        "y" : -203.87492979753006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "shared_name" : "CDK4",
+        "name" : "CDK4",
+        "SUID" : 148,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.551526927,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -233.91551434264693,
+        "y" : 179.7414584823564
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "shared_name" : "SP1",
+        "name" : "SP1",
+        "SUID" : 147,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -157.1020945289638,
+        "y" : -72.41676249438024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "shared_name" : "NFKB2",
+        "name" : "NFKB2",
+        "SUID" : 146,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.382770153,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 427.4869347577584,
+        "y" : -449.6571170959505
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "shared_name" : "SELP",
+        "name" : "SELP",
+        "SUID" : 145,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.867159321,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 466.97789205795823,
+        "y" : -525.4379896761601
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "shared_name" : "RBX1",
+        "name" : "RBX1",
+        "SUID" : 144,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 370.4328629461088,
+        "y" : -372.0186888817552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "shared_name" : "HSPB1",
+        "name" : "HSPB1",
+        "SUID" : 143,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 140.9232101435773,
+        "y" : -125.69289538744488
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "shared_name" : "ITGB2",
+        "name" : "ITGB2",
+        "SUID" : 142,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 236.94524084178556,
+        "y" : 291.8062386443926
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "shared_name" : "YWHAH",
+        "name" : "YWHAH",
+        "SUID" : 141,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -142.23385707488342,
+        "y" : 258.82526785590744
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "PRKACA",
+        "name" : "PRKACA",
+        "SUID" : 140,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : 0.663471841,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 262.39029289204336,
+        "y" : 50.60209028881218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "shared_name" : "PRKCD",
+        "name" : "PRKCD",
+        "SUID" : 139,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 319.082263307384,
+        "y" : -28.389712515927386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "shared_name" : "GATA1",
+        "name" : "GATA1",
+        "SUID" : 138,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.918727032,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -76.30274434732564,
+        "y" : 206.19669749497552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "shared_name" : "HIF1A",
+        "name" : "HIF1A",
+        "SUID" : 137,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 69.01230270881206,
+        "y" : -180.023962782303
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "IKBKG",
+        "name" : "IKBKG",
+        "SUID" : 136,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 219.4608426306222,
+        "y" : -65.07344133005245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "shared_name" : "CSK",
+        "name" : "CSK",
+        "SUID" : 135,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 98.26934100213111,
+        "y" : 200.23758703589556
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "shared_name" : "CD247",
+        "name" : "CD247",
+        "SUID" : 134,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -52.858080924488604,
+        "y" : -134.9822617048485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "shared_name" : "PRKAR1B",
+        "name" : "PRKAR1B",
+        "SUID" : 133,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.056978011,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 67.62559467594838,
+        "y" : -286.8170841583051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "shared_name" : "ILK",
+        "name" : "ILK",
+        "SUID" : 132,
+        "classification" : "indispensable",
+        "selected" : false,
+        "log2FoldChange" : 0.826004813,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 212.67916672761203,
+        "y" : 141.67726178577868
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "shared_name" : "GRB2",
+        "name" : "GRB2",
+        "SUID" : 131,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -29.275181172735756,
+        "y" : 170.9499054983753
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "shared_name" : "GNA15",
+        "name" : "GNA15",
+        "SUID" : 130,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.885404221,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 525.4498704471189,
+        "y" : 10.971444797862205
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "shared_name" : "FLNA",
+        "name" : "FLNA",
+        "SUID" : 129,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.753314657,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 531.0722315364546,
+        "y" : 126.8215622647258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "shared_name" : "IRF3",
+        "name" : "IRF3",
+        "SUID" : 128,
+        "classification" : "critical",
+        "selected" : false,
+        "log2FoldChange" : 0.939843507,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 223.01041050961067,
+        "y" : 366.9947002062545
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "shared_name" : "HSPB6",
+        "name" : "HSPB6",
+        "SUID" : 127,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 369.6038282098307,
+        "y" : -156.58913781351293
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "shared_name" : "ITGB3",
+        "name" : "ITGB3",
+        "SUID" : 126,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 427.2449907653936,
+        "y" : 178.02732415329956
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "MAPK1",
+        "name" : "MAPK1",
+        "SUID" : 125,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 101.40090539728408,
+        "y" : 119.46931724289607
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "shared_name" : "VASP",
+        "name" : "VASP",
+        "SUID" : 124,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.960933614,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 462.9476693212637,
+        "y" : -105.07813381726737
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "CCND3",
+        "name" : "CCND3",
+        "SUID" : 123,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 0.76247955,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -85.07370905420976,
+        "y" : -60.478217958589084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "CD40",
+        "name" : "CD40",
+        "SUID" : 122,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 289.5582865677861,
+        "y" : 547.0910424272297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "E2F1",
+        "name" : "E2F1",
+        "SUID" : 121,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -70.21591653872747,
+        "y" : 313.31795522636094
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "SPI1",
+        "name" : "SPI1",
+        "SUID" : 120,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 42.606275407320936,
+        "y" : 450.4011861412873
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "JAK3",
+        "name" : "JAK3",
+        "SUID" : 119,
+        "classification" : "indispensable",
+        "selected" : false,
+        "log2FoldChange" : 3.9077071,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 115.63888157381734,
+        "y" : 385.5213007070852
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "ALDOA",
+        "name" : "ALDOA",
+        "SUID" : 118,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.02872829,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -69.71259928363725,
+        "y" : -330.0728103821748
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "ACTB",
+        "name" : "ACTB",
+        "SUID" : 117,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.005307422,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 271.5954744185874,
+        "y" : -169.4438677127764
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "TP53",
+        "name" : "TP53",
+        "SUID" : 116,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 4.252287681942107,
+        "y" : -147.0633778527408
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "RAC1",
+        "name" : "RAC1",
+        "SUID" : 115,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 174.76890139491297,
+        "y" : 5.345707682194188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "shared_name" : "RHOA",
+        "name" : "RHOA",
+        "SUID" : 114,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 37.15986720946967,
+        "y" : 156.86389717733255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "SHC1",
+        "name" : "SHC1",
+        "SUID" : 113,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 2.21945532,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 327.3555918481725,
+        "y" : 255.61018270923523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "ITGB1",
+        "name" : "ITGB1",
+        "SUID" : 112,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 74.09943277385901,
+        "y" : -27.631116746240878
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "shared_name" : "TNF",
+        "name" : "TNF",
+        "SUID" : 111,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 18.9358447779814,
+        "y" : 296.7681651543098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "HDAC3",
+        "name" : "HDAC3",
+        "SUID" : 110,
+        "classification" : "indispensable",
+        "selected" : false,
+        "log2FoldChange" : 1.087804442,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -124.94338827639876,
+        "y" : 491.21281280578114
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "MAPK3",
+        "name" : "MAPK3",
+        "SUID" : 109,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -143.04612738385913,
+        "y" : 15.984286619073828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "shared_name" : "TGFB1",
+        "name" : "TGFB1",
+        "SUID" : 108,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -353.46451604930917,
+        "y" : 111.94559598983324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "SMAD3",
+        "name" : "SMAD3",
+        "SUID" : 107,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -497.9006850407459,
+        "y" : -88.23017126932973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "EGF",
+        "name" : "EGF",
+        "SUID" : 106,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -213.5136121949763,
+        "y" : 241.1168101807125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "shared_name" : "PDGFA",
+        "name" : "PDGFA",
+        "SUID" : 105,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -303.70958689946565,
+        "y" : 277.13818031174014
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "PTPN6",
+        "name" : "PTPN6",
+        "SUID" : 104,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -65.16876767549547,
+        "y" : 82.66431897244183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "TBK1",
+        "name" : "TBK1",
+        "SUID" : 103,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 155.28390294284327,
+        "y" : 183.8053652774397
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "DOK1",
+        "name" : "DOK1",
+        "SUID" : 102,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 378.6982715719205,
+        "y" : 367.95449653241667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "FGF7",
+        "name" : "FGF7",
+        "SUID" : 101,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -115.32906703217304,
+        "y" : -509.10972840106115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "NFKB1",
+        "name" : "NFKB1",
+        "SUID" : 100,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -149.82863949696184,
+        "y" : -242.36567650239158
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "ESR1",
+        "name" : "ESR1",
+        "SUID" : 99,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 96.79719761828892,
+        "y" : -415.3466334700788
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "JUN",
+        "name" : "JUN",
+        "SUID" : 98,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -222.6920180994348,
+        "y" : -332.14232743892353
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "SREBF1",
+        "name" : "SREBF1",
+        "SUID" : 97,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : 1.554248841,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -114.55135896481096,
+        "y" : -581.7069507217749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "PPARG",
+        "name" : "PPARG",
+        "SUID" : 96,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -337.26594425462827,
+        "y" : -434.09977405593963
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "SRC",
+        "name" : "SRC",
+        "SUID" : 95,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -204.6165766401391,
+        "y" : 125.91396903581335
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "PPARA",
+        "name" : "PPARA",
+        "SUID" : 94,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -489.98734720451466,
+        "y" : 83.39300571926287
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "PIM1",
+        "name" : "PIM1",
+        "SUID" : 93,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 327.2012144069304,
+        "y" : 116.52284760017938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "CDKN1A",
+        "name" : "CDKN1A",
+        "SUID" : 92,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 216.0482874049776,
+        "y" : 233.80384959597723
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "MYC",
+        "name" : "MYC",
+        "SUID" : 91,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -354.23564341146266,
+        "y" : 30.504952844479703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "PRKACB",
+        "name" : "PRKACB",
+        "SUID" : 90,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -122.61903875754797,
+        "y" : 158.8191998051043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "MAPK9",
+        "name" : "MAPK9",
+        "SUID" : 89,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -330.369725382654,
+        "y" : -33.26820464860066
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "FOS",
+        "name" : "FOS",
+        "SUID" : 88,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -558.202377329595,
+        "y" : 2.517194164771354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "JAK2",
+        "name" : "JAK2",
+        "SUID" : 87,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -13.598490674383356,
+        "y" : -26.05984332819935
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "CTNNB1",
+        "name" : "CTNNB1",
+        "SUID" : 86,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -308.19651456917927,
+        "y" : 185.21189342792786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "LCK",
+        "name" : "LCK",
+        "SUID" : 85,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -168.81043462007074,
+        "y" : 69.56217855909199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "MAPK8",
+        "name" : "MAPK8",
+        "SUID" : 84,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -288.0533160593477,
+        "y" : 82.44989530253224
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "MAPK14",
+        "name" : "MAPK14",
+        "SUID" : 83,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -140.5206521499058,
+        "y" : -140.991007939665
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "TRIM28",
+        "name" : "TRIM28",
+        "SUID" : 82,
+        "classification" : "indispensable",
+        "selected" : false,
+        "log2FoldChange" : 1.249996998,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -297.73901510509313,
+        "y" : 371.0984102095972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "LYN",
+        "name" : "LYN",
+        "SUID" : 81,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 18.350706325902138,
+        "y" : -76.26322325182264
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "PRKCQ",
+        "name" : "PRKCQ",
+        "SUID" : 80,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 205.67585034029617,
+        "y" : -298.19819712753815
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "IRAK1",
+        "name" : "IRAK1",
+        "SUID" : 79,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : 1.439040572,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -52.56161263429385,
+        "y" : -235.2441506143805
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "CSNK2A2",
+        "name" : "CSNK2A2",
+        "SUID" : 78,
+        "classification" : "critical",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 39.94643823894148,
+        "y" : -480.52754944970366
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "PTPRC",
+        "name" : "PTPRC",
+        "SUID" : 77,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -119.2679349835671,
+        "y" : -406.67455053623416
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "CTTN",
+        "name" : "CTTN",
+        "SUID" : 76,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 249.64033699051652,
+        "y" : -435.5859097773209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "IKBKB",
+        "name" : "IKBKB",
+        "SUID" : 75,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 138.97833468340104,
+        "y" : -225.68641646880133
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "GSK3B",
+        "name" : "GSK3B",
+        "SUID" : 74,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : -0.832444657,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 129.47740091507148,
+        "y" : -56.55296042385453
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "DAPK1",
+        "name" : "DAPK1",
+        "SUID" : 73,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -605.7044139356294,
+        "y" : 341.73155471350765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "PKM",
+        "name" : "PKM",
+        "SUID" : 72,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -491.5299375466275,
+        "y" : 178.99247982616362
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "PIN1",
+        "name" : "PIN1",
+        "SUID" : 71,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -394.4976662458066,
+        "y" : 332.3929355950677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "shared_name" : "RAF1",
+        "name" : "RAF1",
+        "SUID" : 70,
+        "classification" : "indispensable",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -192.34948926296784,
+        "y" : 335.40790364494023
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "shared_name" : "YWHAQ",
+        "name" : "YWHAQ",
+        "SUID" : 69,
+        "classification" : "",
+        "selected" : false,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -279.7253233680676,
+        "y" : 489.3021016120183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "shared_name" : "CSNK2A1",
+        "name" : "CSNK2A1",
+        "SUID" : 68,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -36.913528100179974,
+        "y" : 237.62457830471976
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "shared_name" : "CDC34",
+        "name" : "CDC34",
+        "SUID" : 67,
+        "classification" : "",
+        "selected" : false,
+        "log2FoldChange" : 1.188248504,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : -44.1791022989637,
+        "y" : 505.8694108257332
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "shared_name" : "CDK2",
+        "name" : "CDK2",
+        "SUID" : 66,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 30.637025676565827,
+        "y" : 592.2759508259333
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "shared_name" : "PRKAR1A",
+        "name" : "PRKAR1A",
+        "SUID" : 65,
+        "classification" : "indispensable",
+        "selected" : false,
+        "log2FoldChange" : -1.345796793,
+        "target_original" : ""
+      },
+      "position" : {
+        "x" : 172.25429617078044,
+        "y" : 497.77933380549075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "shared_name" : "CDK1",
+        "name" : "CDK1",
+        "SUID" : 64,
+        "classification" : "dual",
+        "selected" : false,
+        "log2FoldChange" : 1.888994584,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -159.61048048557132,
+        "y" : 593.0636822670785
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "shared_name" : "CASP3",
+        "name" : "CASP3",
+        "SUID" : 63,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 158.74742127791978,
+        "y" : 90.74265473728883
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "shared_name" : "AURKA",
+        "name" : "AURKA",
+        "SUID" : 62,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : 135.41666742623784,
+        "y" : 304.01622762926854
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "61",
+        "shared_name" : "AR",
+        "name" : "AR",
+        "SUID" : 61,
+        "classification" : "dual",
+        "selected" : false,
+        "target_original" : "drug target"
+      },
+      "position" : {
+        "x" : -34.529305358068086,
+        "y" : 391.424484934425
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "367",
+        "source" : "154",
+        "target" : "153",
+        "shared_name" : "TYK2 (activation) RELA",
+        "name" : "TYK2 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 367,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "source" : "154",
+        "target" : "152",
+        "shared_name" : "TYK2 (activation) STAT3",
+        "name" : "TYK2 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 366,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "365",
+        "source" : "153",
+        "target" : "151",
+        "shared_name" : "RELA (inhibition) TIMP1",
+        "name" : "RELA (inhibition) TIMP1",
+        "interaction" : "inhibition",
+        "SUID" : 365,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "source" : "153",
+        "target" : "150",
+        "shared_name" : "RELA (inhibition) AKT1",
+        "name" : "RELA (inhibition) AKT1",
+        "interaction" : "inhibition",
+        "SUID" : 364,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "source" : "153",
+        "target" : "149",
+        "shared_name" : "RELA (activation) HPSE",
+        "name" : "RELA (activation) HPSE",
+        "interaction" : "activation",
+        "SUID" : 363,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "source" : "153",
+        "target" : "148",
+        "shared_name" : "RELA (activation) CDK4",
+        "name" : "RELA (activation) CDK4",
+        "interaction" : "activation",
+        "SUID" : 362,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "361",
+        "source" : "153",
+        "target" : "147",
+        "shared_name" : "RELA (activation) SP1",
+        "name" : "RELA (activation) SP1",
+        "interaction" : "activation",
+        "SUID" : 361,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "source" : "152",
+        "target" : "138",
+        "shared_name" : "STAT3 (inhibition) GATA1",
+        "name" : "STAT3 (inhibition) GATA1",
+        "interaction" : "inhibition",
+        "SUID" : 360,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "source" : "152",
+        "target" : "151",
+        "shared_name" : "STAT3 (activation) TIMP1",
+        "name" : "STAT3 (activation) TIMP1",
+        "interaction" : "activation",
+        "SUID" : 359,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "152",
+        "target" : "123",
+        "shared_name" : "STAT3 (activation) CCND3",
+        "name" : "STAT3 (activation) CCND3",
+        "interaction" : "activation",
+        "SUID" : 358,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "150",
+        "target" : "143",
+        "shared_name" : "AKT1 (inhibition) HSPB1",
+        "name" : "AKT1 (inhibition) HSPB1",
+        "interaction" : "inhibition",
+        "SUID" : 357,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "source" : "150",
+        "target" : "142",
+        "shared_name" : "AKT1 (activation) ITGB2",
+        "name" : "AKT1 (activation) ITGB2",
+        "interaction" : "activation",
+        "SUID" : 356,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "150",
+        "target" : "141",
+        "shared_name" : "AKT1 (activation) YWHAH",
+        "name" : "AKT1 (activation) YWHAH",
+        "interaction" : "activation",
+        "SUID" : 355,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "150",
+        "target" : "140",
+        "shared_name" : "AKT1 (activation) PRKACA",
+        "name" : "AKT1 (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 354,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "150",
+        "target" : "139",
+        "shared_name" : "AKT1 (activation) PRKCD",
+        "name" : "AKT1 (activation) PRKCD",
+        "interaction" : "activation",
+        "SUID" : 353,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "150",
+        "target" : "138",
+        "shared_name" : "AKT1 (activation) GATA1",
+        "name" : "AKT1 (activation) GATA1",
+        "interaction" : "activation",
+        "SUID" : 352,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "source" : "150",
+        "target" : "137",
+        "shared_name" : "AKT1 (activation) HIF1A",
+        "name" : "AKT1 (activation) HIF1A",
+        "interaction" : "activation",
+        "SUID" : 351,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "150",
+        "target" : "152",
+        "shared_name" : "AKT1 (activation) STAT3",
+        "name" : "AKT1 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 350,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "150",
+        "target" : "136",
+        "shared_name" : "AKT1 (inhibition) IKBKG",
+        "name" : "AKT1 (inhibition) IKBKG",
+        "interaction" : "inhibition",
+        "SUID" : 349,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "148",
+        "target" : "121",
+        "shared_name" : "CDK4 (inhibition) E2F1",
+        "name" : "CDK4 (inhibition) E2F1",
+        "interaction" : "inhibition",
+        "SUID" : 348,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "147",
+        "target" : "118",
+        "shared_name" : "SP1 (activation) ALDOA",
+        "name" : "SP1 (activation) ALDOA",
+        "interaction" : "activation",
+        "SUID" : 347,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "146",
+        "target" : "145",
+        "shared_name" : "NFKB2 (activation) SELP",
+        "name" : "NFKB2 (activation) SELP",
+        "interaction" : "activation",
+        "SUID" : 346,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "144",
+        "target" : "146",
+        "shared_name" : "RBX1 (activation) NFKB2",
+        "name" : "RBX1 (activation) NFKB2",
+        "interaction" : "activation",
+        "SUID" : 345,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "source" : "143",
+        "target" : "144",
+        "shared_name" : "HSPB1 (activation) RBX1",
+        "name" : "HSPB1 (activation) RBX1",
+        "interaction" : "activation",
+        "SUID" : 344,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "143",
+        "target" : "147",
+        "shared_name" : "HSPB1 (activation) SP1",
+        "name" : "HSPB1 (activation) SP1",
+        "interaction" : "activation",
+        "SUID" : 343,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "142",
+        "target" : "135",
+        "shared_name" : "ITGB2 (activation) CSK",
+        "name" : "ITGB2 (activation) CSK",
+        "interaction" : "activation",
+        "SUID" : 342,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "141",
+        "target" : "131",
+        "shared_name" : "YWHAH (activation) GRB2",
+        "name" : "YWHAH (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 341,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "140",
+        "target" : "130",
+        "shared_name" : "PRKACA (activation) GNA15",
+        "name" : "PRKACA (activation) GNA15",
+        "interaction" : "activation",
+        "SUID" : 340,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "140",
+        "target" : "129",
+        "shared_name" : "PRKACA (activation) FLNA",
+        "name" : "PRKACA (activation) FLNA",
+        "interaction" : "activation",
+        "SUID" : 339,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "140",
+        "target" : "128",
+        "shared_name" : "PRKACA (activation) IRF3",
+        "name" : "PRKACA (activation) IRF3",
+        "interaction" : "activation",
+        "SUID" : 338,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "140",
+        "target" : "153",
+        "shared_name" : "PRKACA (activation) RELA",
+        "name" : "PRKACA (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 337,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "140",
+        "target" : "127",
+        "shared_name" : "PRKACA (inhibition) HSPB6",
+        "name" : "PRKACA (inhibition) HSPB6",
+        "interaction" : "inhibition",
+        "SUID" : 336,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "140",
+        "target" : "135",
+        "shared_name" : "PRKACA (activation) CSK",
+        "name" : "PRKACA (activation) CSK",
+        "interaction" : "activation",
+        "SUID" : 335,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "source" : "140",
+        "target" : "126",
+        "shared_name" : "PRKACA (activation) ITGB3",
+        "name" : "PRKACA (activation) ITGB3",
+        "interaction" : "activation",
+        "SUID" : 334,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "source" : "140",
+        "target" : "125",
+        "shared_name" : "PRKACA (activation) MAPK1",
+        "name" : "PRKACA (activation) MAPK1",
+        "interaction" : "activation",
+        "SUID" : 333,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "140",
+        "target" : "124",
+        "shared_name" : "PRKACA (activation) VASP",
+        "name" : "PRKACA (activation) VASP",
+        "interaction" : "activation",
+        "SUID" : 332,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "source" : "139",
+        "target" : "117",
+        "shared_name" : "PRKCD (activation) ACTB",
+        "name" : "PRKCD (activation) ACTB",
+        "interaction" : "activation",
+        "SUID" : 331,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "source" : "137",
+        "target" : "118",
+        "shared_name" : "HIF1A (activation) ALDOA",
+        "name" : "HIF1A (activation) ALDOA",
+        "interaction" : "activation",
+        "SUID" : 330,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "136",
+        "target" : "153",
+        "shared_name" : "IKBKG (activation) RELA",
+        "name" : "IKBKG (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 329,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "source" : "135",
+        "target" : "134",
+        "shared_name" : "CSK (activation) CD247",
+        "name" : "CSK (activation) CD247",
+        "interaction" : "activation",
+        "SUID" : 328,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "134",
+        "target" : "133",
+        "shared_name" : "CD247 (activation) PRKAR1B",
+        "name" : "CD247 (activation) PRKAR1B",
+        "interaction" : "activation",
+        "SUID" : 327,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "132",
+        "target" : "140",
+        "shared_name" : "ILK (activation) PRKACA",
+        "name" : "ILK (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 326,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "132",
+        "target" : "150",
+        "shared_name" : "ILK (activation) AKT1",
+        "name" : "ILK (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 325,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "131",
+        "target" : "132",
+        "shared_name" : "GRB2 (activation) ILK",
+        "name" : "GRB2 (activation) ILK",
+        "interaction" : "activation",
+        "SUID" : 324,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "131",
+        "target" : "150",
+        "shared_name" : "GRB2 (activation) AKT1",
+        "name" : "GRB2 (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 323,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "128",
+        "target" : "122",
+        "shared_name" : "IRF3 (activation) CD40",
+        "name" : "IRF3 (activation) CD40",
+        "interaction" : "activation",
+        "SUID" : 322,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "127",
+        "target" : "143",
+        "shared_name" : "HSPB6 (inhibition) HSPB1",
+        "name" : "HSPB6 (inhibition) HSPB1",
+        "interaction" : "inhibition",
+        "SUID" : 321,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "126",
+        "target" : "132",
+        "shared_name" : "ITGB3 (activation) ILK",
+        "name" : "ITGB3 (activation) ILK",
+        "interaction" : "activation",
+        "SUID" : 320,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "125",
+        "target" : "138",
+        "shared_name" : "MAPK1 (activation) GATA1",
+        "name" : "MAPK1 (activation) GATA1",
+        "interaction" : "activation",
+        "SUID" : 319,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "125",
+        "target" : "143",
+        "shared_name" : "MAPK1 (activation) HSPB1",
+        "name" : "MAPK1 (activation) HSPB1",
+        "interaction" : "activation",
+        "SUID" : 318,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "125",
+        "target" : "140",
+        "shared_name" : "MAPK1 (activation) PRKACA",
+        "name" : "MAPK1 (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 317,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "125",
+        "target" : "153",
+        "shared_name" : "MAPK1 (activation) RELA",
+        "name" : "MAPK1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 316,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "125",
+        "target" : "104",
+        "shared_name" : "MAPK1 (inhibition) PTPN6",
+        "name" : "MAPK1 (inhibition) PTPN6",
+        "interaction" : "inhibition",
+        "SUID" : 315,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "125",
+        "target" : "131",
+        "shared_name" : "MAPK1 (activation) GRB2",
+        "name" : "MAPK1 (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 314,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "source" : "125",
+        "target" : "121",
+        "shared_name" : "MAPK1 (activation) E2F1",
+        "name" : "MAPK1 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 313,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "124",
+        "target" : "117",
+        "shared_name" : "VASP (activation) ACTB",
+        "name" : "VASP (activation) ACTB",
+        "interaction" : "activation",
+        "SUID" : 312,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "source" : "123",
+        "target" : "121",
+        "shared_name" : "CCND3 (inhibition) E2F1",
+        "name" : "CCND3 (inhibition) E2F1",
+        "interaction" : "inhibition",
+        "SUID" : 311,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "122",
+        "target" : "119",
+        "shared_name" : "CD40 (activation) JAK3",
+        "name" : "CD40 (activation) JAK3",
+        "interaction" : "activation",
+        "SUID" : 310,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "source" : "121",
+        "target" : "128",
+        "shared_name" : "E2F1 (inhibition) IRF3",
+        "name" : "E2F1 (inhibition) IRF3",
+        "interaction" : "inhibition",
+        "SUID" : 309,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "121",
+        "target" : "153",
+        "shared_name" : "E2F1 (activation) RELA",
+        "name" : "E2F1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 308,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "source" : "121",
+        "target" : "120",
+        "shared_name" : "E2F1 (inhibition) SPI1",
+        "name" : "E2F1 (inhibition) SPI1",
+        "interaction" : "inhibition",
+        "SUID" : 307,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "120",
+        "target" : "138",
+        "shared_name" : "SPI1 (activation) GATA1",
+        "name" : "SPI1 (activation) GATA1",
+        "interaction" : "activation",
+        "SUID" : 306,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "source" : "119",
+        "target" : "131",
+        "shared_name" : "JAK3 (activation) GRB2",
+        "name" : "JAK3 (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 305,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "119",
+        "target" : "114",
+        "shared_name" : "JAK3 (activation) RHOA",
+        "name" : "JAK3 (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 304,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "source" : "116",
+        "target" : "152",
+        "shared_name" : "TP53 (inhibition) STAT3",
+        "name" : "TP53 (inhibition) STAT3",
+        "interaction" : "inhibition",
+        "SUID" : 303,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "source" : "116",
+        "target" : "150",
+        "shared_name" : "TP53 (inhibition) AKT1",
+        "name" : "TP53 (inhibition) AKT1",
+        "interaction" : "inhibition",
+        "SUID" : 302,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "source" : "116",
+        "target" : "115",
+        "shared_name" : "TP53 (inhibition) RAC1",
+        "name" : "TP53 (inhibition) RAC1",
+        "interaction" : "inhibition",
+        "SUID" : 301,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "115",
+        "target" : "114",
+        "shared_name" : "RAC1 (inhibition) RHOA",
+        "name" : "RAC1 (inhibition) RHOA",
+        "interaction" : "inhibition",
+        "SUID" : 300,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "source" : "115",
+        "target" : "153",
+        "shared_name" : "RAC1 (activation) RELA",
+        "name" : "RAC1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 299,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "115",
+        "target" : "137",
+        "shared_name" : "RAC1 (activation) HIF1A",
+        "name" : "RAC1 (activation) HIF1A",
+        "interaction" : "activation",
+        "SUID" : 298,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "115",
+        "target" : "150",
+        "shared_name" : "RAC1 (activation) AKT1",
+        "name" : "RAC1 (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 297,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "114",
+        "target" : "113",
+        "shared_name" : "RHOA (inhibition) SHC1",
+        "name" : "RHOA (inhibition) SHC1",
+        "interaction" : "inhibition",
+        "SUID" : 296,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "114",
+        "target" : "117",
+        "shared_name" : "RHOA (activation) ACTB",
+        "name" : "RHOA (activation) ACTB",
+        "interaction" : "activation",
+        "SUID" : 295,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "114",
+        "target" : "112",
+        "shared_name" : "RHOA (activation) ITGB1",
+        "name" : "RHOA (activation) ITGB1",
+        "interaction" : "activation",
+        "SUID" : 294,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "114",
+        "target" : "150",
+        "shared_name" : "RHOA (inhibition) AKT1",
+        "name" : "RHOA (inhibition) AKT1",
+        "interaction" : "inhibition",
+        "SUID" : 293,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "113",
+        "target" : "132",
+        "shared_name" : "SHC1 (activation) ILK",
+        "name" : "SHC1 (activation) ILK",
+        "interaction" : "activation",
+        "SUID" : 292,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "112",
+        "target" : "133",
+        "shared_name" : "ITGB1 (activation) PRKAR1B",
+        "name" : "ITGB1 (activation) PRKAR1B",
+        "interaction" : "activation",
+        "SUID" : 291,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "112",
+        "target" : "115",
+        "shared_name" : "ITGB1 (activation) RAC1",
+        "name" : "ITGB1 (activation) RAC1",
+        "interaction" : "activation",
+        "SUID" : 290,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "112",
+        "target" : "132",
+        "shared_name" : "ITGB1 (activation) ILK",
+        "name" : "ITGB1 (activation) ILK",
+        "interaction" : "activation",
+        "SUID" : 289,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "112",
+        "target" : "140",
+        "shared_name" : "ITGB1 (activation) PRKACA",
+        "name" : "ITGB1 (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 288,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "112",
+        "target" : "109",
+        "shared_name" : "ITGB1 (activation) MAPK3",
+        "name" : "ITGB1 (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 287,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "112",
+        "target" : "114",
+        "shared_name" : "ITGB1 (activation) RHOA",
+        "name" : "ITGB1 (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 286,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "111",
+        "target" : "153",
+        "shared_name" : "TNF (activation) RELA",
+        "name" : "TNF (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 285,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "111",
+        "target" : "150",
+        "shared_name" : "TNF (activation) AKT1",
+        "name" : "TNF (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 284,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "111",
+        "target" : "114",
+        "shared_name" : "TNF (activation) RHOA",
+        "name" : "TNF (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 283,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "111",
+        "target" : "110",
+        "shared_name" : "TNF (activation) HDAC3",
+        "name" : "TNF (activation) HDAC3",
+        "interaction" : "activation",
+        "SUID" : 282,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "110",
+        "target" : "121",
+        "shared_name" : "HDAC3 (activation) E2F1",
+        "name" : "HDAC3 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 281,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "109",
+        "target" : "153",
+        "shared_name" : "MAPK3 (activation) RELA",
+        "name" : "MAPK3 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 280,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "109",
+        "target" : "121",
+        "shared_name" : "MAPK3 (activation) E2F1",
+        "name" : "MAPK3 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 279,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "109",
+        "target" : "104",
+        "shared_name" : "MAPK3 (inhibition) PTPN6",
+        "name" : "MAPK3 (inhibition) PTPN6",
+        "interaction" : "inhibition",
+        "SUID" : 278,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "109",
+        "target" : "131",
+        "shared_name" : "MAPK3 (activation) GRB2",
+        "name" : "MAPK3 (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 277,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "109",
+        "target" : "138",
+        "shared_name" : "MAPK3 (activation) GATA1",
+        "name" : "MAPK3 (activation) GATA1",
+        "interaction" : "activation",
+        "SUID" : 276,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "108",
+        "target" : "107",
+        "shared_name" : "TGFB1 (activation) SMAD3",
+        "name" : "TGFB1 (activation) SMAD3",
+        "interaction" : "activation",
+        "SUID" : 275,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "108",
+        "target" : "150",
+        "shared_name" : "TGFB1 (activation) AKT1",
+        "name" : "TGFB1 (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 274,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "108",
+        "target" : "106",
+        "shared_name" : "TGFB1 (inhibition) EGF",
+        "name" : "TGFB1 (inhibition) EGF",
+        "interaction" : "inhibition",
+        "SUID" : 273,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "108",
+        "target" : "105",
+        "shared_name" : "TGFB1 (activation) PDGFA",
+        "name" : "TGFB1 (activation) PDGFA",
+        "interaction" : "activation",
+        "SUID" : 272,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "108",
+        "target" : "109",
+        "shared_name" : "TGFB1 (activation) MAPK3",
+        "name" : "TGFB1 (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 271,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "107",
+        "target" : "151",
+        "shared_name" : "SMAD3 (activation) TIMP1",
+        "name" : "SMAD3 (activation) TIMP1",
+        "interaction" : "activation",
+        "SUID" : 270,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "106",
+        "target" : "104",
+        "shared_name" : "EGF (activation) PTPN6",
+        "name" : "EGF (activation) PTPN6",
+        "interaction" : "activation",
+        "SUID" : 269,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "106",
+        "target" : "114",
+        "shared_name" : "EGF (activation) RHOA",
+        "name" : "EGF (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 268,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "source" : "105",
+        "target" : "131",
+        "shared_name" : "PDGFA (activation) GRB2",
+        "name" : "PDGFA (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 267,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "104",
+        "target" : "134",
+        "shared_name" : "PTPN6 (inhibition) CD247",
+        "name" : "PTPN6 (inhibition) CD247",
+        "interaction" : "inhibition",
+        "SUID" : 266,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "source" : "103",
+        "target" : "153",
+        "shared_name" : "TBK1 (activation) RELA",
+        "name" : "TBK1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 265,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "103",
+        "target" : "143",
+        "shared_name" : "TBK1 (activation) HSPB1",
+        "name" : "TBK1 (activation) HSPB1",
+        "interaction" : "activation",
+        "SUID" : 264,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "103",
+        "target" : "102",
+        "shared_name" : "TBK1 (activation) DOK1",
+        "name" : "TBK1 (activation) DOK1",
+        "interaction" : "activation",
+        "SUID" : 263,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "103",
+        "target" : "141",
+        "shared_name" : "TBK1 (activation) YWHAH",
+        "name" : "TBK1 (activation) YWHAH",
+        "interaction" : "activation",
+        "SUID" : 262,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "103",
+        "target" : "150",
+        "shared_name" : "TBK1 (activation) AKT1",
+        "name" : "TBK1 (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 261,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "103",
+        "target" : "128",
+        "shared_name" : "TBK1 (activation) IRF3",
+        "name" : "TBK1 (activation) IRF3",
+        "interaction" : "activation",
+        "SUID" : 260,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "102",
+        "target" : "142",
+        "shared_name" : "DOK1 (inhibition) ITGB2",
+        "name" : "DOK1 (inhibition) ITGB2",
+        "interaction" : "inhibition",
+        "SUID" : 259,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "source" : "101",
+        "target" : "100",
+        "shared_name" : "FGF7 (activation) NFKB1",
+        "name" : "FGF7 (activation) NFKB1",
+        "interaction" : "activation",
+        "SUID" : 258,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "101",
+        "target" : "99",
+        "shared_name" : "FGF7 (activation) ESR1",
+        "name" : "FGF7 (activation) ESR1",
+        "interaction" : "activation",
+        "SUID" : 257,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "101",
+        "target" : "98",
+        "shared_name" : "FGF7 (activation) JUN",
+        "name" : "FGF7 (activation) JUN",
+        "interaction" : "activation",
+        "SUID" : 256,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "source" : "100",
+        "target" : "151",
+        "shared_name" : "NFKB1 (inhibition) TIMP1",
+        "name" : "NFKB1 (inhibition) TIMP1",
+        "interaction" : "inhibition",
+        "SUID" : 255,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "100",
+        "target" : "109",
+        "shared_name" : "NFKB1 (activation) MAPK3",
+        "name" : "NFKB1 (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 254,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "100",
+        "target" : "149",
+        "shared_name" : "NFKB1 (activation) HPSE",
+        "name" : "NFKB1 (activation) HPSE",
+        "interaction" : "activation",
+        "SUID" : 253,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "100",
+        "target" : "150",
+        "shared_name" : "NFKB1 (inhibition) AKT1",
+        "name" : "NFKB1 (inhibition) AKT1",
+        "interaction" : "inhibition",
+        "SUID" : 252,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "99",
+        "target" : "143",
+        "shared_name" : "ESR1 (activation) HSPB1",
+        "name" : "ESR1 (activation) HSPB1",
+        "interaction" : "activation",
+        "SUID" : 251,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "98",
+        "target" : "123",
+        "shared_name" : "JUN (activation) CCND3",
+        "name" : "JUN (activation) CCND3",
+        "interaction" : "activation",
+        "SUID" : 250,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "97",
+        "target" : "101",
+        "shared_name" : "SREBF1 (inhibition) FGF7",
+        "name" : "SREBF1 (inhibition) FGF7",
+        "interaction" : "inhibition",
+        "SUID" : 249,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "96",
+        "target" : "100",
+        "shared_name" : "PPARG (inhibition) NFKB1",
+        "name" : "PPARG (inhibition) NFKB1",
+        "interaction" : "inhibition",
+        "SUID" : 248,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "96",
+        "target" : "98",
+        "shared_name" : "PPARG (inhibition) JUN",
+        "name" : "PPARG (inhibition) JUN",
+        "interaction" : "inhibition",
+        "SUID" : 247,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "95",
+        "target" : "153",
+        "shared_name" : "SRC (activation) RELA",
+        "name" : "SRC (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 246,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "95",
+        "target" : "150",
+        "shared_name" : "SRC (activation) AKT1",
+        "name" : "SRC (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 245,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "95",
+        "target" : "104",
+        "shared_name" : "SRC (activation) PTPN6",
+        "name" : "SRC (activation) PTPN6",
+        "interaction" : "activation",
+        "SUID" : 244,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "95",
+        "target" : "131",
+        "shared_name" : "SRC (activation) GRB2",
+        "name" : "SRC (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 243,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "95",
+        "target" : "109",
+        "shared_name" : "SRC (activation) MAPK3",
+        "name" : "SRC (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 242,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "95",
+        "target" : "114",
+        "shared_name" : "SRC (inhibition) RHOA",
+        "name" : "SRC (inhibition) RHOA",
+        "interaction" : "inhibition",
+        "SUID" : 241,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "94",
+        "target" : "95",
+        "shared_name" : "PPARA (inhibition) SRC",
+        "name" : "PPARA (inhibition) SRC",
+        "interaction" : "inhibition",
+        "SUID" : 240,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "93",
+        "target" : "153",
+        "shared_name" : "PIM1 (activation) RELA",
+        "name" : "PIM1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 239,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "93",
+        "target" : "92",
+        "shared_name" : "PIM1 (activation) CDKN1A",
+        "name" : "PIM1 (activation) CDKN1A",
+        "interaction" : "activation",
+        "SUID" : 238,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "92",
+        "target" : "121",
+        "shared_name" : "CDKN1A (inhibition) E2F1",
+        "name" : "CDKN1A (inhibition) E2F1",
+        "interaction" : "inhibition",
+        "SUID" : 237,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "92",
+        "target" : "115",
+        "shared_name" : "CDKN1A (activation) RAC1",
+        "name" : "CDKN1A (activation) RAC1",
+        "interaction" : "activation",
+        "SUID" : 236,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "MYC (activation) SMAD3",
+        "name" : "MYC (activation) SMAD3",
+        "interaction" : "activation",
+        "SUID" : 235,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "91",
+        "target" : "90",
+        "shared_name" : "MYC (activation) PRKACB",
+        "name" : "MYC (activation) PRKACB",
+        "interaction" : "activation",
+        "SUID" : 234,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "91",
+        "target" : "148",
+        "shared_name" : "MYC (activation) CDK4",
+        "name" : "MYC (activation) CDK4",
+        "interaction" : "activation",
+        "SUID" : 233,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "91",
+        "target" : "147",
+        "shared_name" : "MYC (activation) SP1",
+        "name" : "MYC (activation) SP1",
+        "interaction" : "activation",
+        "SUID" : 232,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "source" : "90",
+        "target" : "125",
+        "shared_name" : "PRKACB (inhibition) MAPK1",
+        "name" : "PRKACB (inhibition) MAPK1",
+        "interaction" : "inhibition",
+        "SUID" : 231,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "90",
+        "target" : "135",
+        "shared_name" : "PRKACB (activation) CSK",
+        "name" : "PRKACB (activation) CSK",
+        "interaction" : "activation",
+        "SUID" : 230,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "90",
+        "target" : "114",
+        "shared_name" : "PRKACB (inhibition) RHOA",
+        "name" : "PRKACB (inhibition) RHOA",
+        "interaction" : "inhibition",
+        "SUID" : 229,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "90",
+        "target" : "109",
+        "shared_name" : "PRKACB (inhibition) MAPK3",
+        "name" : "PRKACB (inhibition) MAPK3",
+        "interaction" : "inhibition",
+        "SUID" : 228,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "89",
+        "target" : "152",
+        "shared_name" : "MAPK9 (activation) STAT3",
+        "name" : "MAPK9 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 227,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "source" : "89",
+        "target" : "88",
+        "shared_name" : "MAPK9 (activation) FOS",
+        "name" : "MAPK9 (activation) FOS",
+        "interaction" : "activation",
+        "SUID" : 226,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "89",
+        "target" : "109",
+        "shared_name" : "MAPK9 (activation) MAPK3",
+        "name" : "MAPK9 (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 225,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "89",
+        "target" : "87",
+        "shared_name" : "MAPK9 (inhibition) JAK2",
+        "name" : "MAPK9 (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 224,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "89",
+        "target" : "147",
+        "shared_name" : "MAPK9 (activation) SP1",
+        "name" : "MAPK9 (activation) SP1",
+        "interaction" : "activation",
+        "SUID" : 223,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "89",
+        "target" : "86",
+        "shared_name" : "MAPK9 (activation) CTNNB1",
+        "name" : "MAPK9 (activation) CTNNB1",
+        "interaction" : "activation",
+        "SUID" : 222,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "88",
+        "target" : "108",
+        "shared_name" : "FOS (activation) TGFB1",
+        "name" : "FOS (activation) TGFB1",
+        "interaction" : "activation",
+        "SUID" : 221,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "87",
+        "target" : "140",
+        "shared_name" : "JAK2 (activation) PRKACA",
+        "name" : "JAK2 (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 220,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "source" : "87",
+        "target" : "153",
+        "shared_name" : "JAK2 (activation) RELA",
+        "name" : "JAK2 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 219,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "87",
+        "target" : "131",
+        "shared_name" : "JAK2 (activation) GRB2",
+        "name" : "JAK2 (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 218,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "87",
+        "target" : "85",
+        "shared_name" : "JAK2 (activation) LCK",
+        "name" : "JAK2 (activation) LCK",
+        "interaction" : "activation",
+        "SUID" : 217,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "87",
+        "target" : "152",
+        "shared_name" : "JAK2 (activation) STAT3",
+        "name" : "JAK2 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 216,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "86",
+        "target" : "114",
+        "shared_name" : "CTNNB1 (activation) RHOA",
+        "name" : "CTNNB1 (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 215,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "source" : "85",
+        "target" : "153",
+        "shared_name" : "LCK (activation) RELA",
+        "name" : "LCK (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 214,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "85",
+        "target" : "150",
+        "shared_name" : "LCK (activation) AKT1",
+        "name" : "LCK (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 213,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "85",
+        "target" : "134",
+        "shared_name" : "LCK (activation) CD247",
+        "name" : "LCK (activation) CD247",
+        "interaction" : "activation",
+        "SUID" : 212,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "85",
+        "target" : "131",
+        "shared_name" : "LCK (activation) GRB2",
+        "name" : "LCK (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 211,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "85",
+        "target" : "123",
+        "shared_name" : "LCK (activation) CCND3",
+        "name" : "LCK (activation) CCND3",
+        "interaction" : "activation",
+        "SUID" : 210,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "85",
+        "target" : "114",
+        "shared_name" : "LCK (activation) RHOA",
+        "name" : "LCK (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 209,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "84",
+        "target" : "152",
+        "shared_name" : "MAPK8 (activation) STAT3",
+        "name" : "MAPK8 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 208,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "84",
+        "target" : "83",
+        "shared_name" : "MAPK8 (activation) MAPK14",
+        "name" : "MAPK8 (activation) MAPK14",
+        "interaction" : "activation",
+        "SUID" : 207,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "84",
+        "target" : "95",
+        "shared_name" : "MAPK8 (activation) SRC",
+        "name" : "MAPK8 (activation) SRC",
+        "interaction" : "activation",
+        "SUID" : 206,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "84",
+        "target" : "141",
+        "shared_name" : "MAPK8 (activation) YWHAH",
+        "name" : "MAPK8 (activation) YWHAH",
+        "interaction" : "activation",
+        "SUID" : 205,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "84",
+        "target" : "82",
+        "shared_name" : "MAPK8 (activation) TRIM28",
+        "name" : "MAPK8 (activation) TRIM28",
+        "interaction" : "activation",
+        "SUID" : 204,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "84",
+        "target" : "147",
+        "shared_name" : "MAPK8 (activation) SP1",
+        "name" : "MAPK8 (activation) SP1",
+        "interaction" : "activation",
+        "SUID" : 203,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "83",
+        "target" : "143",
+        "shared_name" : "MAPK14 (activation) HSPB1",
+        "name" : "MAPK14 (activation) HSPB1",
+        "interaction" : "activation",
+        "SUID" : 202,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "82",
+        "target" : "121",
+        "shared_name" : "TRIM28 (activation) E2F1",
+        "name" : "TRIM28 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 201,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "81",
+        "target" : "152",
+        "shared_name" : "LYN (activation) STAT3",
+        "name" : "LYN (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 200,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "81",
+        "target" : "83",
+        "shared_name" : "LYN (activation) MAPK14",
+        "name" : "LYN (activation) MAPK14",
+        "interaction" : "activation",
+        "SUID" : 199,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "81",
+        "target" : "104",
+        "shared_name" : "LYN (activation) PTPN6",
+        "name" : "LYN (activation) PTPN6",
+        "interaction" : "activation",
+        "SUID" : 198,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "81",
+        "target" : "131",
+        "shared_name" : "LYN (activation) GRB2",
+        "name" : "LYN (activation) GRB2",
+        "interaction" : "activation",
+        "SUID" : 197,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "81",
+        "target" : "115",
+        "shared_name" : "LYN (activation) RAC1",
+        "name" : "LYN (activation) RAC1",
+        "interaction" : "activation",
+        "SUID" : 196,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "81",
+        "target" : "109",
+        "shared_name" : "LYN (activation) MAPK3",
+        "name" : "LYN (activation) MAPK3",
+        "interaction" : "activation",
+        "SUID" : 195,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "81",
+        "target" : "80",
+        "shared_name" : "LYN (activation) PRKCQ",
+        "name" : "LYN (activation) PRKCQ",
+        "interaction" : "activation",
+        "SUID" : 194,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "80",
+        "target" : "117",
+        "shared_name" : "PRKCQ (activation) ACTB",
+        "name" : "PRKCQ (activation) ACTB",
+        "interaction" : "activation",
+        "SUID" : 193,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "79",
+        "target" : "153",
+        "shared_name" : "IRAK1 (activation) RELA",
+        "name" : "IRAK1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 192,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "79",
+        "target" : "78",
+        "shared_name" : "IRAK1 (activation) CSNK2A2",
+        "name" : "IRAK1 (activation) CSNK2A2",
+        "interaction" : "activation",
+        "SUID" : 191,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "79",
+        "target" : "152",
+        "shared_name" : "IRAK1 (activation) STAT3",
+        "name" : "IRAK1 (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 190,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "78",
+        "target" : "77",
+        "shared_name" : "CSNK2A2 (activation) PTPRC",
+        "name" : "CSNK2A2 (activation) PTPRC",
+        "interaction" : "activation",
+        "SUID" : 189,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "78",
+        "target" : "76",
+        "shared_name" : "CSNK2A2 (activation) CTTN",
+        "name" : "CSNK2A2 (activation) CTTN",
+        "interaction" : "activation",
+        "SUID" : 188,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "77",
+        "target" : "134",
+        "shared_name" : "PTPRC (inhibition) CD247",
+        "name" : "PTPRC (inhibition) CD247",
+        "interaction" : "inhibition",
+        "SUID" : 187,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "76",
+        "target" : "117",
+        "shared_name" : "CTTN (activation) ACTB",
+        "name" : "CTTN (activation) ACTB",
+        "interaction" : "activation",
+        "SUID" : 186,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "75",
+        "target" : "153",
+        "shared_name" : "IKBKB (activation) RELA",
+        "name" : "IKBKB (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 185,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "75",
+        "target" : "79",
+        "shared_name" : "IKBKB (activation) IRAK1",
+        "name" : "IKBKB (activation) IRAK1",
+        "interaction" : "activation",
+        "SUID" : 184,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "74",
+        "target" : "150",
+        "shared_name" : "GSK3B (activation) AKT1",
+        "name" : "GSK3B (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 183,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "74",
+        "target" : "140",
+        "shared_name" : "GSK3B (activation) PRKACA",
+        "name" : "GSK3B (activation) PRKACA",
+        "interaction" : "activation",
+        "SUID" : 182,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "74",
+        "target" : "153",
+        "shared_name" : "GSK3B (activation) RELA",
+        "name" : "GSK3B (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 181,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "74",
+        "target" : "123",
+        "shared_name" : "GSK3B (inhibition) CCND3",
+        "name" : "GSK3B (inhibition) CCND3",
+        "interaction" : "inhibition",
+        "SUID" : 180,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "73",
+        "target" : "72",
+        "shared_name" : "DAPK1 (activation) PKM",
+        "name" : "DAPK1 (activation) PKM",
+        "interaction" : "activation",
+        "SUID" : 179,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "73",
+        "target" : "71",
+        "shared_name" : "DAPK1 (inhibition) PIN1",
+        "name" : "DAPK1 (inhibition) PIN1",
+        "interaction" : "inhibition",
+        "SUID" : 178,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "72",
+        "target" : "152",
+        "shared_name" : "PKM (activation) STAT3",
+        "name" : "PKM (activation) STAT3",
+        "interaction" : "activation",
+        "SUID" : 177,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "71",
+        "target" : "108",
+        "shared_name" : "PIN1 (activation) TGFB1",
+        "name" : "PIN1 (activation) TGFB1",
+        "interaction" : "activation",
+        "SUID" : 176,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "71",
+        "target" : "141",
+        "shared_name" : "PIN1 (inhibition) YWHAH",
+        "name" : "PIN1 (inhibition) YWHAH",
+        "interaction" : "inhibition",
+        "SUID" : 175,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "71",
+        "target" : "70",
+        "shared_name" : "PIN1 (inhibition) RAF1",
+        "name" : "PIN1 (inhibition) RAF1",
+        "interaction" : "inhibition",
+        "SUID" : 174,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "71",
+        "target" : "69",
+        "shared_name" : "PIN1 (inhibition) YWHAQ",
+        "name" : "PIN1 (inhibition) YWHAQ",
+        "interaction" : "inhibition",
+        "SUID" : 173,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "71",
+        "target" : "86",
+        "shared_name" : "PIN1 (activation) CTNNB1",
+        "name" : "PIN1 (activation) CTNNB1",
+        "interaction" : "activation",
+        "SUID" : 172,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "70",
+        "target" : "153",
+        "shared_name" : "RAF1 (activation) RELA",
+        "name" : "RAF1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 171,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "69",
+        "target" : "121",
+        "shared_name" : "YWHAQ (activation) E2F1",
+        "name" : "YWHAQ (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 170,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "68",
+        "target" : "153",
+        "shared_name" : "CSNK2A1 (activation) RELA",
+        "name" : "CSNK2A1 (activation) RELA",
+        "interaction" : "activation",
+        "SUID" : 169,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "68",
+        "target" : "150",
+        "shared_name" : "CSNK2A1 (activation) AKT1",
+        "name" : "CSNK2A1 (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 168,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "68",
+        "target" : "67",
+        "shared_name" : "CSNK2A1 (inhibition) CDC34",
+        "name" : "CSNK2A1 (inhibition) CDC34",
+        "interaction" : "inhibition",
+        "SUID" : 167,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "68",
+        "target" : "147",
+        "shared_name" : "CSNK2A1 (inhibition) SP1",
+        "name" : "CSNK2A1 (inhibition) SP1",
+        "interaction" : "inhibition",
+        "SUID" : 166,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "67",
+        "target" : "121",
+        "shared_name" : "CDC34 (activation) E2F1",
+        "name" : "CDC34 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 165,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "66",
+        "target" : "121",
+        "shared_name" : "CDK2 (inhibition) E2F1",
+        "name" : "CDK2 (inhibition) E2F1",
+        "interaction" : "inhibition",
+        "SUID" : 164,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "66",
+        "target" : "65",
+        "shared_name" : "CDK2 (activation) PRKAR1A",
+        "name" : "CDK2 (activation) PRKAR1A",
+        "interaction" : "activation",
+        "SUID" : 163,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "65",
+        "target" : "135",
+        "shared_name" : "PRKAR1A (activation) CSK",
+        "name" : "PRKAR1A (activation) CSK",
+        "interaction" : "activation",
+        "SUID" : 162,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "64",
+        "target" : "121",
+        "shared_name" : "CDK1 (activation) E2F1",
+        "name" : "CDK1 (activation) E2F1",
+        "interaction" : "activation",
+        "SUID" : 161,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "63",
+        "target" : "153",
+        "shared_name" : "CASP3 (inhibition) RELA",
+        "name" : "CASP3 (inhibition) RELA",
+        "interaction" : "inhibition",
+        "SUID" : 160,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "63",
+        "target" : "114",
+        "shared_name" : "CASP3 (activation) RHOA",
+        "name" : "CASP3 (activation) RHOA",
+        "interaction" : "activation",
+        "SUID" : 159,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "63",
+        "target" : "138",
+        "shared_name" : "CASP3 (activation) GATA1",
+        "name" : "CASP3 (activation) GATA1",
+        "interaction" : "activation",
+        "SUID" : 158,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "63",
+        "target" : "92",
+        "shared_name" : "CASP3 (activation) CDKN1A",
+        "name" : "CASP3 (activation) CDKN1A",
+        "interaction" : "activation",
+        "SUID" : 157,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "62",
+        "target" : "150",
+        "shared_name" : "AURKA (activation) AKT1",
+        "name" : "AURKA (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 156,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "61",
+        "target" : "150",
+        "shared_name" : "AR (activation) AKT1",
+        "name" : "AR (activation) AKT1",
+        "interaction" : "activation",
+        "SUID" : 155,
+        "shared_interaction" : "activation",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

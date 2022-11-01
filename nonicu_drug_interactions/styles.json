@@ -1,0 +1,75 @@
+{
+    "format_version" : "1.0",
+    "generated_by" : "cytoscape-3.8.2",
+    "target_cytoscapejs_version" : "~2.1",
+    "title" : "default",
+    "style" : [ {
+      "selector" : "node",
+      "css" : {
+        "background-opacity" : 1.0,
+        "color" : "rgb(0,0,0)",
+        "text-opacity" : 1.0,
+        "height" : 35.0,
+        "shape" : "roundrectangle",
+        "background-color" : "white",
+        "width" : 75.0,
+        "border-opacity" : 1.0,
+        "border-color" : "rgb(204,204,204)",
+        "text-valign" : "center",
+        "text-halign" : "center",
+        "border-width" : 0.0,
+        "font-family" : "SansSerif.plain",
+        "font-weight" : "normal",
+        "font-size" : 15,
+        "content" : "data(name)"
+      }
+    }, {
+      "selector" : "node[drug = 'drug']",
+      "css" : {
+        "height" : 25.0,
+        "width": 65.0
+      }
+    },  {
+      "selector" : "node:selected",
+      "css" : {
+        "background-color" : "rgb(255,255,0)"
+      }
+    }, {
+      "selector" : "edge",
+      "css" : {
+        "color" : "rgb(0,0,0)",
+        "opacity" : 1.0,
+        "source-arrow-color" : "rgb(0,0,0)",
+        "width" : 2.0,
+        "line-color" : "rgb(132,132,132)",
+        "target-arrow-color" : "rgb(0,0,0)",
+        "font-size" : 10,
+        "text-opacity" : 1.0,
+        "content" : "",
+        "target-arrow-shape" : "none",
+        "font-family" : "Dialog.plain",
+        "font-weight" : "normal",
+        "source-arrow-shape" : "none",
+        "line-style" : "solid"
+      }
+    }, {
+      "selector" : "edge[interaction = 'inhibition']",
+      "css" : {
+        "target-arrow-shape" : "tee"
+      }
+    }, {
+      "selector" : "edge[interaction = 'activation']",
+      "css" : {
+        "target-arrow-shape" : "triangle"
+      }
+    }, {
+      "selector" : "edge:selected",
+      "css" : {
+        "line-color" : "rgb(255,0,0)"
+      }
+    },{
+      "selector" : "node[target_original = 'drug target']",
+      "css" : {
+      "background-color":"red"    }
+    } ]
+  }

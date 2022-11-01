@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<HTML xmlns="https://www.w3.org/1999/xhtml" lang="en-us">
+<HEAD>
+  <link rel="stylesheet" href="style.css">
+  <link href="panzoom/cytoscape-panzoom.css" rel="stylesheet" type="text/css" />
+  <link href="font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.css">
+  <link rel="stylesheet" href="jqueryUI.css">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+<meta charset="utf-8" />
+<meta name="description" content="Cytoscape.js test">
+<meta name="keywords" content="cytoscape, cytoscape.js, javascript, jquery, glycolysis, TCA cycle">
+
+<title>ICU Drug Targets</title>
+
+<style>
+
+  #cy {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    bottom: 0px;
+    left: 0px;
+  }
+  h1 {
+    opacity: 0.5;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  h4{
+      color: black!important;
+  }
+  .wrapper{
+      height:600px!important;
+  }
+  #sidebar{
+      background-color: transparent!important;
+  }
+  #cover{
+      height: 50px!important;
+  }
+  #resetButton{
+    margin: 10px 0px 10px 0px;
+  }
+  .ui-menu{
+    top:50px!important;
+    left:0px!important;
+  }
+</style>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.9.0/cytoscape.min.js'>
+</script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js'></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/4f450ce68d.js" crossorigin="anonymous"></script>
+<script src="panzoom/cytoscape-panzoom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.js"></script>
+<script src="cytoscape-qtip.js"></script>
+<script src="./Autocomplete/jQueryUI-autocomplete-for-ICU-drug-targets.js"></script>
+</HEAD>
+
+  <div id="mainDiv">
+   <div id="navbar">
+    <div id="content" class="col-md-2">
+      <button type="button" id="sidebarCollapse" class="navbar-btn">
+        <div class="container1" onclick="this.classList.toggle('active')">
+          <svg xmlns="https://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 200 200">
+                <g stroke-width="6.5" stroke-linecap="round">
+                  <path
+                    d="M72 82.286h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 103.714l72.482-.143c.043 39.398-32.284 71.434-72.16 71.434-39.878 0-72.204-32.036-72.204-71.554"
+                    fill="none"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M72 125.143h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 103.714l-71.908-.143c.026-39.638 32.352-71.674 72.23-71.674 39.876 0 72.203 32.036 72.203 71.554"
+                    fill="none"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 82.286h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                  <path
+                    d="M100.75 125.143h28.75"
+                    fill="#009100"
+                    fill-rule="evenodd"
+                    stroke="#fff"
+                  />
+                </g>
+              </svg>
+        </div>
+      </button>
+  <div>
+
+</div>   </div>
+<div id="nav-links"  class="col-md-3">
+
+  <div><a class="nonicu-pages" href="icu.html">ICU Network</a></div>
+  <div><a class="nonicu-pages" href="nonicu.html">Non-ICU Network</a></div>
+
+
+</div>
+
+      <div id ="headerText" class="col-md-7"><h2></h2></div>
+
+
+
+
+</div>
+<BODY>
+
+
+
+<div class="wrapper">
+
+  <nav id="sidebar">
+
+<div id="sidebar-div">
+<div class="sidebar-item">
+<a href="icu.html"> <h4 style="font-size: 130%!important; color: #4221a6!important;"><i class="fas fa-arrow-left"></i>  Go Back</h4></a>
+
+</div>
+      <div class="sidebar-item">
+        <h4><i class="fas fa-sync"></i>
+
+          Reset everything</h4>
+        <button class="reset" id="resetButton" class="slider-button"><p class="reset-p">Reset</p></button></div>
+
+    </div>
+
+
+        <div id="search-neighbors" class="sidebar-item">
+          <h4> <i class="fas fa-caret-right"></i>
+
+
+
+            Enter drug name to see genes associated</h4>
+          <div id="cover" class=" node-search-box">
+
+              <div class="tb">
+                <div class="td"><input type="text" placeholder="SEARCH" autocomplete= "off" id="searchNeighbors"  required></div>
+                <div class="td" id="s-cover">
+                  <button type="submit" id="searchButton">
+
+                    <div id="s-circle"></div>
+
+                    <span></span>
+                  </button>
+
+                </div>
+              </div>
+
+          </div></div>
+
+
+
+
+          </div>
+
+          </div>
+  </nav>
+
+ </div>
+<div id='cy' class="col-md-7"></div>
+</div>
+
+<script>
+
+
+
+  var json = $.getJSON('icu_drug_interactions/ICU_drug_interactions.json')
+  .done(function(data){
+  var cy = cytoscape({
+    container: $('#cy'),
+  elements: data.elements,
+  style: fetch('icu_drug_interactions/styles.json').then(res => res.json()).then(json => json.style),
+
+      layout: {
+        name: 'preset',
+        zoom: 0.4,
+        spacingFactor:2,
+        pan: { x: 1000, y: 900 },
+      },
+      // INTERACTION OPTIONS:
+      maxZoom: 0.25e1,
+      zoomingEnabled: true,
+      userZoomingEnabled: true,
+      panningEnabled: true,
+      userPanningEnabled: true,
+      boxSelectionEnabled: false,
+      selectionType: 'single',
+      touchTapThreshold: 8,
+      desktopTapThreshold: 4,
+      autolock: false,
+      autoungrabify: false,
+      autounselectify: false,
+
+      // Rendering options:
+      headless: false,
+      styleEnabled: true,
+      hideEdgesOnViewport: false,
+      hideLabelsOnViewport: false,
+      textureOnViewport: false,
+      motionBlur: false,
+      motionBlurOpacity: 0.2,
+      pixelRatio: 'auto'
+    });
+
+
+//
+// ----------------- Showing nodes in different color ---------------
+//
+
+function addClassToNodes(){
+      const nodesInDrugs = [ "NFKB1","RELA","TNF","TGFB1","ITGB1","PPARG","PPARA","IKBKB","AR","CASP3","MAPK8","TP53","MYC",
+    "MAPK1","AKT1","CDKN1A","LYN","LCK","SREBF1","CDK2","JAK2","TYK2","MAPK9","CDK1","IRAK1","PRKACA","TBK1","CSNK2A1","PIM1","DAPK1","AURKA","AURKC","GSK3B"];
+      for (const element of nodesInDrugs) {
+        if (cy.nodes('node[name = "'+element+'"]')) {
+
+          currentNode = cy.nodes('node[name = "'+element+'"]');
+          currentNode.addClass('node-in-drug');
+
+}
+}
+    };
+
+    $(document).ready(function () {
+        addClassToNodes();
+    });
+
+
+
+// ----------------- Show node details on click -----------------
+    cy.on('click', 'node', function(node) {
+      var nodeId = node.target.id();
+      selectedNodeName = cy.$('#' +nodeId + '').data("name");
+      link1 = "https://www.genecards.org/cgi-bin/carddisp.pl?gene=" + selectedNodeName;
+				// just use the regular qtip api but on cy elements
+				cy.nodes().qtip({
+          content: function(){ return 'Node ID: ' + nodeId + '<br>' + 'Node Name: ' + selectedNodeName  +
+         '<br><hr>' +
+           'Node on Genecards: <a href=' + link1 + ' target=”_blank”>Genecards </a>' + '<br>'},
+					position: {
+						my: 'top center',
+						at: 'bottom center'
+					},
+					style: {
+						classes: 'qtip-bootstrap',
+						tip: {
+							width: 16,
+							height: 8
+						}
+					}
+				});
+			});
+
+
+
+
+// ----------------- Focusing on input and its first neighbors with the search bar -----------------
+
+
+
+//declaring input as a variable
+let input;
+//adding event listener to the search bar enter
+  document.getElementById("searchNeighbors").addEventListener('change', searchNeighborsBar);
+//declaring function
+function searchNeighborsBar(){
+  input = document.getElementById('searchNeighbors').value;  //declaring the value of the input
+  let nodeId2 = cy.nodes('node[name = "'+input+'"]').data("id")  //getting the id of the node based on the display name
+
+   // add all successors (nodes and edges) to a collection
+   var neighborNodes2 = cy.nodes('[id="'+nodeId2+'"]').neighborhood();
+
+
+   //select the node
+  selectedNode2 =  cy.getElementById(nodeId2);
+
+
+// add clicked node to collection
+neighborNodes2 = neighborNodes2.add(selectedNode2);
+
+// add other nodes to other collection
+var others2 = cy.elements().not(neighborNodes2);
+
+//cy.remove() returns the deleted nodes and edges, so that you can just do cy.add() afterwards
+referenceNodes2 = cy.remove(others2);
+
+// just call a new layout
+cy.elements().makeLayout({'name': 'preset'}).run();
+cy.center(selectedNode2);
+cy.fit();
+
+document.getElementById('searchNeighbors').value='';
+
+
+}
+
+//Reset button function
+
+$('button.reset')
+  .on("click", function() {
+      console.log('clicked')
+    cy.elements().remove();
+    cy.add(data.elements);
+    cy.center();
+    cy.fit();
+
+});
+
+
+// Panzoom plugin
+cy.panzoom({
+	// options here...
+});
+
+
+function pageLoad(){
+  document.getElementById('resetButton').click();
+  console.log('buttn clicked')
+
+};
+$(document).ready(function(){
+      setTimeout(pageLoad,1); });
+
+
+  });
+
+</script>
+
+<script>$(document).ready(function () {
+  $('#sidebarCollapse').on('click', function () {
+      $('#sidebar').toggleClass('active');
+      $(this).toggleClass('active');
+  });
+});</script>
+</BODY>
+</HTML>

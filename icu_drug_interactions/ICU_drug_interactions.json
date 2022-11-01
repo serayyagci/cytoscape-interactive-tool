@@ -1,0 +1,4820 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "ICU_drug_interactions",
+    "name" : "ICU_drug_interactions",
+    "SUID" : 712,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1087",
+        "shared_name" : "Lithium carbonate",
+        "name" : "Lithium carbonate",
+        "SUID" : 1087,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -237.4882416819271,
+        "y" : 605.7442259314464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1085",
+        "shared_name" : "Lithium citrate",
+        "name" : "Lithium citrate",
+        "SUID" : 1085,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -174.62338877665366,
+        "y" : 521.4448484900402
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1083",
+        "isGene":"Yes",
+        "shared_name" : "GSK3B",
+        "name" : "GSK3B",
+        "SUID" : 1083,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -111.8285508249935,
+        "y" : 618.9586424353527
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1081",
+        "isGene":"Yes",
+        "shared_name" : "AURKC",
+        "name" : "AURKC",
+        "SUID" : 1081,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 132.10157155049478,
+        "y" : 623.4195189001964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1079",
+        "shared_name" : "AURKA",
+        "isGene":"Yes",
+        "name" : "AURKA",
+        "SUID" : 1079,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 40.79209279072916,
+        "y" : 828.2057127478527
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1077",
+        "shared_name" : "DAPK1",
+        "isGene":"Yes",
+        "name" : "DAPK1",
+        "SUID" : 1077,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -41.60328341471518,
+        "y" : 797.6716551306652
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1075",
+        "shared_name" : "PIM1",
+        "isGene":"Yes",
+        "name" : "PIM1",
+        "SUID" : 1075,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 45.50328206074869,
+        "y" : 582.7889036658214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1073",
+        "shared_name" : "CSNK2A1",
+        "isGene":"Yes",
+        "name" : "CSNK2A1",
+        "SUID" : 1073,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 185.0948882008854,
+        "y" : 734.5473875525402
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1071",
+        "shared_name" : "TBK1",
+        "isGene":"Yes",
+        "name" : "TBK1",
+        "SUID" : 1071,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 129.8599028493229,
+        "y" : 768.1748899939464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1069",
+        "shared_name" : "PRKACA",
+        "isGene":"Yes",
+        "name" : "PRKACA",
+        "SUID" : 1069,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 43.808801164752595,
+        "y" : 777.5556883337902
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1067",
+        "shared_name" : "IRAK1",
+        "isGene":"Yes",
+        "name" : "IRAK1",
+        "SUID" : 1067,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -51.521340856426605,
+        "y" : 709.7459959509777
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1065",
+        "shared_name" : "CDK1",
+        "isGene":"Yes",
+        "name" : "CDK1",
+        "SUID" : 1065,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 175.06511830342447,
+        "y" : 672.0081419470714
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1063",
+        "isGene":"Yes",
+        "shared_name" : "MAPK9",
+        "name" : "MAPK9",
+        "SUID" : 1063,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -32.82543803202475,
+        "y" : 603.1609739783214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1060",
+        "isGene":"Yes",
+        "shared_name" : "TYK2",
+        "name" : "TYK2",
+        "SUID" : 1060,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -109.9618401621517,
+        "y" : 722.6748289587902
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1058",
+        "shared_name" : "Pralsetinib",
+        "name" : "Pralsetinib",
+        "SUID" : 1058,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -81.75672007548178,
+        "y" : 996.5379271033214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1055",
+        "shared_name" : "Fedratinib",
+        "name" : "Fedratinib",
+        "SUID" : 1055,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -264.69023753153647,
+        "y" : 857.2912840369152
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1052",
+        "shared_name" : "Entrectinib",
+        "name" : "Entrectinib",
+        "SUID" : 1052,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -153.89276743876303,
+        "y" : 1014.0060667517589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1050",
+        "shared_name" : "Baricitinib",
+        "name" : "Baricitinib",
+        "SUID" : 1050,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -218.23491526591147,
+        "y" : 988.0951780798839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1048",
+        "shared_name" : "Tofacitinib",
+        "name" : "Tofacitinib",
+        "SUID" : 1048,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -203.12232066141928,
+        "y" : 783.8943724158214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1046",
+        "isGene":"Yes",
+        "shared_name" : "JAK2",
+        "name" : "JAK2",
+        "SUID" : 1046,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -127.86146021830405,
+        "y" : 877.8743528845714
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1045",
+        "shared_name" : "Ruxolitinib",
+        "name" : "Ruxolitinib",
+        "SUID" : 1045,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -260.02487803446616,
+        "y" : 931.7155394080089
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1043",
+        "isGene":"Yes",
+        "shared_name" : "CDK2",
+        "name" : "CDK2",
+        "SUID" : 1043,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 296.9801115895573,
+        "y" : 1125.1328978064464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1039",
+        "shared_name" : "Omega-3-acid ethyl esters",
+        "name" : "Omega-3-acid ethyl esters",
+        "SUID" : 1039,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -343.53334666239584,
+        "y" : -335.73715834589734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1037",
+        "isGene":"Yes",
+        "shared_name" : "SREBF1",
+        "name" : "SREBF1",
+        "SUID" : 1037,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -209.66448069559897,
+        "y" : -317.38030104609265
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1035",
+        "shared_name" : "Zanubrutinib",
+        "name" : "Zanubrutinib",
+        "SUID" : 1035,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9.158903608196624,
+        "y" : 930.1524290564464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1030",
+        "isGene":"Yes",
+        "shared_name" : "LCK",
+        "name" : "LCK",
+        "SUID" : 1030,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 107.32653187764322,
+        "y" : 865.7915281775402
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1027",
+        "shared_name" : "Nintedanib",
+        "name" : "Nintedanib",
+        "SUID" : 1027,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 119.4224028493229,
+        "y" : 985.6723265173839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1025",
+        "shared_name" : "Ponatinib",
+        "name" : "Ponatinib",
+        "SUID" : 1025,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 250.6083159352604,
+        "y" : 860.1462645056652
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1023",
+        "shared_name" : "Bosutinib",
+        "name" : "Bosutinib",
+        "SUID" : 1023,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 231.56415699971353,
+        "y" : 1019.1062864783214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1021",
+        "isGene":"Yes",
+        "shared_name" : "LYN",
+        "name" : "LYN",
+        "SUID" : 1021,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 154.90642689717447,
+        "y" : 874.0578855994152
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1020",
+        "shared_name" : "Dasatinib",
+        "name" : "Dasatinib",
+        "SUID" : 1020,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 220.40747975361978,
+        "y" : 942.9113401892589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1018",
+        "isGene":"Yes",
+        "shared_name" : "CDKN1A",
+        "name" : "CDKN1A",
+        "SUID" : 1018,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 373.55036305440103,
+        "y" : 408.1148314001964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1016",
+        "isGene":"Yes",
+        "shared_name" : "AKT1",
+        "name" : "AKT1",
+        "SUID" : 1016,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 384.82016896260416,
+        "y" : 252.95559067754016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1014",
+        "shared_name" : "Turpentine",
+        "name" : "Turpentine",
+        "SUID" : 1014,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 560.9217619801823,
+        "y" : 416.00429673222766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1011",
+        "isGene":"Yes",
+        "shared_name" : "MAPK1",
+        "name" : "MAPK1",
+        "SUID" : 1011,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 454.8964934254948,
+        "y" : 345.48497910527453
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1010",
+        "shared_name" : "Isoprenaline",
+        "name" : "Isoprenaline",
+        "SUID" : 1010,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 576.0232024098698,
+        "y" : 310.4171995642589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1008",
+        "shared_name" : "Nadroparin",
+        "name" : "Nadroparin",
+        "SUID" : 1008,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -289.1386628245052,
+        "y" : 202.17019028691516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1006",
+        "isGene":"Yes",
+        "shared_name" : "MYC",
+        "name" : "MYC",
+        "SUID" : 1006,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -203.35178233134116,
+        "y" : 272.2659544470714
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1004",
+        "shared_name" : "Zinc sulfate, unspecified form",
+        "name" : "Zinc sulfate, unspecified form",
+        "SUID" : 1004,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 132.95696400654947,
+        "y" : 356.7726683142589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1002",
+        "shared_name" : "Zinc chloride",
+        "name" : "Zinc chloride",
+        "SUID" : 1002,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 87.68210743916666,
+        "y" : 504.0688108923839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1000",
+        "shared_name" : "Zinc acetate",
+        "name" : "Zinc acetate",
+        "SUID" : 1000,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 157.42546986592447,
+        "y" : 485.49392075566516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "998",
+        "shared_name" : "Zinc",
+        "name" : "Zinc",
+        "SUID" : 998,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.97425221455728,
+        "y" : 419.6490110876964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "996",
+        "isGene":"Yes",
+        "shared_name" : "TP53",
+        "name" : "TP53",
+        "SUID" : 996,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 35.87839650166666,
+        "y" : 412.29811997441516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "994",
+        "isGene":"Yes",
+        "shared_name" : "MAPK8",
+        "name" : "MAPK8",
+        "SUID" : 994,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 229.07154225361978,
+        "y" : -966.5260377404286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "991",
+        "shared_name" : "Minocycline",
+        "name" : "Minocycline",
+        "SUID" : 991,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -463.7415680979427,
+        "y" : 300.2983030798839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "988",
+        "isGene":"Yes",
+        "shared_name" : "CASP3",
+        "name" : "CASP3",
+        "SUID" : 988,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -387.92580271708334,
+        "y" : 383.23183579472766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "987",
+        "shared_name" : "Pamidronic acid",
+        "name" : "Pamidronic acid",
+        "SUID" : 987,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -453.8236909006771,
+        "y" : 474.94069809941516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "985",
+        "shared_name" : "Segesterone acetate",
+        "name" : "Segesterone acetate",
+        "SUID" : 985,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 571.0705046559635,
+        "y" : -555.6420350548817
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "983",
+        "shared_name" : "Testosterone undecanoate",
+        "name" : "Testosterone undecanoate",
+        "SUID" : 983,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 688.7370695973698,
+        "y" : -585.6172852990223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "981",
+        "shared_name" : "Testosterone enanthate",
+        "name" : "Testosterone enanthate",
+        "SUID" : 981,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 420.79013966572916,
+        "y" : -899.0110841271473
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "979",
+        "shared_name" : "Testosterone cypionate",
+        "name" : "Testosterone cypionate",
+        "SUID" : 979,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 545.371163835651,
+        "y" : -892.9297852990223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "977",
+        "shared_name" : "Esculin",
+        "name" : "Esculin",
+        "SUID" : 977,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 663.2857756520573,
+        "y" : -806.0390382287098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "975",
+        "shared_name" : "Darolutamide",
+        "name" : "Darolutamide",
+        "SUID" : 975,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 571.6798796559635,
+        "y" : -731.8990846154286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "973",
+        "shared_name" : "Clascoterone",
+        "name" : "Clascoterone",
+        "SUID" : 973,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 593.803781023151,
+        "y" : -837.5499024865223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "971",
+        "shared_name" : "Apalutamide",
+        "name" : "Apalutamide",
+        "SUID" : 971,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 647.0506682301823,
+        "y" : -855.9536500451161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "969",
+        "shared_name" : "Gestrinone",
+        "name" : "Gestrinone",
+        "SUID" : 969,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 603.5478606129948,
+        "y" : -789.8273683068348
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "967",
+        "shared_name" : "Enzacamene",
+        "name" : "Enzacamene",
+        "SUID" : 967,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 302.15314625752603,
+        "y" : -743.4570680138661
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "965",
+        "shared_name" : "Homosalate",
+        "name" : "Homosalate",
+        "SUID" : 965,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 642.4062590504948,
+        "y" : -748.1929078576161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "963",
+        "shared_name" : "Norgestrel",
+        "name" : "Norgestrel",
+        "SUID" : 963,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 437.3572173024479,
+        "y" : -848.5530152794911
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "961",
+        "shared_name" : "Norethynodrel",
+        "name" : "Norethynodrel",
+        "SUID" : 961,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 343.9020171071354,
+        "y" : -627.7381349083973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "959",
+        "shared_name" : "Dienogest",
+        "name" : "Dienogest",
+        "SUID" : 959,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 384.72687672627603,
+        "y" : -775.8710084435536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "957",
+        "shared_name" : "Eugenol",
+        "name" : "Eugenol",
+        "SUID" : 957,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 414.22004078877603,
+        "y" : -730.1791139123036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "955",
+        "shared_name" : "Enzalutamide",
+        "name" : "Enzalutamide",
+        "SUID" : 955,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 535.9858488942448,
+        "y" : -497.9261842248036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "953",
+        "shared_name" : "Ulipristal",
+        "name" : "Ulipristal",
+        "SUID" : 953,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 591.8653654958073,
+        "y" : -651.4981446740223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "951",
+        "shared_name" : "Nandrolone decanoate",
+        "name" : "Nandrolone decanoate",
+        "SUID" : 951,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 663.818673601276,
+        "y" : -649.4856324669911
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "948",
+        "shared_name" : "Stanozolol",
+        "name" : "Stanozolol",
+        "SUID" : 948,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 719.255929460651,
+        "y" : -728.0414796349598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "946",
+        "shared_name" : "Norelgestromin",
+        "name" : "Norelgestromin",
+        "SUID" : 946,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 414.9147124196354,
+        "y" : -546.2332520958973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "944",
+        "shared_name" : "Methyltestosterone",
+        "name" : "Methyltestosterone",
+        "SUID" : 944,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 674.7248015309635,
+        "y" : -703.1800904748036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "942",
+        "shared_name" : "Oxymetholone",
+        "name" : "Oxymetholone",
+        "SUID" : 942,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 520.496896257526,
+        "y" : -554.0439210412098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "940",
+        "shared_name" : "Cyproterone acetate",
+        "name" : "Cyproterone acetate",
+        "SUID" : 940,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 333.96601246846353,
+        "y" : -794.8445191857411
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "936",
+        "shared_name" : "Periciazine",
+        "name" : "Periciazine",
+        "SUID" : 936,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 380.9055571461979,
+        "y" : -844.8874269005848
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "934",
+        "shared_name" : "Oxybenzone",
+        "name" : "Oxybenzone",
+        "SUID" : 934,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 352.0857329274479,
+        "y" : -714.9456544396473
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "932",
+        "shared_name" : "Testosterone propionate",
+        "name" : "Testosterone propionate",
+        "SUID" : 932,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 470.6648039723698,
+        "y" : -497.6380067345692
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "930",
+        "shared_name" : "Danazol",
+        "name" : "Danazol",
+        "SUID" : 930,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 501.1905608083073,
+        "y" : -610.7479005333973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "928",
+        "shared_name" : "Drospirenone",
+        "name" : "Drospirenone",
+        "SUID" : 928,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 428.4322600270573,
+        "y" : -616.8687196251942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "926",
+        "shared_name" : "Fluoxymesterone",
+        "name" : "Fluoxymesterone",
+        "SUID" : 926,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 549.3725066090885,
+        "y" : -777.4410157677723
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "924",
+        "shared_name" : "Bicalutamide",
+        "name" : "Bicalutamide",
+        "SUID" : 924,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 463.51288746846353,
+        "y" : -559.2122254845692
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "922",
+        "shared_name" : "Acetophenazine",
+        "name" : "Acetophenazine",
+        "SUID" : 922,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 631.3772063161198,
+        "y" : -603.1678224083973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "920",
+        "shared_name" : "Ketoconazole",
+        "name" : "Ketoconazole",
+        "SUID" : 920,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 491.4841399098698,
+        "y" : -857.0198731896473
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "918",
+        "shared_name" : "Nandrolone phenpropionate",
+        "name" : "Nandrolone phenpropionate",
+        "SUID" : 918,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 433.90598439229166,
+        "y" : -793.6276002404286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "916",
+        "shared_name" : "Norgestimate",
+        "name" : "Norgestimate",
+        "SUID" : 916,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 490.1836028004948,
+        "y" : -908.3472047326161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "914",
+        "shared_name" : "Norethisterone",
+        "name" : "Norethisterone",
+        "SUID" : 914,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 395.35798024190103,
+        "y" : -666.4209962365223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "912",
+        "shared_name" : "Tamoxifen",
+        "name" : "Tamoxifen",
+        "SUID" : 912,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 319.0978178883854,
+        "y" : -859.2425904748036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "910",
+        "shared_name" : "Nilutamide",
+        "name" : "Nilutamide",
+        "SUID" : 910,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 597.8141569997135,
+        "y" : -893.2475343224598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "908",
+        "shared_name" : "Estrone",
+        "name" : "Estrone",
+        "SUID" : 908,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 312.43757008565103,
+        "y" : -670.0988526818348
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "906",
+        "shared_name" : "Mitotane",
+        "name" : "Mitotane",
+        "SUID" : 906,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 376.02643727315103,
+        "y" : -584.4946046349598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "904",
+        "shared_name" : "Testosterone",
+        "name" : "Testosterone",
+        "SUID" : 904,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 697.6873869801823,
+        "y" : -774.6319947716786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "902",
+        "shared_name" : "Fluphenazine",
+        "name" : "Fluphenazine",
+        "SUID" : 902,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 622.3031706715885,
+        "y" : -692.5083375451161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "900",
+        "shared_name" : "Oxandrolone",
+        "name" : "Oxandrolone",
+        "SUID" : 900,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 638.5332121754948,
+        "y" : -547.0706849572255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "898",
+        "shared_name" : "Flutamide",
+        "name" : "Flutamide",
+        "SUID" : 898,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 540.6452116872135,
+        "y" : -834.5294557091786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "896",
+        "shared_name" : "Spironolactone",
+        "name" : "Spironolactone",
+        "SUID" : 896,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 567.123605241901,
+        "y" : -608.7597108361317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "894",
+        "shared_name" : "Progesterone",
+        "name" : "Progesterone",
+        "SUID" : 894,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 717.4907317067448,
+        "y" : -650.8240113732411
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "892",
+        "shared_name" : "Levonorgestrel",
+        "name" : "Levonorgestrel",
+        "SUID" : 892,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 598.305734148151,
+        "y" : -504.0076051232411
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "890",
+        "isGene":"Yes",
+        "shared_name" : "AR",
+        "name" : "AR",
+        "SUID" : 890,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 498.1718840504948,
+        "y" : -693.9706788537098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "889",
+        "shared_name" : "Diethylstilbestrol",
+        "name" : "Diethylstilbestrol",
+        "SUID" : 889,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 483.5802092458073,
+        "y" : -787.0424561974598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "887",
+        "shared_name" : "Fostamatinib",
+        "name" : "Fostamatinib",
+        "SUID" : 887,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 39.42539357197916,
+        "y" : 692.4523558142589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "885",
+        "shared_name" : "Acetylcysteine",
+        "name" : "Acetylcysteine",
+        "SUID" : 885,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 104.4612212086979,
+        "y" : 195.7138304236339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "883",
+        "shared_name" : "Arsenic trioxide",
+        "name" : "Arsenic trioxide",
+        "SUID" : 883,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 286.8335051442448,
+        "y" : 321.69945664433703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "881",
+        "shared_name" : "Auranofin",
+        "name" : "Auranofin",
+        "SUID" : 881,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 183.9180540944401,
+        "y" : 264.19701523808703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "879",
+        "shared_name" : "Acetylsalicylic acid",
+        "name" : "Acetylsalicylic acid",
+        "SUID" : 879,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -128.17521525370444,
+        "y" : 357.05483384160266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "876",
+        "isGene":"Yes",
+        "shared_name" : "IKBKB",
+        "name" : "IKBKB",
+        "SUID" : 876,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 70.04320668233072,
+        "y" : 294.99599595097766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "872",
+        "shared_name" : "Myrrh",
+        "name" : "Myrrh",
+        "SUID" : 872,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -18.071032056682952,
+        "y" : -502.1251588341786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "869",
+        "shared_name" : "Soybean oil",
+        "name" : "Soybean oil",
+        "SUID" : 869,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -112.55738688456381,
+        "y" : -437.8841004845692
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "866",
+        "shared_name" : "Ciprofibrate",
+        "name" : "Ciprofibrate",
+        "SUID" : 866,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -91.44202662455405,
+        "y" : -229.26428084345594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "863",
+        "shared_name" : "Palmitic Acid",
+        "name" : "Palmitic Acid",
+        "SUID" : 863,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 127.37043141377603,
+        "y" : -249.75433974238172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "860",
+        "shared_name" : "Stearic acid",
+        "name" : "Stearic acid",
+        "SUID" : 860,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 64.13684987080728,
+        "y" : -201.15775923701062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "858",
+        "shared_name" : "Lauric acid",
+        "name" : "Lauric acid",
+        "SUID" : 858,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 224.31134938252603,
+        "y" : -379.6817079064442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "855",
+        "shared_name" : "Prasterone",
+        "name" : "Prasterone",
+        "SUID" : 855,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 263.3109526540104,
+        "y" : -540.6195741173817
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "852",
+        "shared_name" : "Gemfibrozil",
+        "name" : "Gemfibrozil",
+        "SUID" : 852,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 32.21504353535806,
+        "y" : -527.0301881310536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "848",
+        "shared_name" : "Fenofibrate",
+        "name" : "Fenofibrate",
+        "SUID" : 848,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -65.68358380543555,
+        "y" : -477.1432252404286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "846",
+        "shared_name" : "Clofibrate",
+        "name" : "Clofibrate",
+        "SUID" : 846,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 94.2759642506901,
+        "y" : -509.73020033808484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "838",
+        "isGene":"Yes",
+        "shared_name" : "PPARA",
+        "name" : "PPARA",
+        "SUID" : 838,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 64.15532826436197,
+        "y" : -356.6353211876942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "836",
+        "shared_name" : "Fish oil",
+        "name" : "Fish oil",
+        "SUID" : 836,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -91.40619517313803,
+        "y" : -279.9858003136708
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "834",
+        "shared_name" : "Fenofibric acid",
+        "name" : "Fenofibric acid",
+        "SUID" : 834,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.78928517354166,
+        "y" : -301.74077467890515
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "832",
+        "shared_name" : "Curcumin",
+        "name" : "Curcumin",
+        "SUID" : 832,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -15.700869092815765,
+        "y" : -120.84450392695203
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "830",
+        "shared_name" : "Omega-3 fatty acids",
+        "name" : "Omega-3 fatty acids",
+        "SUID" : 830,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -60.70841408717001,
+        "y" : -305.28505568476453
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "828",
+        "shared_name" : "Dexibuprofen",
+        "name" : "Dexibuprofen",
+        "SUID" : 828,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 158.89281605733072,
+        "y" : -206.32819991083875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "826",
+        "shared_name" : "Cannabidiol",
+        "name" : "Cannabidiol",
+        "SUID" : 826,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 38.937158098346345,
+        "y" : -100.46815352412
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "824",
+        "shared_name" : "Triclosan",
+        "name" : "Triclosan",
+        "SUID" : 824,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 307.5632414723698,
+        "y" : -460.44785170527234
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "822",
+        "shared_name" : "Oleic Acid",
+        "name" : "Oleic Acid",
+        "SUID" : 822,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 81.35959767354166,
+        "y" : -430.86655287714734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "820",
+        "shared_name" : "Doconexent",
+        "name" : "Doconexent",
+        "SUID" : 820,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -93.57443858134116,
+        "y" : -336.9567018029286
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "818",
+        "shared_name" : "Flufenamic acid",
+        "name" : "Flufenamic acid",
+        "SUID" : 818,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 236.3061919118229,
+        "y" : -462.7781129357411
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "816",
+        "shared_name" : "Bezafibrate",
+        "name" : "Bezafibrate",
+        "SUID" : 816,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -21.075857648723968,
+        "y" : -378.70314650507703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "814",
+        "shared_name" : "Pioglitazone",
+        "name" : "Pioglitazone",
+        "SUID" : 814,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 150.73449086201822,
+        "y" : -106.23990111323133
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "812",
+        "shared_name" : "Amiodarone",
+        "name" : "Amiodarone",
+        "SUID" : 812,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 194.10788868916666,
+        "y" : -260.21803908320203
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "810",
+        "shared_name" : "Glipizide",
+        "name" : "Glipizide",
+        "SUID" : 810,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -69.69336629855002,
+        "y" : -151.22961287470594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "808",
+        "shared_name" : "Ibuprofen",
+        "name" : "Ibuprofen",
+        "SUID" : 808,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 168.42865895283853,
+        "y" : -373.79917006464734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "806",
+        "shared_name" : "Balsalazide",
+        "name" : "Balsalazide",
+        "SUID" : 806,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 94.3747191335026,
+        "y" : -119.79171996088758
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "804",
+        "shared_name" : "Telmisartan",
+        "name" : "Telmisartan",
+        "SUID" : 804,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 124.41796254170572,
+        "y" : -340.6087556359364
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "802",
+        "shared_name" : "Repaglinide",
+        "name" : "Repaglinide",
+        "SUID" : 802,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -68.12380314814413,
+        "y" : -380.8087983605458
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "800",
+        "shared_name" : "Clofazimine",
+        "name" : "Clofazimine",
+        "SUID" : 800,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 203.4781889821354,
+        "y" : -141.18826155634656
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "798",
+        "shared_name" : "Sulfasalazine",
+        "name" : "Sulfasalazine",
+        "SUID" : 798,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 100.3098540211979,
+        "y" : 31.827950907032346
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "796",
+        "shared_name" : "Nateglinide",
+        "name" : "Nateglinide",
+        "SUID" : 796,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 242.11850880635416,
+        "y" : -201.45974593134656
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "794",
+        "shared_name" : "Fenoprofen",
+        "name" : "Fenoprofen",
+        "SUID" : 794,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 20.39770649922525,
+        "y" : -420.5498414513661
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "792",
+        "shared_name" : "Rosiglitazone",
+        "name" : "Rosiglitazone",
+        "SUID" : 792,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 136.51044606221353,
+        "y" : -411.9606385705067
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "790",
+        "shared_name" : "Indomethacin",
+        "name" : "Indomethacin",
+        "SUID" : 790,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -16.595922956341155,
+        "y" : -330.02683119745984
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "788",
+        "shared_name" : "Valproic acid",
+        "name" : "Valproic acid",
+        "SUID" : 788,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4.822946062213532,
+        "y" : -204.4302659508778
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "786",
+        "shared_name" : "Mesalazine",
+        "name" : "Mesalazine",
+        "SUID" : 786,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 46.32063435567056,
+        "y" : 31.885339212696408
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "784",
+        "shared_name" : "Troglitazone",
+        "name" : "Troglitazone",
+        "SUID" : 784,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -29.321161756389984,
+        "y" : -239.8755021569325
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "782",
+        "shared_name" : "Icosapent",
+        "name" : "Icosapent",
+        "SUID" : 782,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 212.83896779072916,
+        "y" : -312.9875092980458
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "780",
+        "isGene":"Yes",
+        "shared_name" : "PPARG",
+        "name" : "PPARG",
+        "SUID" : 780,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 79.18193959248697,
+        "y" : -256.4216981408192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "779",
+        "shared_name" : "alpha-Linolenic acid",
+        "name" : "alpha-Linolenic acid",
+        "SUID" : 779,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2.196023454791657,
+        "y" : -281.2518678185536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "777",
+        "isGene":"Yes",
+        "shared_name" : "ITGB1",
+        "name" : "ITGB1",
+        "SUID" : 777,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1302.2870431040462,
+        "y" : 1225.1328978064464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "776",
+        "shared_name" : "Antithymocyte immunoglobulin (rabbit)",
+        "name" : "Antithymocyte immunoglobulin (rabbit)",
+        "SUID" : 776,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1305.3044953440365,
+        "y" : 1332.8550657751964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "774",
+        "shared_name" : "Hyaluronidase",
+        "name" : "Hyaluronidase",
+        "SUID" : 774,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1276.4834504221615,
+        "y" : 498.2149290564464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "770",
+        "shared_name" : "Hyaluronidase (human recombinant)",
+        "name" : "Hyaluronidase (human recombinant)",
+        "SUID" : 770,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1261.404470929974,
+        "y" : 671.4699339392589
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "768",
+        "shared_name" : "Terazosin",
+        "name" : "Terazosin",
+        "SUID" : 768,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1167.0725617502865,
+        "y" : 695.6601194861339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "766",
+        "isGene":"Yes",
+        "shared_name" : "TGFB1",
+        "name" : "TGFB1",
+        "SUID" : 766,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1178.699636945599,
+        "y" : 573.9883665564464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "765",
+        "shared_name" : "Hyaluronidase (ovine)",
+        "name" : "Hyaluronidase (ovine)",
+        "SUID" : 765,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1305.3044953440365,
+        "y" : 590.6054319861339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "763",
+        "shared_name" : "Glycyrrhizic acid",
+        "name" : "Glycyrrhizic acid",
+        "SUID" : 763,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -633.322683820599,
+        "y" : 404.5808958533214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "761",
+        "shared_name" : "Binimetinib",
+        "name" : "Binimetinib",
+        "SUID" : 761,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -769.3671784495052,
+        "y" : 489.97915024785266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "759",
+        "shared_name" : "Foreskin keratinocyte (neonatal)",
+        "name" : "Foreskin keratinocyte (neonatal)",
+        "SUID" : 759,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1069.828054914349,
+        "y" : 483.8260130408214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "757",
+        "shared_name" : "Foreskin fibroblast (neonatal)",
+        "name" : "Foreskin fibroblast (neonatal)",
+        "SUID" : 757,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1041.0274567698177,
+        "y" : 540.3744139197277
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "755",
+        "shared_name" : "Pomalidomide",
+        "name" : "Pomalidomide",
+        "SUID" : 755,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -942.2646393870052,
+        "y" : 300.49099106816516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "753",
+        "shared_name" : "Certolizumab pegol",
+        "name" : "Certolizumab pegol",
+        "SUID" : 753,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -871.3538727854427,
+        "y" : 330.53933091191516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "751",
+        "shared_name" : "Golimumab",
+        "name" : "Golimumab",
+        "SUID" : 751,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -806.9374909495052,
+        "y" : 560.5038084509777
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "749",
+        "shared_name" : "Amrinone",
+        "name" : "Amrinone",
+        "SUID" : 749,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -887.3715729807552,
+        "y" : 264.5428099158214
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "747",
+        "shared_name" : "Clenbuterol",
+        "name" : "Clenbuterol",
+        "SUID" : 747,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1035.3723664377865,
+        "y" : 362.54140610722766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "745",
+        "shared_name" : "Glucosamine",
+        "name" : "Glucosamine",
+        "SUID" : 745,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -844.9550690745052,
+        "y" : 510.88247056035266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "741",
+        "shared_name" : "Epinephrine",
+        "name" : "Epinephrine",
+        "SUID" : 741,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -767.987967023724,
+        "y" : 422.4296507361339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "739",
+        "shared_name" : "Chloroquine",
+        "name" : "Chloroquine",
+        "SUID" : 739,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -781.1841950510677,
+        "y" : 358.0874876501964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "737",
+        "shared_name" : "Infliximab",
+        "name" : "Infliximab",
+        "SUID" : 737,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -998.9868683909115,
+        "y" : 311.40831894902453
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "735",
+        "shared_name" : "Adalimumab",
+        "name" : "Adalimumab",
+        "SUID" : 735,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -812.2535309885677,
+        "y" : 297.55581040410266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "733",
+        "isGene":"Yes",
+        "shared_name" : "TNF",
+        "name" : "TNF",
+        "SUID" : 733,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -891.9045930002865,
+        "y" : 426.78554673222766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "732",
+        "shared_name" : "Etanercept",
+        "name" : "Etanercept",
+        "SUID" : 732,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -944.044607648724,
+        "y" : 570.3540892126964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "730",
+        "isGene":"Yes",
+        "shared_name" : "RELA",
+        "name" : "RELA",
+        "SUID" : 730,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1199.269590864056,
+        "y" : 1225.1328978064464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "729",
+        "shared_name" : "Dimethyl fumarate",
+        "name" : "Dimethyl fumarate",
+        "SUID" : 729,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1202.2870431040462,
+        "y" : 1332.8550657751964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "727",
+        "shared_name" : "Triflusal",
+        "name" : "Triflusal",
+        "SUID" : 727,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -965.3273835276302,
+        "y" : 408.29909653691516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "725",
+        "shared_name" : "Thalidomide",
+        "name" : "Thalidomide",
+        "SUID" : 725,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1026.6421418284115,
+        "y" : 428.8511595251964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "723",
+        "isGene":"Yes",
+        "shared_name" : "NFKB1",
+        "name" : "NFKB1",
+        "SUID" : 723,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -976.3186555002865,
+        "y" : 514.6576780798839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "722",
+        "shared_name" : "Pseudoephedrine",
+        "name" : "Pseudoephedrine",
+        "SUID" : 722,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -884.5413117502865,
+        "y" : 567.3039183142589
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1088",
+        "source" : "1087",
+        "target" : "1083",
+        "shared_name" : "Lithium carbonate (inhibition) GSK3B",
+        "name" : "Lithium carbonate (inhibition) GSK3B",
+        "interaction" : "inhibition",
+        "SUID" : 1088,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1086",
+        "source" : "1085",
+        "target" : "1083",
+        "shared_name" : "Lithium citrate (inhibition) GSK3B",
+        "name" : "Lithium citrate (inhibition) GSK3B",
+        "interaction" : "inhibition",
+        "SUID" : 1086,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1059",
+        "source" : "1058",
+        "target" : "1046",
+        "shared_name" : "Pralsetinib (inhibition) JAK2",
+        "name" : "Pralsetinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1059,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1056",
+        "source" : "1055",
+        "target" : "1046",
+        "shared_name" : "Fedratinib (inhibition) JAK2",
+        "name" : "Fedratinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1056,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1053",
+        "source" : "1052",
+        "target" : "1046",
+        "shared_name" : "Entrectinib (inhibition) JAK2",
+        "name" : "Entrectinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1053,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1051",
+        "source" : "1050",
+        "target" : "1046",
+        "shared_name" : "Baricitinib (inhibition) JAK2",
+        "name" : "Baricitinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1051,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1061",
+        "source" : "1048",
+        "target" : "1060",
+        "shared_name" : "Tofacitinib (inhibition) TYK2",
+        "name" : "Tofacitinib (inhibition) TYK2",
+        "interaction" : "inhibition",
+        "SUID" : 1061,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1049",
+        "source" : "1048",
+        "target" : "1046",
+        "shared_name" : "Tofacitinib (inhibition) JAK2",
+        "name" : "Tofacitinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1049,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1047",
+        "source" : "1045",
+        "target" : "1046",
+        "shared_name" : "Ruxolitinib (inhibition) JAK2",
+        "name" : "Ruxolitinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1047,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1040",
+        "source" : "1039",
+        "target" : "1037",
+        "shared_name" : "Omega-3-acid ethyl esters (inhibition) SREBF1",
+        "name" : "Omega-3-acid ethyl esters (inhibition) SREBF1",
+        "interaction" : "inhibition",
+        "SUID" : 1040,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1057",
+        "source" : "1035",
+        "target" : "1046",
+        "shared_name" : "Zanubrutinib (inhibition) JAK2",
+        "name" : "Zanubrutinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1057,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1036",
+        "source" : "1035",
+        "target" : "1030",
+        "shared_name" : "Zanubrutinib (inhibition) LCK",
+        "name" : "Zanubrutinib (inhibition) LCK",
+        "interaction" : "inhibition",
+        "SUID" : 1036,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1033",
+        "source" : "1027",
+        "target" : "1030",
+        "shared_name" : "Nintedanib (inhibition) LCK",
+        "name" : "Nintedanib (inhibition) LCK",
+        "interaction" : "inhibition",
+        "SUID" : 1033,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1028",
+        "source" : "1027",
+        "target" : "1021",
+        "shared_name" : "Nintedanib (inhibition) LYN",
+        "name" : "Nintedanib (inhibition) LYN",
+        "interaction" : "inhibition",
+        "SUID" : 1028,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1032",
+        "source" : "1025",
+        "target" : "1030",
+        "shared_name" : "Ponatinib (inhibition) LCK",
+        "name" : "Ponatinib (inhibition) LCK",
+        "interaction" : "inhibition",
+        "SUID" : 1032,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1026",
+        "source" : "1025",
+        "target" : "1021",
+        "shared_name" : "Ponatinib (inhibition) LYN",
+        "name" : "Ponatinib (inhibition) LYN",
+        "interaction" : "inhibition",
+        "SUID" : 1026,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1044",
+        "source" : "1023",
+        "target" : "1043",
+        "shared_name" : "Bosutinib (inhibition) CDK2",
+        "name" : "Bosutinib (inhibition) CDK2",
+        "interaction" : "inhibition",
+        "SUID" : 1044,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1024",
+        "source" : "1023",
+        "target" : "1021",
+        "shared_name" : "Bosutinib (inhibition) LYN",
+        "name" : "Bosutinib (inhibition) LYN",
+        "interaction" : "inhibition",
+        "SUID" : 1024,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1031",
+        "source" : "1020",
+        "target" : "1030",
+        "shared_name" : "Dasatinib (inhibition) LCK",
+        "name" : "Dasatinib (inhibition) LCK",
+        "interaction" : "inhibition",
+        "SUID" : 1031,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1022",
+        "source" : "1020",
+        "target" : "1021",
+        "shared_name" : "Dasatinib (inhibition) LYN",
+        "name" : "Dasatinib (inhibition) LYN",
+        "interaction" : "inhibition",
+        "SUID" : 1022,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1015",
+        "source" : "1014",
+        "target" : "1011",
+        "shared_name" : "Turpentine (inhibition) MAPK1",
+        "name" : "Turpentine (inhibition) MAPK1",
+        "interaction" : "inhibition",
+        "SUID" : 1015,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1012",
+        "source" : "1010",
+        "target" : "1011",
+        "shared_name" : "Isoprenaline (inhibition) MAPK1",
+        "name" : "Isoprenaline (inhibition) MAPK1",
+        "interaction" : "inhibition",
+        "SUID" : 1012,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1009",
+        "source" : "1008",
+        "target" : "1006",
+        "shared_name" : "Nadroparin (inhibition) MYC",
+        "name" : "Nadroparin (inhibition) MYC",
+        "interaction" : "inhibition",
+        "SUID" : 1009,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1005",
+        "source" : "1004",
+        "target" : "996",
+        "shared_name" : "Zinc sulfate, unspecified form (inhibition) TP53",
+        "name" : "Zinc sulfate, unspecified form (inhibition) TP53",
+        "interaction" : "inhibition",
+        "SUID" : 1005,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1003",
+        "source" : "1002",
+        "target" : "996",
+        "shared_name" : "Zinc chloride (inhibition) TP53",
+        "name" : "Zinc chloride (inhibition) TP53",
+        "interaction" : "inhibition",
+        "SUID" : 1003,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1001",
+        "source" : "1000",
+        "target" : "996",
+        "shared_name" : "Zinc acetate (inhibition) TP53",
+        "name" : "Zinc acetate (inhibition) TP53",
+        "interaction" : "inhibition",
+        "SUID" : 1001,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "999",
+        "source" : "998",
+        "target" : "996",
+        "shared_name" : "Zinc (inhibition) TP53",
+        "name" : "Zinc (inhibition) TP53",
+        "interaction" : "inhibition",
+        "SUID" : 999,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "992",
+        "source" : "991",
+        "target" : "988",
+        "shared_name" : "Minocycline (inhibition) CASP3",
+        "name" : "Minocycline (inhibition) CASP3",
+        "interaction" : "inhibition",
+        "SUID" : 992,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "989",
+        "source" : "987",
+        "target" : "988",
+        "shared_name" : "Pamidronic acid (inhibition) CASP3",
+        "name" : "Pamidronic acid (inhibition) CASP3",
+        "interaction" : "inhibition",
+        "SUID" : 989,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "986",
+        "source" : "985",
+        "target" : "890",
+        "shared_name" : "Segesterone acetate (inhibition) AR",
+        "name" : "Segesterone acetate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 986,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "984",
+        "source" : "983",
+        "target" : "890",
+        "shared_name" : "Testosterone undecanoate (inhibition) AR",
+        "name" : "Testosterone undecanoate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 984,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "982",
+        "source" : "981",
+        "target" : "890",
+        "shared_name" : "Testosterone enanthate (inhibition) AR",
+        "name" : "Testosterone enanthate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 982,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "980",
+        "source" : "979",
+        "target" : "890",
+        "shared_name" : "Testosterone cypionate (inhibition) AR",
+        "name" : "Testosterone cypionate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 980,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "978",
+        "source" : "977",
+        "target" : "890",
+        "shared_name" : "Esculin (inhibition) AR",
+        "name" : "Esculin (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 978,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "976",
+        "source" : "975",
+        "target" : "890",
+        "shared_name" : "Darolutamide (inhibition) AR",
+        "name" : "Darolutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 976,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "974",
+        "source" : "973",
+        "target" : "890",
+        "shared_name" : "Clascoterone (inhibition) AR",
+        "name" : "Clascoterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 974,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "972",
+        "source" : "971",
+        "target" : "890",
+        "shared_name" : "Apalutamide (inhibition) AR",
+        "name" : "Apalutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 972,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "970",
+        "source" : "969",
+        "target" : "890",
+        "shared_name" : "Gestrinone (inhibition) AR",
+        "name" : "Gestrinone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 970,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "968",
+        "source" : "967",
+        "target" : "890",
+        "shared_name" : "Enzacamene (inhibition) AR",
+        "name" : "Enzacamene (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 968,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "966",
+        "source" : "965",
+        "target" : "890",
+        "shared_name" : "Homosalate (inhibition) AR",
+        "name" : "Homosalate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 966,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "964",
+        "source" : "963",
+        "target" : "890",
+        "shared_name" : "Norgestrel (inhibition) AR",
+        "name" : "Norgestrel (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 964,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "962",
+        "source" : "961",
+        "target" : "890",
+        "shared_name" : "Norethynodrel (inhibition) AR",
+        "name" : "Norethynodrel (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 962,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "960",
+        "source" : "959",
+        "target" : "890",
+        "shared_name" : "Dienogest (inhibition) AR",
+        "name" : "Dienogest (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 960,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "958",
+        "source" : "957",
+        "target" : "890",
+        "shared_name" : "Eugenol (inhibition) AR",
+        "name" : "Eugenol (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 958,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "956",
+        "source" : "955",
+        "target" : "890",
+        "shared_name" : "Enzalutamide (inhibition) AR",
+        "name" : "Enzalutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 956,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "954",
+        "source" : "953",
+        "target" : "890",
+        "shared_name" : "Ulipristal (inhibition) AR",
+        "name" : "Ulipristal (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 954,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "952",
+        "source" : "951",
+        "target" : "890",
+        "shared_name" : "Nandrolone decanoate (inhibition) AR",
+        "name" : "Nandrolone decanoate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 952,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "949",
+        "source" : "948",
+        "target" : "890",
+        "shared_name" : "Stanozolol (inhibition) AR",
+        "name" : "Stanozolol (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 949,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "947",
+        "source" : "946",
+        "target" : "890",
+        "shared_name" : "Norelgestromin (inhibition) AR",
+        "name" : "Norelgestromin (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 947,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "945",
+        "source" : "944",
+        "target" : "890",
+        "shared_name" : "Methyltestosterone (inhibition) AR",
+        "name" : "Methyltestosterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 945,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "943",
+        "source" : "942",
+        "target" : "890",
+        "shared_name" : "Oxymetholone (inhibition) AR",
+        "name" : "Oxymetholone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 943,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "941",
+        "source" : "940",
+        "target" : "890",
+        "shared_name" : "Cyproterone acetate (inhibition) AR",
+        "name" : "Cyproterone acetate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 941,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "937",
+        "source" : "936",
+        "target" : "890",
+        "shared_name" : "Periciazine (inhibition) AR",
+        "name" : "Periciazine (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 937,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "935",
+        "source" : "934",
+        "target" : "890",
+        "shared_name" : "Oxybenzone (inhibition) AR",
+        "name" : "Oxybenzone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 935,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "933",
+        "source" : "932",
+        "target" : "890",
+        "shared_name" : "Testosterone propionate (inhibition) AR",
+        "name" : "Testosterone propionate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 933,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "931",
+        "source" : "930",
+        "target" : "890",
+        "shared_name" : "Danazol (inhibition) AR",
+        "name" : "Danazol (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 931,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "929",
+        "source" : "928",
+        "target" : "890",
+        "shared_name" : "Drospirenone (inhibition) AR",
+        "name" : "Drospirenone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 929,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "927",
+        "source" : "926",
+        "target" : "890",
+        "shared_name" : "Fluoxymesterone (inhibition) AR",
+        "name" : "Fluoxymesterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 927,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "925",
+        "source" : "924",
+        "target" : "890",
+        "shared_name" : "Bicalutamide (inhibition) AR",
+        "name" : "Bicalutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 925,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "923",
+        "source" : "922",
+        "target" : "890",
+        "shared_name" : "Acetophenazine (inhibition) AR",
+        "name" : "Acetophenazine (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 923,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "921",
+        "source" : "920",
+        "target" : "890",
+        "shared_name" : "Ketoconazole (inhibition) AR",
+        "name" : "Ketoconazole (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 921,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "919",
+        "source" : "918",
+        "target" : "890",
+        "shared_name" : "Nandrolone phenpropionate (inhibition) AR",
+        "name" : "Nandrolone phenpropionate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 919,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "917",
+        "source" : "916",
+        "target" : "890",
+        "shared_name" : "Norgestimate (inhibition) AR",
+        "name" : "Norgestimate (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 917,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "915",
+        "source" : "914",
+        "target" : "890",
+        "shared_name" : "Norethisterone (inhibition) AR",
+        "name" : "Norethisterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 915,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "995",
+        "source" : "912",
+        "target" : "994",
+        "shared_name" : "Tamoxifen (inhibition) MAPK8",
+        "name" : "Tamoxifen (inhibition) MAPK8",
+        "interaction" : "inhibition",
+        "SUID" : 995,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "913",
+        "source" : "912",
+        "target" : "890",
+        "shared_name" : "Tamoxifen (inhibition) AR",
+        "name" : "Tamoxifen (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 913,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "911",
+        "source" : "910",
+        "target" : "890",
+        "shared_name" : "Nilutamide (inhibition) AR",
+        "name" : "Nilutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 911,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "909",
+        "source" : "908",
+        "target" : "890",
+        "shared_name" : "Estrone (inhibition) AR",
+        "name" : "Estrone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 909,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "907",
+        "source" : "906",
+        "target" : "890",
+        "shared_name" : "Mitotane (inhibition) AR",
+        "name" : "Mitotane (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 907,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "905",
+        "source" : "904",
+        "target" : "890",
+        "shared_name" : "Testosterone (inhibition) AR",
+        "name" : "Testosterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 905,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "903",
+        "source" : "902",
+        "target" : "890",
+        "shared_name" : "Fluphenazine (inhibition) AR",
+        "name" : "Fluphenazine (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 903,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "901",
+        "source" : "900",
+        "target" : "890",
+        "shared_name" : "Oxandrolone (inhibition) AR",
+        "name" : "Oxandrolone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 901,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "899",
+        "source" : "898",
+        "target" : "890",
+        "shared_name" : "Flutamide (inhibition) AR",
+        "name" : "Flutamide (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 899,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "897",
+        "source" : "896",
+        "target" : "890",
+        "shared_name" : "Spironolactone (inhibition) AR",
+        "name" : "Spironolactone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 897,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "895",
+        "source" : "894",
+        "target" : "890",
+        "shared_name" : "Progesterone (inhibition) AR",
+        "name" : "Progesterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 895,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "893",
+        "source" : "892",
+        "target" : "890",
+        "shared_name" : "Levonorgestrel (inhibition) AR",
+        "name" : "Levonorgestrel (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 893,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "891",
+        "source" : "889",
+        "target" : "890",
+        "shared_name" : "Diethylstilbestrol (inhibition) AR",
+        "name" : "Diethylstilbestrol (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 891,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1084",
+        "source" : "887",
+        "target" : "1083",
+        "shared_name" : "Fostamatinib (inhibition) GSK3B",
+        "name" : "Fostamatinib (inhibition) GSK3B",
+        "interaction" : "inhibition",
+        "SUID" : 1084,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1082",
+        "source" : "887",
+        "target" : "1081",
+        "shared_name" : "Fostamatinib (inhibition) AURKC",
+        "name" : "Fostamatinib (inhibition) AURKC",
+        "interaction" : "inhibition",
+        "SUID" : 1082,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1080",
+        "source" : "887",
+        "target" : "1079",
+        "shared_name" : "Fostamatinib (inhibition) AURKA",
+        "name" : "Fostamatinib (inhibition) AURKA",
+        "interaction" : "inhibition",
+        "SUID" : 1080,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1078",
+        "source" : "887",
+        "target" : "1077",
+        "shared_name" : "Fostamatinib (inhibition) DAPK1",
+        "name" : "Fostamatinib (inhibition) DAPK1",
+        "interaction" : "inhibition",
+        "SUID" : 1078,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1076",
+        "source" : "887",
+        "target" : "1075",
+        "shared_name" : "Fostamatinib (inhibition) PIM1",
+        "name" : "Fostamatinib (inhibition) PIM1",
+        "interaction" : "inhibition",
+        "SUID" : 1076,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1074",
+        "source" : "887",
+        "target" : "1073",
+        "shared_name" : "Fostamatinib (inhibition) CSNK2A1",
+        "name" : "Fostamatinib (inhibition) CSNK2A1",
+        "interaction" : "inhibition",
+        "SUID" : 1074,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1072",
+        "source" : "887",
+        "target" : "1071",
+        "shared_name" : "Fostamatinib (inhibition) TBK1",
+        "name" : "Fostamatinib (inhibition) TBK1",
+        "interaction" : "inhibition",
+        "SUID" : 1072,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1070",
+        "source" : "887",
+        "target" : "1069",
+        "shared_name" : "Fostamatinib (inhibition) PRKACA",
+        "name" : "Fostamatinib (inhibition) PRKACA",
+        "interaction" : "inhibition",
+        "SUID" : 1070,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1068",
+        "source" : "887",
+        "target" : "1067",
+        "shared_name" : "Fostamatinib (inhibition) IRAK1",
+        "name" : "Fostamatinib (inhibition) IRAK1",
+        "interaction" : "inhibition",
+        "SUID" : 1068,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1066",
+        "source" : "887",
+        "target" : "1065",
+        "shared_name" : "Fostamatinib (inhibition) CDK1",
+        "name" : "Fostamatinib (inhibition) CDK1",
+        "interaction" : "inhibition",
+        "SUID" : 1066,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1064",
+        "source" : "887",
+        "target" : "1063",
+        "shared_name" : "Fostamatinib (inhibition) MAPK9",
+        "name" : "Fostamatinib (inhibition) MAPK9",
+        "interaction" : "inhibition",
+        "SUID" : 1064,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1062",
+        "source" : "887",
+        "target" : "1060",
+        "shared_name" : "Fostamatinib (inhibition) TYK2",
+        "name" : "Fostamatinib (inhibition) TYK2",
+        "interaction" : "inhibition",
+        "SUID" : 1062,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1054",
+        "source" : "887",
+        "target" : "1046",
+        "shared_name" : "Fostamatinib (inhibition) JAK2",
+        "name" : "Fostamatinib (inhibition) JAK2",
+        "interaction" : "inhibition",
+        "SUID" : 1054,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1034",
+        "source" : "887",
+        "target" : "1030",
+        "shared_name" : "Fostamatinib (inhibition) LCK",
+        "name" : "Fostamatinib (inhibition) LCK",
+        "interaction" : "inhibition",
+        "SUID" : 1034,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1029",
+        "source" : "887",
+        "target" : "1021",
+        "shared_name" : "Fostamatinib (inhibition) LYN",
+        "name" : "Fostamatinib (inhibition) LYN",
+        "interaction" : "inhibition",
+        "SUID" : 1029,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "888",
+        "source" : "887",
+        "target" : "876",
+        "shared_name" : "Fostamatinib (inhibition) IKBKB",
+        "name" : "Fostamatinib (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 888,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "886",
+        "source" : "885",
+        "target" : "876",
+        "shared_name" : "Acetylcysteine (inhibition) IKBKB",
+        "name" : "Acetylcysteine (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 886,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1019",
+        "source" : "883",
+        "target" : "1018",
+        "shared_name" : "Arsenic trioxide (inhibition) CDKN1A",
+        "name" : "Arsenic trioxide (inhibition) CDKN1A",
+        "interaction" : "inhibition",
+        "SUID" : 1019,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1017",
+        "source" : "883",
+        "target" : "1016",
+        "shared_name" : "Arsenic trioxide (inhibition) AKT1",
+        "name" : "Arsenic trioxide (inhibition) AKT1",
+        "interaction" : "inhibition",
+        "SUID" : 1017,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1013",
+        "source" : "883",
+        "target" : "1011",
+        "shared_name" : "Arsenic trioxide (inhibition) MAPK1",
+        "name" : "Arsenic trioxide (inhibition) MAPK1",
+        "interaction" : "inhibition",
+        "SUID" : 1013,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "884",
+        "source" : "883",
+        "target" : "876",
+        "shared_name" : "Arsenic trioxide (inhibition) IKBKB",
+        "name" : "Arsenic trioxide (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 884,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "882",
+        "source" : "881",
+        "target" : "876",
+        "shared_name" : "Auranofin (inhibition) IKBKB",
+        "name" : "Auranofin (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 882,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1007",
+        "source" : "879",
+        "target" : "1006",
+        "shared_name" : "Acetylsalicylic acid (inhibition) MYC",
+        "name" : "Acetylsalicylic acid (inhibition) MYC",
+        "interaction" : "inhibition",
+        "SUID" : 1007,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "997",
+        "source" : "879",
+        "target" : "996",
+        "shared_name" : "Acetylsalicylic acid (inhibition) TP53",
+        "name" : "Acetylsalicylic acid (inhibition) TP53",
+        "interaction" : "inhibition",
+        "SUID" : 997,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "990",
+        "source" : "879",
+        "target" : "988",
+        "shared_name" : "Acetylsalicylic acid (inhibition) CASP3",
+        "name" : "Acetylsalicylic acid (inhibition) CASP3",
+        "interaction" : "inhibition",
+        "SUID" : 990,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "880",
+        "source" : "879",
+        "target" : "876",
+        "shared_name" : "Acetylsalicylic acid (inhibition) IKBKB",
+        "name" : "Acetylsalicylic acid (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 880,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "873",
+        "source" : "872",
+        "target" : "838",
+        "shared_name" : "Myrrh (inhibition) PPARA",
+        "name" : "Myrrh (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 873,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "870",
+        "source" : "869",
+        "target" : "838",
+        "shared_name" : "Soybean oil (inhibition) PPARA",
+        "name" : "Soybean oil (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 870,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "867",
+        "source" : "866",
+        "target" : "838",
+        "shared_name" : "Ciprofibrate (inhibition) PPARA",
+        "name" : "Ciprofibrate (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 867,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "864",
+        "source" : "863",
+        "target" : "838",
+        "shared_name" : "Palmitic Acid (inhibition) PPARA",
+        "name" : "Palmitic Acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 864,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "861",
+        "source" : "860",
+        "target" : "838",
+        "shared_name" : "Stearic acid (inhibition) PPARA",
+        "name" : "Stearic acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 861,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "859",
+        "source" : "858",
+        "target" : "838",
+        "shared_name" : "Lauric acid (inhibition) PPARA",
+        "name" : "Lauric acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 859,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "938",
+        "source" : "855",
+        "target" : "890",
+        "shared_name" : "Prasterone (inhibition) AR",
+        "name" : "Prasterone (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 938,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "856",
+        "source" : "855",
+        "target" : "838",
+        "shared_name" : "Prasterone (inhibition) PPARA",
+        "name" : "Prasterone (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 856,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "853",
+        "source" : "852",
+        "target" : "838",
+        "shared_name" : "Gemfibrozil (inhibition) PPARA",
+        "name" : "Gemfibrozil (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 853,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "849",
+        "source" : "848",
+        "target" : "838",
+        "shared_name" : "Fenofibrate (inhibition) PPARA",
+        "name" : "Fenofibrate (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 849,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "847",
+        "source" : "846",
+        "target" : "838",
+        "shared_name" : "Clofibrate (inhibition) PPARA",
+        "name" : "Clofibrate (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 847,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1042",
+        "source" : "836",
+        "target" : "1037",
+        "shared_name" : "Fish oil (inhibition) SREBF1",
+        "name" : "Fish oil (inhibition) SREBF1",
+        "interaction" : "inhibition",
+        "SUID" : 1042,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "875",
+        "source" : "836",
+        "target" : "838",
+        "shared_name" : "Fish oil (inhibition) PPARA",
+        "name" : "Fish oil (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 875,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "837",
+        "source" : "836",
+        "target" : "780",
+        "shared_name" : "Fish oil (inhibition) PPARG",
+        "name" : "Fish oil (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 837,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "874",
+        "source" : "834",
+        "target" : "838",
+        "shared_name" : "Fenofibric acid (inhibition) PPARA",
+        "name" : "Fenofibric acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 874,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "835",
+        "source" : "834",
+        "target" : "780",
+        "shared_name" : "Fenofibric acid (inhibition) PPARG",
+        "name" : "Fenofibric acid (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 835,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "833",
+        "source" : "832",
+        "target" : "780",
+        "shared_name" : "Curcumin (inhibition) PPARG",
+        "name" : "Curcumin (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 833,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1041",
+        "source" : "830",
+        "target" : "1037",
+        "shared_name" : "Omega-3 fatty acids (inhibition) SREBF1",
+        "name" : "Omega-3 fatty acids (inhibition) SREBF1",
+        "interaction" : "inhibition",
+        "SUID" : 1041,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "871",
+        "source" : "830",
+        "target" : "838",
+        "shared_name" : "Omega-3 fatty acids (inhibition) PPARA",
+        "name" : "Omega-3 fatty acids (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 871,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "831",
+        "source" : "830",
+        "target" : "780",
+        "shared_name" : "Omega-3 fatty acids (inhibition) PPARG",
+        "name" : "Omega-3 fatty acids (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 831,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "868",
+        "source" : "828",
+        "target" : "838",
+        "shared_name" : "Dexibuprofen (inhibition) PPARA",
+        "name" : "Dexibuprofen (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 868,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "829",
+        "source" : "828",
+        "target" : "780",
+        "shared_name" : "Dexibuprofen (inhibition) PPARG",
+        "name" : "Dexibuprofen (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 829,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "827",
+        "source" : "826",
+        "target" : "780",
+        "shared_name" : "Cannabidiol (inhibition) PPARG",
+        "name" : "Cannabidiol (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 827,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "950",
+        "source" : "824",
+        "target" : "890",
+        "shared_name" : "Triclosan (inhibition) AR",
+        "name" : "Triclosan (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 950,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "825",
+        "source" : "824",
+        "target" : "780",
+        "shared_name" : "Triclosan (inhibition) PPARG",
+        "name" : "Triclosan (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 825,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "865",
+        "source" : "822",
+        "target" : "838",
+        "shared_name" : "Oleic Acid (inhibition) PPARA",
+        "name" : "Oleic Acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 865,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "823",
+        "source" : "822",
+        "target" : "780",
+        "shared_name" : "Oleic Acid (inhibition) PPARG",
+        "name" : "Oleic Acid (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 823,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1038",
+        "source" : "820",
+        "target" : "1037",
+        "shared_name" : "Doconexent (inhibition) SREBF1",
+        "name" : "Doconexent (inhibition) SREBF1",
+        "interaction" : "inhibition",
+        "SUID" : 1038,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "862",
+        "source" : "820",
+        "target" : "838",
+        "shared_name" : "Doconexent (inhibition) PPARA",
+        "name" : "Doconexent (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 862,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "821",
+        "source" : "820",
+        "target" : "780",
+        "shared_name" : "Doconexent (inhibition) PPARG",
+        "name" : "Doconexent (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 821,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "939",
+        "source" : "818",
+        "target" : "890",
+        "shared_name" : "Flufenamic acid (inhibition) AR",
+        "name" : "Flufenamic acid (inhibition) AR",
+        "interaction" : "inhibition",
+        "SUID" : 939,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "857",
+        "source" : "818",
+        "target" : "838",
+        "shared_name" : "Flufenamic acid (inhibition) PPARA",
+        "name" : "Flufenamic acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 857,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "819",
+        "source" : "818",
+        "target" : "780",
+        "shared_name" : "Flufenamic acid (inhibition) PPARG",
+        "name" : "Flufenamic acid (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 819,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "854",
+        "source" : "816",
+        "target" : "838",
+        "shared_name" : "Bezafibrate (inhibition) PPARA",
+        "name" : "Bezafibrate (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 854,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "817",
+        "source" : "816",
+        "target" : "780",
+        "shared_name" : "Bezafibrate (inhibition) PPARG",
+        "name" : "Bezafibrate (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 817,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "815",
+        "source" : "814",
+        "target" : "780",
+        "shared_name" : "Pioglitazone (inhibition) PPARG",
+        "name" : "Pioglitazone (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 815,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "851",
+        "source" : "812",
+        "target" : "838",
+        "shared_name" : "Amiodarone (inhibition) PPARA",
+        "name" : "Amiodarone (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 851,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "813",
+        "source" : "812",
+        "target" : "780",
+        "shared_name" : "Amiodarone (inhibition) PPARG",
+        "name" : "Amiodarone (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 813,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "811",
+        "source" : "810",
+        "target" : "780",
+        "shared_name" : "Glipizide (inhibition) PPARG",
+        "name" : "Glipizide (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 811,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "850",
+        "source" : "808",
+        "target" : "838",
+        "shared_name" : "Ibuprofen (inhibition) PPARA",
+        "name" : "Ibuprofen (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 850,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "809",
+        "source" : "808",
+        "target" : "780",
+        "shared_name" : "Ibuprofen (inhibition) PPARG",
+        "name" : "Ibuprofen (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 809,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "807",
+        "source" : "806",
+        "target" : "780",
+        "shared_name" : "Balsalazide (inhibition) PPARG",
+        "name" : "Balsalazide (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 807,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "805",
+        "source" : "804",
+        "target" : "780",
+        "shared_name" : "Telmisartan (inhibition) PPARG",
+        "name" : "Telmisartan (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 805,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "803",
+        "source" : "802",
+        "target" : "780",
+        "shared_name" : "Repaglinide (inhibition) PPARG",
+        "name" : "Repaglinide (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 803,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "801",
+        "source" : "800",
+        "target" : "780",
+        "shared_name" : "Clofazimine (inhibition) PPARG",
+        "name" : "Clofazimine (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 801,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "878",
+        "source" : "798",
+        "target" : "876",
+        "shared_name" : "Sulfasalazine (inhibition) IKBKB",
+        "name" : "Sulfasalazine (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 878,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "799",
+        "source" : "798",
+        "target" : "780",
+        "shared_name" : "Sulfasalazine (inhibition) PPARG",
+        "name" : "Sulfasalazine (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 799,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "797",
+        "source" : "796",
+        "target" : "780",
+        "shared_name" : "Nateglinide (inhibition) PPARG",
+        "name" : "Nateglinide (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 797,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "845",
+        "source" : "794",
+        "target" : "838",
+        "shared_name" : "Fenoprofen (inhibition) PPARA",
+        "name" : "Fenoprofen (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 845,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "795",
+        "source" : "794",
+        "target" : "780",
+        "shared_name" : "Fenoprofen (inhibition) PPARG",
+        "name" : "Fenoprofen (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 795,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "844",
+        "source" : "792",
+        "target" : "838",
+        "shared_name" : "Rosiglitazone (inhibition) PPARA",
+        "name" : "Rosiglitazone (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 844,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "793",
+        "source" : "792",
+        "target" : "780",
+        "shared_name" : "Rosiglitazone (inhibition) PPARG",
+        "name" : "Rosiglitazone (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 793,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "843",
+        "source" : "790",
+        "target" : "838",
+        "shared_name" : "Indomethacin (inhibition) PPARA",
+        "name" : "Indomethacin (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 843,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "791",
+        "source" : "790",
+        "target" : "780",
+        "shared_name" : "Indomethacin (inhibition) PPARG",
+        "name" : "Indomethacin (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 791,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "842",
+        "source" : "788",
+        "target" : "838",
+        "shared_name" : "Valproic acid (inhibition) PPARA",
+        "name" : "Valproic acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 842,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "789",
+        "source" : "788",
+        "target" : "780",
+        "shared_name" : "Valproic acid (inhibition) PPARG",
+        "name" : "Valproic acid (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 789,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "877",
+        "source" : "786",
+        "target" : "876",
+        "shared_name" : "Mesalazine (inhibition) IKBKB",
+        "name" : "Mesalazine (inhibition) IKBKB",
+        "interaction" : "inhibition",
+        "SUID" : 877,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "787",
+        "source" : "786",
+        "target" : "780",
+        "shared_name" : "Mesalazine (inhibition) PPARG",
+        "name" : "Mesalazine (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 787,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "841",
+        "source" : "784",
+        "target" : "838",
+        "shared_name" : "Troglitazone (inhibition) PPARA",
+        "name" : "Troglitazone (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 841,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "785",
+        "source" : "784",
+        "target" : "780",
+        "shared_name" : "Troglitazone (inhibition) PPARG",
+        "name" : "Troglitazone (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 785,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "840",
+        "source" : "782",
+        "target" : "838",
+        "shared_name" : "Icosapent (inhibition) PPARA",
+        "name" : "Icosapent (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 840,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "783",
+        "source" : "782",
+        "target" : "780",
+        "shared_name" : "Icosapent (inhibition) PPARG",
+        "name" : "Icosapent (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 783,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "839",
+        "source" : "779",
+        "target" : "838",
+        "shared_name" : "alpha-Linolenic acid (inhibition) PPARA",
+        "name" : "alpha-Linolenic acid (inhibition) PPARA",
+        "interaction" : "inhibition",
+        "SUID" : 839,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "781",
+        "source" : "779",
+        "target" : "780",
+        "shared_name" : "alpha-Linolenic acid (inhibition) PPARG",
+        "name" : "alpha-Linolenic acid (inhibition) PPARG",
+        "interaction" : "inhibition",
+        "SUID" : 781,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "778",
+        "source" : "776",
+        "target" : "777",
+        "shared_name" : "Antithymocyte immunoglobulin (rabbit) (inhibition) ITGB1",
+        "name" : "Antithymocyte immunoglobulin (rabbit) (inhibition) ITGB1",
+        "interaction" : "inhibition",
+        "SUID" : 778,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "775",
+        "source" : "774",
+        "target" : "766",
+        "shared_name" : "Hyaluronidase (inhibition) TGFB1",
+        "name" : "Hyaluronidase (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 775,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "771",
+        "source" : "770",
+        "target" : "766",
+        "shared_name" : "Hyaluronidase (human recombinant) (inhibition) TGFB1",
+        "name" : "Hyaluronidase (human recombinant) (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 771,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "769",
+        "source" : "768",
+        "target" : "766",
+        "shared_name" : "Terazosin (inhibition) TGFB1",
+        "name" : "Terazosin (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 769,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "767",
+        "source" : "765",
+        "target" : "766",
+        "shared_name" : "Hyaluronidase (ovine) (inhibition) TGFB1",
+        "name" : "Hyaluronidase (ovine) (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 767,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "993",
+        "source" : "763",
+        "target" : "988",
+        "shared_name" : "Glycyrrhizic acid (inhibition) CASP3",
+        "name" : "Glycyrrhizic acid (inhibition) CASP3",
+        "interaction" : "inhibition",
+        "SUID" : 993,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "764",
+        "source" : "763",
+        "target" : "733",
+        "shared_name" : "Glycyrrhizic acid (inhibition) TNF",
+        "name" : "Glycyrrhizic acid (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 764,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "762",
+        "source" : "761",
+        "target" : "733",
+        "shared_name" : "Binimetinib (inhibition) TNF",
+        "name" : "Binimetinib (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 762,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "773",
+        "source" : "759",
+        "target" : "766",
+        "shared_name" : "Foreskin keratinocyte (neonatal) (inhibition) TGFB1",
+        "name" : "Foreskin keratinocyte (neonatal) (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 773,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "760",
+        "source" : "759",
+        "target" : "733",
+        "shared_name" : "Foreskin keratinocyte (neonatal) (inhibition) TNF",
+        "name" : "Foreskin keratinocyte (neonatal) (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 760,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "772",
+        "source" : "757",
+        "target" : "766",
+        "shared_name" : "Foreskin fibroblast (neonatal) (inhibition) TGFB1",
+        "name" : "Foreskin fibroblast (neonatal) (inhibition) TGFB1",
+        "interaction" : "inhibition",
+        "SUID" : 772,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "758",
+        "source" : "757",
+        "target" : "733",
+        "shared_name" : "Foreskin fibroblast (neonatal) (inhibition) TNF",
+        "name" : "Foreskin fibroblast (neonatal) (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 758,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "756",
+        "source" : "755",
+        "target" : "733",
+        "shared_name" : "Pomalidomide (inhibition) TNF",
+        "name" : "Pomalidomide (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 756,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "754",
+        "source" : "753",
+        "target" : "733",
+        "shared_name" : "Certolizumab pegol (inhibition) TNF",
+        "name" : "Certolizumab pegol (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 754,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "752",
+        "source" : "751",
+        "target" : "733",
+        "shared_name" : "Golimumab (inhibition) TNF",
+        "name" : "Golimumab (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 752,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "750",
+        "source" : "749",
+        "target" : "733",
+        "shared_name" : "Amrinone (inhibition) TNF",
+        "name" : "Amrinone (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 750,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "748",
+        "source" : "747",
+        "target" : "733",
+        "shared_name" : "Clenbuterol (inhibition) TNF",
+        "name" : "Clenbuterol (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 748,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "746",
+        "source" : "745",
+        "target" : "733",
+        "shared_name" : "Glucosamine (inhibition) TNF",
+        "name" : "Glucosamine (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 746,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "742",
+        "source" : "741",
+        "target" : "733",
+        "shared_name" : "Epinephrine (inhibition) TNF",
+        "name" : "Epinephrine (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 742,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "740",
+        "source" : "739",
+        "target" : "733",
+        "shared_name" : "Chloroquine (inhibition) TNF",
+        "name" : "Chloroquine (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 740,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "738",
+        "source" : "737",
+        "target" : "733",
+        "shared_name" : "Infliximab (inhibition) TNF",
+        "name" : "Infliximab (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 738,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "736",
+        "source" : "735",
+        "target" : "733",
+        "shared_name" : "Adalimumab (inhibition) TNF",
+        "name" : "Adalimumab (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 736,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "734",
+        "source" : "732",
+        "target" : "733",
+        "shared_name" : "Etanercept (inhibition) TNF",
+        "name" : "Etanercept (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 734,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "731",
+        "source" : "729",
+        "target" : "730",
+        "shared_name" : "Dimethyl fumarate (inhibition) RELA",
+        "name" : "Dimethyl fumarate (inhibition) RELA",
+        "interaction" : "inhibition",
+        "SUID" : 731,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "728",
+        "source" : "727",
+        "target" : "723",
+        "shared_name" : "Triflusal (inhibition) NFKB1",
+        "name" : "Triflusal (inhibition) NFKB1",
+        "interaction" : "inhibition",
+        "SUID" : 728,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "744",
+        "source" : "725",
+        "target" : "733",
+        "shared_name" : "Thalidomide (inhibition) TNF",
+        "name" : "Thalidomide (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 744,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "726",
+        "source" : "725",
+        "target" : "723",
+        "shared_name" : "Thalidomide (inhibition) NFKB1",
+        "name" : "Thalidomide (inhibition) NFKB1",
+        "interaction" : "inhibition",
+        "SUID" : 726,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "743",
+        "source" : "722",
+        "target" : "733",
+        "shared_name" : "Pseudoephedrine (inhibition) TNF",
+        "name" : "Pseudoephedrine (inhibition) TNF",
+        "interaction" : "inhibition",
+        "SUID" : 743,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "724",
+        "source" : "722",
+        "target" : "723",
+        "shared_name" : "Pseudoephedrine (inhibition) NFKB1",
+        "name" : "Pseudoephedrine (inhibition) NFKB1",
+        "interaction" : "inhibition",
+        "SUID" : 724,
+        "shared_interaction" : "inhibition",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

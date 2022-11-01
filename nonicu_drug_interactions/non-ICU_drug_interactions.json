@@ -1,0 +1,6625 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "non-ICU_drug_interactions",
+    "name" : "non-ICU_drug_interactions",
+    "SUID" : 248,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "434",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Etanercept",
+        "monolinks" : "",
+        "name" : "Etanercept",
+        "SUID" : 434,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 501.91678607418453,
+        "y" : -631.212139468659
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TNF" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "TNF",
+        "monolinks" : "",
+        "name" : "TNF",
+        "SUID" : 101,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 631.8217619652978,
+        "y" : -706.4722255282293
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "433",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Adalimumab",
+        "monolinks" : "",
+        "name" : "Adalimumab",
+        "SUID" : 433,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 591.413173555874,
+        "y" : -840.4674953036199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "432",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Infliximab",
+        "monolinks" : "",
+        "name" : "Infliximab",
+        "SUID" : 432,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 527.3868712182275,
+        "y" : -822.3069118075261
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "431",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Chloroquine",
+        "monolinks" : "",
+        "name" : "Chloroquine",
+        "SUID" : 431,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 501.38986194088375,
+        "y" : -694.307125430573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "430",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Epinephrine",
+        "monolinks" : "",
+        "name" : "Epinephrine",
+        "SUID" : 430,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 730.0273894067041,
+        "y" : -824.9354518465886
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "429",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Pseudoephedrine",
+        "monolinks" : "",
+        "name" : "Pseudoephedrine",
+        "SUID" : 429,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 785.7875517602197,
+        "y" : -650.4899562411199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "428",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Thalidomide",
+        "monolinks" : "",
+        "name" : "Thalidomide",
+        "SUID" : 428,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 792.8381193871728,
+        "y" : -721.166256289948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "427",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Glucosamine",
+        "monolinks" : "",
+        "name" : "Glucosamine",
+        "SUID" : 427,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 483.36832416012203,
+        "y" : -757.2569850497136
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "426",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clenbuterol",
+        "monolinks" : "",
+        "name" : "Clenbuterol",
+        "SUID" : 426,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 696.5352629418603,
+        "y" : -594.5101436190496
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "425",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Amrinone",
+        "monolinks" : "",
+        "name" : "Amrinone",
+        "SUID" : 425,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 571.1500357384912,
+        "y" : -619.3548854403386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "424",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Golimumab",
+        "monolinks" : "",
+        "name" : "Golimumab",
+        "SUID" : 424,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 657.1929625268212,
+        "y" : -802.1758082919011
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "423",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Certolizumab pegol",
+        "monolinks" : "",
+        "name" : "Certolizumab pegol",
+        "SUID" : 423,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 735.2722319360009,
+        "y" : -758.1968654208074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "422",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Pomalidomide",
+        "monolinks" : "",
+        "name" : "Pomalidomide",
+        "SUID" : 422,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 721.5144499535791,
+        "y" : -658.5374721102605
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "421",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Foreskin fibroblast (neonatal)",
+        "monolinks" : "",
+        "name" : "Foreskin fibroblast (neonatal)",
+        "SUID" : 421,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 643.0800551171533,
+        "y" : -542.1952022127996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "420",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Foreskin keratinocyte (neonatal)",
+        "monolinks" : "",
+        "name" : "Foreskin keratinocyte (neonatal)",
+        "SUID" : 420,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 580.1480597253076,
+        "y" : -546.4354976229558
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "419",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Binimetinib",
+        "monolinks" : "",
+        "name" : "Binimetinib",
+        "SUID" : 419,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 659.1596907372705,
+        "y" : -865.2286647372136
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "418",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Glycyrrhizic acid",
+        "monolinks" : "",
+        "name" : "Glycyrrhizic acid",
+        "SUID" : 418,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 553.7110060448877,
+        "y" : -758.1735194735418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "417",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hyaluronidase (ovine)",
+        "monolinks" : "",
+        "name" : "Hyaluronidase (ovine)",
+        "SUID" : 417,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 642.4214094872705,
+        "y" : -294.79551349209646
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TGFB1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "TGFB1",
+        "monolinks" : "",
+        "name" : "TGFB1",
+        "SUID" : 97,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 599.656280397915,
+        "y" : -412.89890704678396
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "416",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Terazosin",
+        "monolinks" : "",
+        "name" : "Terazosin",
+        "SUID" : 416,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 545.9967125649682,
+        "y" : -299.76643024014334
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "415",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hyaluronidase (human recombinant)",
+        "monolinks" : "",
+        "name" : "Hyaluronidase (human recombinant)",
+        "SUID" : 415,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 711.5626982445947,
+        "y" : -368.0761598162542
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "414",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hyaluronidase",
+        "monolinks" : "",
+        "name" : "Hyaluronidase",
+        "SUID" : 414,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 482.30207049801265,
+        "y" : -378.10766721891264
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "413",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Adenosine phosphate",
+        "monolinks" : "",
+        "name" : "Adenosine phosphate",
+        "SUID" : 413,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -510.3626633887061,
+        "y" : 975.9014927334895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CREB1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "CREB1",
+        "monolinks" : "",
+        "name" : "CREB1",
+        "SUID" : 65,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -520.4819871191748,
+        "y" : 1084.8304325528254
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "412",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Naloxone",
+        "monolinks" : "",
+        "name" : "Naloxone",
+        "SUID" : 412,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -523.7849656347998,
+        "y" : 1194.1836811490168
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "411",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "alpha-Linolenic acid",
+        "monolinks" : "",
+        "name" : "alpha-Linolenic acid",
+        "SUID" : 411,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -316.6550217871436,
+        "y" : -767.8351710848699
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PPARG" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "PPARG",
+        "monolinks" : "",
+        "name" : "PPARG",
+        "SUID" : 88,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -143.4986497168311,
+        "y" : -675.0564845614324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "410",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Icosapent",
+        "monolinks" : "",
+        "name" : "Icosapent",
+        "SUID" : 410,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -22.234924436069377,
+        "y" : -801.7675441317449
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "409",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Troglitazone",
+        "monolinks" : "",
+        "name" : "Troglitazone",
+        "SUID" : 409,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -291.28658306644047,
+        "y" : -580.7101100497136
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "408",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Mesalazine",
+        "monolinks" : "",
+        "name" : "Mesalazine",
+        "SUID" : 408,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -335.82866680667485,
+        "y" : -690.8209498934636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "407",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Valproic acid",
+        "monolinks" : "",
+        "name" : "Valproic acid",
+        "SUID" : 407,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -42.26789867923344,
+        "y" : -733.2929957919011
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "406",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Indomethacin",
+        "monolinks" : "",
+        "name" : "Indomethacin",
+        "SUID" : 406,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -139.25746929690922,
+        "y" : -810.2220729403386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "405",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Rosiglitazone",
+        "monolinks" : "",
+        "name" : "Rosiglitazone",
+        "SUID" : 405,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -66.4077073340186,
+        "y" : -843.3092921786199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "404",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fenoprofen",
+        "monolinks" : "",
+        "name" : "Fenoprofen",
+        "SUID" : 404,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -281.73372662112797,
+        "y" : -713.8504298739324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "403",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nateglinide",
+        "monolinks" : "",
+        "name" : "Nateglinide",
+        "SUID" : 403,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -211.14492046878422,
+        "y" : -809.9858668856511
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "402",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Sulfasalazine",
+        "monolinks" : "",
+        "name" : "Sulfasalazine",
+        "SUID" : 402,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -271.84786236331547,
+        "y" : -821.3070338778386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "401",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clofazimine",
+        "monolinks" : "",
+        "name" : "Clofazimine",
+        "SUID" : 401,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -174.2587815527686,
+        "y" : -760.6910060458074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "400",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Repaglinide",
+        "monolinks" : "",
+        "name" : "Repaglinide",
+        "SUID" : 400,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -49.128639340854534,
+        "y" : -662.1896022372136
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "399",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Telmisartan",
+        "monolinks" : "",
+        "name" : "Telmisartan",
+        "SUID" : 399,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -86.69712078616703,
+        "y" : -575.6410182528386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "398",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Balsalazide",
+        "monolinks" : "",
+        "name" : "Balsalazide",
+        "SUID" : 398,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -229.88909161136235,
+        "y" : -539.6946376376043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "397",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ibuprofen",
+        "monolinks" : "",
+        "name" : "Ibuprofen",
+        "SUID" : 397,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -26.946777463413127,
+        "y" : -585.5249293856511
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "396",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Glipizide",
+        "monolinks" : "",
+        "name" : "Glipizide",
+        "SUID" : 396,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -129.55228436038578,
+        "y" : -865.2286647372136
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "395",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Amiodarone",
+        "monolinks" : "",
+        "name" : "Amiodarone",
+        "SUID" : 395,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -197.26277935550297,
+        "y" : -864.9898341708074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "394",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Pioglitazone",
+        "monolinks" : "",
+        "name" : "Pioglitazone",
+        "SUID" : 394,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -177.61624920413578,
+        "y" : -579.1791652254949
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "393",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Bezafibrate",
+        "monolinks" : "",
+        "name" : "Bezafibrate",
+        "SUID" : 393,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -138.86415875003422,
+        "y" : -533.8204921297918
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "392",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Flufenamic acid",
+        "monolinks" : "",
+        "name" : "Flufenamic acid",
+        "SUID" : 392,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -52.977592587924846,
+        "y" : -380.4031337313543
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "391",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Doconexent",
+        "monolinks" : "",
+        "name" : "Doconexent",
+        "SUID" : 391,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -241.42897808597172,
+        "y" : -758.2747462801824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "390",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Oleic Acid",
+        "monolinks" : "",
+        "name" : "Oleic Acid",
+        "SUID" : 390,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -94.36382305667485,
+        "y" : -776.9421657137761
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "389",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Triclosan",
+        "monolinks" : "",
+        "name" : "Triclosan",
+        "SUID" : 389,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -3.3422623877295337,
+        "y" : -398.4334376864324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "388",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Cannabidiol",
+        "monolinks" : "",
+        "name" : "Cannabidiol",
+        "SUID" : 388,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -235.91619122073735,
+        "y" : -676.1949733309636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "387",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dexibuprofen",
+        "monolinks" : "",
+        "name" : "Dexibuprofen",
+        "SUID" : 387,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 19.364219545864216,
+        "y" : -751.9066432528386
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "386",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Omega-3 fatty acids",
+        "monolinks" : "",
+        "name" : "Omega-3 fatty acids",
+        "SUID" : 386,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 16.000209688686482,
+        "y" : -632.9866603426824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "385",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Curcumin",
+        "monolinks" : "",
+        "name" : "Curcumin",
+        "SUID" : 385,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -301.5401536230811,
+        "y" : -640.9060939364324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "384",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fenofibric acid",
+        "monolinks" : "",
+        "name" : "Fenofibric acid",
+        "SUID" : 384,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 16.103336214565388,
+        "y" : -695.2581447176824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "383",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fish oil",
+        "monolinks" : "",
+        "name" : "Fish oil",
+        "SUID" : 383,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -240.89528667972172,
+        "y" : -612.5415309481511
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "382",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Flunisolide",
+        "monolinks" : "",
+        "name" : "Flunisolide",
+        "SUID" : 382,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -356.5053941015967,
+        "y" : 334.6807896084895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "NR3C1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "NR3C1",
+        "monolinks" : "",
+        "name" : "NR3C1",
+        "SUID" : 90,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -284.90276348636235,
+        "y" : 184.5097233243098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "381",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Diflorasone",
+        "monolinks" : "",
+        "name" : "Diflorasone",
+        "SUID" : 381,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -309.9483872656592,
+        "y" : 94.88994183016916
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "380",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Alclometasone",
+        "monolinks" : "",
+        "name" : "Alclometasone",
+        "SUID" : 380,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -216.89189922854985,
+        "y" : 263.61764873934885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "379",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Medrysone",
+        "monolinks" : "",
+        "name" : "Medrysone",
+        "SUID" : 379,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -392.98235333011235,
+        "y" : -4.619720798004664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "378",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Amcinonide",
+        "monolinks" : "",
+        "name" : "Amcinonide",
+        "SUID" : 378,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -417.8422776465186,
+        "y" : 213.10238995028635
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "377",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluorometholone",
+        "monolinks" : "",
+        "name" : "Fluorometholone",
+        "SUID" : 377,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -499.9199143652686,
+        "y" : 296.8296238370051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "376",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Megestrol acetate",
+        "monolinks" : "",
+        "name" : "Megestrol acetate",
+        "SUID" : 376,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -310.0551682715186,
+        "y" : 31.42848553134104
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "375",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Levonorgestrel",
+        "monolinks" : "",
+        "name" : "Levonorgestrel",
+        "SUID" : 375,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -35.49755871341313,
+        "y" : 91.05598797274729
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "374",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Beclomethasone dipropionate",
+        "monolinks" : "",
+        "name" : "Beclomethasone dipropionate",
+        "SUID" : 374,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -225.47097027347172,
+        "y" : 411.98581280184885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "373",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Progesterone",
+        "monolinks" : "",
+        "name" : "Progesterone",
+        "SUID" : 373,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -145.23514568851078,
+        "y" : -28.841434817780055
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "372",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Spironolactone",
+        "monolinks" : "",
+        "name" : "Spironolactone",
+        "SUID" : 372,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -55.356117368198284,
+        "y" : 132.22206463290354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "371",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Betamethasone",
+        "monolinks" : "",
+        "name" : "Betamethasone",
+        "SUID" : 371,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -176.42826092288578,
+        "y" : 320.5723911709895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "370",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Desoximetasone",
+        "monolinks" : "",
+        "name" : "Desoximetasone",
+        "SUID" : 370,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -415.7286607031592,
+        "y" : 137.02759136630198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "369",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluticasone propionate",
+        "monolinks" : "",
+        "name" : "Fluticasone propionate",
+        "SUID" : 369,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -105.02373516604985,
+        "y" : 306.6803318448176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluocinolone acetonide",
+        "monolinks" : "",
+        "name" : "Fluocinolone acetonide",
+        "SUID" : 368,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -469.4639817480811,
+        "y" : 202.67905010653635
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ulobetasol",
+        "monolinks" : "",
+        "name" : "Ulobetasol",
+        "SUID" : 367,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -286.1719895605811,
+        "y" : -21.233959537018336
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Triamcinolone",
+        "monolinks" : "",
+        "name" : "Triamcinolone",
+        "SUID" : 366,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -522.5562058691748,
+        "y" : 163.6885563321223
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "365",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prednisone",
+        "monolinks" : "",
+        "name" : "Prednisone",
+        "SUID" : 365,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -157.14519512698735,
+        "y" : 276.0176426358332
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Flumethasone",
+        "monolinks" : "",
+        "name" : "Flumethasone",
+        "SUID" : 364,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -321.48287212894047,
+        "y" : 373.9425388760676
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fludrocortisone",
+        "monolinks" : "",
+        "name" : "Fludrocortisone",
+        "SUID" : 363,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -194.33879864261235,
+        "y" : 83.43356670809885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Norethisterone",
+        "monolinks" : "",
+        "name" : "Norethisterone",
+        "SUID" : 362,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -120.81548321292485,
+        "y" : 63.09820904208323
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "361",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone",
+        "monolinks" : "",
+        "name" : "Hydrocortisone",
+        "SUID" : 361,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -385.3780747656592,
+        "y" : 259.551273006927
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortamate",
+        "monolinks" : "",
+        "name" : "Hydrocortamate",
+        "SUID" : 360,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -459.55290997073735,
+        "y" : 339.7655064053645
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Mifepristone",
+        "monolinks" : "",
+        "name" : "Mifepristone",
+        "SUID" : 359,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -382.1310960058936,
+        "y" : 178.41086162997385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clocortolone",
+        "monolinks" : "",
+        "name" : "Clocortolone",
+        "SUID" : 358,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -87.67264568851078,
+        "y" : 244.6007420010676
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Flurandrenolide",
+        "monolinks" : "",
+        "name" : "Flurandrenolide",
+        "SUID" : 357,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -461.9152756933936,
+        "y" : 154.67811932040354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prednisolone",
+        "monolinks" : "",
+        "name" : "Prednisolone",
+        "SUID" : 356,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -137.9455491308936,
+        "y" : 364.8569675870051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Rimexolone",
+        "monolinks" : "",
+        "name" : "Rimexolone",
+        "SUID" : 355,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -401.30623638675297,
+        "y" : 321.03708233309885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Methylprednisolone",
+        "monolinks" : "",
+        "name" : "Methylprednisolone",
+        "SUID" : 354,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -417.0184556250342,
+        "y" : 377.8105808682551
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clobetasol propionate",
+        "monolinks" : "",
+        "name" : "Clobetasol propionate",
+        "SUID" : 353,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -186.52788555667485,
+        "y" : 152.95288433505198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluocinonide",
+        "monolinks" : "",
+        "name" : "Fluocinonide",
+        "SUID" : 352,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -236.07088482425297,
+        "y" : 317.924564022552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prednicarbate",
+        "monolinks" : "",
+        "name" : "Prednicarbate",
+        "SUID" : 351,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -523.7849656347998,
+        "y" : 229.89306988192698
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluoxymesterone",
+        "monolinks" : "",
+        "name" : "Fluoxymesterone",
+        "SUID" : 350,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -48.62800610110844,
+        "y" : 53.936763424407445
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Budesonide",
+        "monolinks" : "",
+        "name" : "Budesonide",
+        "SUID" : 349,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -292.63448345706547,
+        "y" : 327.2271763272395
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dexamethasone",
+        "monolinks" : "",
+        "name" : "Dexamethasone",
+        "SUID" : 348,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -256.7058335547217,
+        "y" : 369.7996250577082
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Desonide",
+        "monolinks" : "",
+        "name" : "Desonide",
+        "SUID" : 347,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -343.1192551855811,
+        "y" : -29.755733829010524
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Cortisone acetate",
+        "monolinks" : "",
+        "name" : "Cortisone acetate",
+        "SUID" : 346,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -195.30098736331547,
+        "y" : 210.2413670010676
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Drospirenone",
+        "monolinks" : "",
+        "name" : "Drospirenone",
+        "SUID" : 345,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -96.0754319433936,
+        "y" : -3.5848468356023204
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ciclesonide",
+        "monolinks" : "",
+        "name" : "Ciclesonide",
+        "SUID" : 344,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -481.1463547949561,
+        "y" : 50.3423191495051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Difluprednate",
+        "monolinks" : "",
+        "name" : "Difluprednate",
+        "SUID" : 343,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -130.62317669437016,
+        "y" : 175.1326023526301
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ulipristal",
+        "monolinks" : "",
+        "name" : "Ulipristal",
+        "SUID" : 342,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -86.47512066409672,
+        "y" : 95.58600201083323
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluticasone furoate",
+        "monolinks" : "",
+        "name" : "Fluticasone furoate",
+        "SUID" : 341,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -329.4576340918311,
+        "y" : 289.0713535733332
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Tixocortol",
+        "monolinks" : "",
+        "name" : "Tixocortol",
+        "SUID" : 340,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -360.5038071875342,
+        "y" : 45.78952373934885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Difluocortolone",
+        "monolinks" : "",
+        "name" : "Difluocortolone",
+        "SUID" : 339,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -383.31633770511235,
+        "y" : 87.04480328036448
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Gestrinone",
+        "monolinks" : "",
+        "name" : "Gestrinone",
+        "SUID" : 338,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -81.89020550296391,
+        "y" : 28.361705441009008
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Deflazacort",
+        "monolinks" : "",
+        "name" : "Deflazacort",
+        "SUID" : 337,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -369.1777268652686,
+        "y" : 399.3534275479426
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clobetasone",
+        "monolinks" : "",
+        "name" : "Clobetasone",
+        "SUID" : 336,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -198.48061382815922,
+        "y" : 364.7349888272395
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluticasone",
+        "monolinks" : "",
+        "name" : "Fluticasone",
+        "SUID" : 335,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -444.08184063479985,
+        "y" : 90.07092632723948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Mometasone furoate",
+        "monolinks" : "",
+        "name" : "Mometasone furoate",
+        "SUID" : 334,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -346.91463482425297,
+        "y" : 229.46112408114573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone acetate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone acetate",
+        "SUID" : 333,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -238.32463848636235,
+        "y" : 11.208041805755101
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone butyrate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone butyrate",
+        "SUID" : 332,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -353.3115159277686,
+        "y" : 133.3441959805598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone cypionate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone cypionate",
+        "SUID" : 331,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -503.9050217871436,
+        "y" : 107.24681438876291
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone phosphate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone phosphate",
+        "SUID" : 330,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -469.32390606448735,
+        "y" : 252.31564678622385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone probutate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone probutate",
+        "SUID" : 329,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -237.65642559573735,
+        "y" : 120.55682720614573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Hydrocortisone valerate",
+        "monolinks" : "",
+        "name" : "Hydrocortisone valerate",
+        "SUID" : 328,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -140.12512981937016,
+        "y" : 228.07138409091135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Segesterone acetate",
+        "monolinks" : "",
+        "name" : "Segesterone acetate",
+        "SUID" : 327,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -141.31154644534672,
+        "y" : 22.846019405852758
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Loteprednol etabonate",
+        "monolinks" : "",
+        "name" : "Loteprednol etabonate",
+        "SUID" : 326,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -276.53462994144047,
+        "y" : 267.2162510342707
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prednisolone phosphate",
+        "monolinks" : "",
+        "name" : "Prednisolone phosphate",
+        "SUID" : 325,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -301.4886399512061,
+        "y" : 422.3608738370051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dexamethasone acetate",
+        "monolinks" : "",
+        "name" : "Dexamethasone acetate",
+        "SUID" : 324,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -423.1850510840186,
+        "y" : 35.53272594882151
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Betamethasone phosphate",
+        "monolinks" : "",
+        "name" : "Betamethasone phosphate",
+        "SUID" : 323,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -258.79000103519047,
+        "y" : 62.26025738192698
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prednisolone acetate",
+        "monolinks" : "",
+        "name" : "Prednisolone acetate",
+        "SUID" : 322,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -431.7298814062842,
+        "y" : 284.4545322842707
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Diethylstilbestrol",
+        "monolinks" : "",
+        "name" : "Diethylstilbestrol",
+        "SUID" : 321,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 202.8423384423486,
+        "y" : -89.81318316983084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "61",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "AR" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "AR",
+        "monolinks" : "",
+        "name" : "AR",
+        "SUID" : 61,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 88.19471442654049,
+        "y" : -80.32937274502615
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Flutamide",
+        "monolinks" : "",
+        "name" : "Flutamide",
+        "SUID" : 320,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 13.255752443813435,
+        "y" : -252.90539203213552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Oxandrolone",
+        "monolinks" : "",
+        "name" : "Oxandrolone",
+        "SUID" : 319,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 132.52091968014156,
+        "y" : -284.68818316983084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fluphenazine",
+        "monolinks" : "",
+        "name" : "Fluphenazine",
+        "SUID" : 318,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 123.42367160274898,
+        "y" : 69.98105205966135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Testosterone",
+        "monolinks" : "",
+        "name" : "Testosterone",
+        "SUID" : 317,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 221.1809157128564,
+        "y" : 12.217509884368383
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Mitotane",
+        "monolinks" : "",
+        "name" : "Mitotane",
+        "SUID" : 316,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 76.23590707733547,
+        "y" : -218.70910296963552
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Estrone",
+        "monolinks" : "",
+        "name" : "Estrone",
+        "SUID" : 315,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 312.29311358883297,
+        "y" : -108.78553805874685
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nilutamide",
+        "monolinks" : "",
+        "name" : "Nilutamide",
+        "SUID" : 314,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 226.4768141503564,
+        "y" : 94.44653667880198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Tamoxifen",
+        "monolinks" : "",
+        "name" : "Tamoxifen",
+        "SUID" : 313,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 271.7314528222314,
+        "y" : -246.0217402987371
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Norgestimate",
+        "monolinks" : "",
+        "name" : "Norgestimate",
+        "SUID" : 312,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 232.62645709469234,
+        "y" : -141.69105945156912
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nandrolone phenpropionate",
+        "monolinks" : "",
+        "name" : "Nandrolone phenpropionate",
+        "SUID" : 311,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 103.51830089046871,
+        "y" : 119.51385845614573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ketoconazole",
+        "monolinks" : "",
+        "name" : "Ketoconazole",
+        "SUID" : 310,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -39.013420224643596,
+        "y" : -212.6415675692449
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Acetophenazine",
+        "monolinks" : "",
+        "name" : "Acetophenazine",
+        "SUID" : 309,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 147.26248156979,
+        "y" : -230.37725482510427
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Bicalutamide",
+        "monolinks" : "",
+        "name" : "Bicalutamide",
+        "SUID" : 308,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 197.71283709957515,
+        "y" : -260.5100978426824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Danazol",
+        "monolinks" : "",
+        "name" : "Danazol",
+        "SUID" : 307,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 186.74150073482906,
+        "y" : 58.03041424227854
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Testosterone propionate",
+        "monolinks" : "",
+        "name" : "Testosterone propionate",
+        "SUID" : 306,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 298.2654799218408,
+        "y" : 5.016048092376195
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Oxybenzone",
+        "monolinks" : "",
+        "name" : "Oxybenzone",
+        "SUID" : 305,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 168.38616931393062,
+        "y" : 120.42470135165354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Periciazine",
+        "monolinks" : "",
+        "name" : "Periciazine",
+        "SUID" : 304,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 73.20949900104915,
+        "y" : 16.60609783602854
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Prasterone",
+        "monolinks" : "",
+        "name" : "Prasterone",
+        "SUID" : 303,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -7.347221494174846,
+        "y" : -68.41472069548468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Cyproterone acetate",
+        "monolinks" : "",
+        "name" : "Cyproterone acetate",
+        "SUID" : 302,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 248.18695819332515,
+        "y" : -35.60145984219412
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Oxymetholone",
+        "monolinks" : "",
+        "name" : "Oxymetholone",
+        "SUID" : 301,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 15.615737795375935,
+        "y" : -8.901684146393336
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Methyltestosterone",
+        "monolinks" : "",
+        "name" : "Methyltestosterone",
+        "SUID" : 300,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 74.93714830233966,
+        "y" : -272.31142840908865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Norelgestromin",
+        "monolinks" : "",
+        "name" : "Norelgestromin",
+        "SUID" : 299,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 145.46657550289547,
+        "y" : 24.82973064852854
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Stanozolol",
+        "monolinks" : "",
+        "name" : "Stanozolol",
+        "SUID" : 298,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 165.96572101070797,
+        "y" : -136.6796077303777
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nandrolone decanoate",
+        "monolinks" : "",
+        "name" : "Nandrolone decanoate",
+        "SUID" : 297,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 124.1644591088525,
+        "y" : -176.98081622647146
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Enzalutamide",
+        "monolinks" : "",
+        "name" : "Enzalutamide",
+        "SUID" : 296,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 293.2959822411767,
+        "y" : -164.02447162197927
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Eugenol",
+        "monolinks" : "",
+        "name" : "Eugenol",
+        "SUID" : 295,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 258.20133197262203,
+        "y" : -94.85600123928884
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dienogest",
+        "monolinks" : "",
+        "name" : "Dienogest",
+        "SUID" : 294,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -0.2232972388037524,
+        "y" : -134.3692287020574
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Norethynodrel",
+        "monolinks" : "",
+        "name" : "Norethynodrel",
+        "SUID" : 293,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 65.71152102901851,
+        "y" : -164.74107013272146
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Norgestrel",
+        "monolinks" : "",
+        "name" : "Norgestrel",
+        "SUID" : 292,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 61.30408561184322,
+        "y" : 72.58555950595041
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Homosalate",
+        "monolinks" : "",
+        "name" : "Homosalate",
+        "SUID" : 291,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 186.99884784176265,
+        "y" : -192.44457660244802
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Enzacamene",
+        "monolinks" : "",
+        "name" : "Enzacamene",
+        "SUID" : 290,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -71.28182232425297,
+        "y" : -168.6147349886785
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Apalutamide",
+        "monolinks" : "",
+        "name" : "Apalutamide",
+        "SUID" : 289,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 262.02797687008297,
+        "y" : 50.81781353427073
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Clascoterone",
+        "monolinks" : "",
+        "name" : "Clascoterone",
+        "SUID" : 288,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 304.0835036034814,
+        "y" : -50.99148974942068
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Darolutamide",
+        "monolinks" : "",
+        "name" : "Darolutamide",
+        "SUID" : 287,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -63.602821469760784,
+        "y" : -108.84425006436209
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Esculin",
+        "monolinks" : "",
+        "name" : "Esculin",
+        "SUID" : 286,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 190.64217364742672,
+        "y" : -36.63559947537283
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Testosterone cypionate",
+        "monolinks" : "",
+        "name" : "Testosterone cypionate",
+        "SUID" : 285,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 137.6465033288232,
+        "y" : -23.889461856354274
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Testosterone enanthate",
+        "monolinks" : "",
+        "name" : "Testosterone enanthate",
+        "SUID" : 284,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 16.47127139522945,
+        "y" : -192.69192920254568
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Testosterone undecanoate",
+        "monolinks" : "",
+        "name" : "Testosterone undecanoate",
+        "SUID" : 283,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 239.9793013329736,
+        "y" : -198.39153705166677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK8" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "MAPK8",
+        "monolinks" : "",
+        "name" : "MAPK8",
+        "SUID" : 76,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 382.30207049801265,
+        "y" : -336.43996844815115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "NFKB1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "NFKB1",
+        "monolinks" : "",
+        "name" : "NFKB1",
+        "SUID" : 81,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 903.5901335473291,
+        "y" : -673.297603946198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Triflusal",
+        "monolinks" : "",
+        "name" : "Triflusal",
+        "SUID" : 282,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 1019.1609038110009,
+        "y" : -658.7544826083074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Acetylsalicylic acid",
+        "monolinks" : "",
+        "name" : "Acetylsalicylic acid",
+        "SUID" : 281,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 411.22660052730953,
+        "y" : 656.4259640164485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "TP53" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "TP53",
+        "monolinks" : "",
+        "name" : "TP53",
+        "SUID" : 119,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 533.0447233910791,
+        "y" : 634.4858776517024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Zinc",
+        "monolinks" : "",
+        "name" : "Zinc",
+        "SUID" : 280,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 506.1297224755517,
+        "y" : 522.3608738370051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Zinc acetate",
+        "monolinks" : "",
+        "name" : "Zinc acetate",
+        "SUID" : 279,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 528.2983778710595,
+        "y" : 748.0865475125422
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Zinc chloride",
+        "monolinks" : "",
+        "name" : "Zinc chloride",
+        "SUID" : 278,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 629.6572169060937,
+        "y" : 567.4854084439387
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Zinc sulfate, unspecified form",
+        "monolinks" : "",
+        "name" : "Zinc sulfate, unspecified form",
+        "SUID" : 277,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 632.9322127099267,
+        "y" : 693.1824697442164
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MYC" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "MYC",
+        "monolinks" : "",
+        "name" : "MYC",
+        "SUID" : 80,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 296.57738482906734,
+        "y" : 672.1767059750666
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nadroparin",
+        "monolinks" : "",
+        "name" : "Nadroparin",
+        "SUID" : 276,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 191.28697955562984,
+        "y" : 707.7176739163508
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Isoprenaline",
+        "monolinks" : "",
+        "name" : "Isoprenaline",
+        "SUID" : 275,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 895.7985914941064,
+        "y" : 713.9624439663996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "MAPK1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "MAPK1",
+        "monolinks" : "",
+        "name" : "MAPK1",
+        "SUID" : 91,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 821.2757338280908,
+        "y" : 632.9606510586848
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Arsenic trioxide",
+        "monolinks" : "",
+        "name" : "Arsenic trioxide",
+        "SUID" : 274,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 732.9322127099267,
+        "y" : 698.6069141812434
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Turpentine",
+        "monolinks" : "",
+        "name" : "Turpentine",
+        "SUID" : 273,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 831.7231215234033,
+        "y" : 522.3608738370051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dasatinib",
+        "monolinks" : "",
+        "name" : "Dasatinib",
+        "SUID" : 272,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -19.20075237796391,
+        "y" : 861.1389805264582
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "SRC" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "SRC",
+        "monolinks" : "",
+        "name" : "SRC",
+        "SUID" : 93,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -36.686195493198284,
+        "y" : 752.2511021084895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Citric acid",
+        "monolinks" : "",
+        "name" : "Citric acid",
+        "SUID" : 271,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -85.46466839358891,
+        "y" : 875.9014927334895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Tirbanibulin",
+        "monolinks" : "",
+        "name" : "Tirbanibulin",
+        "SUID" : 270,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 69.08043658687984,
+        "y" : 686.4840427823176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Bosutinib",
+        "monolinks" : "",
+        "name" : "Bosutinib",
+        "SUID" : 269,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 4.510307192348591,
+        "y" : 622.455569881927
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ponatinib",
+        "monolinks" : "",
+        "name" : "Ponatinib",
+        "SUID" : 268,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 91.28697955562984,
+        "y" : 764.3756138272395
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Nintedanib",
+        "monolinks" : "",
+        "name" : "Nintedanib",
+        "SUID" : 267,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 62.05840289547359,
+        "y" : 840.3115879483332
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fostamatinib",
+        "monolinks" : "",
+        "name" : "Fostamatinib",
+        "SUID" : 266,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -217.04973614261235,
+        "y" : 735.8739353604426
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "FYN" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "FYN",
+        "monolinks" : "",
+        "name" : "FYN",
+        "SUID" : 73,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -118.39069378421391,
+        "y" : 796.1028477139582
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CDK2" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "CDK2",
+        "monolinks" : "",
+        "name" : "CDK2",
+        "SUID" : 64,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : 69.63228595211422,
+        "y" : 522.3608738370051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Ruxolitinib",
+        "monolinks" : "",
+        "name" : "Ruxolitinib",
+        "SUID" : 265,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -523.7849656347998,
+        "y" : 719.0126377530207
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "JAK2" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "JAK2",
+        "monolinks" : "",
+        "name" : "JAK2",
+        "SUID" : 75,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -398.9705277685889,
+        "y" : 686.7467991299739
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Tofacitinib",
+        "monolinks" : "",
+        "name" : "Tofacitinib",
+        "SUID" : 264,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -521.0373765234717,
+        "y" : 643.0228306241145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Baricitinib",
+        "monolinks" : "",
+        "name" : "Baricitinib",
+        "SUID" : 263,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -483.21932232425297,
+        "y" : 784.7232090420832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Entrectinib",
+        "monolinks" : "",
+        "name" : "Entrectinib",
+        "SUID" : 262,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -331.3890954260596,
+        "y" : 594.6175877041926
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Fedratinib",
+        "monolinks" : "",
+        "name" : "Fedratinib",
+        "SUID" : 261,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -402.35598766849125,
+        "y" : 558.3891941495051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Zanubrutinib",
+        "monolinks" : "",
+        "name" : "Zanubrutinib",
+        "SUID" : 260,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -474.9165726904639,
+        "y" : 582.4725681729426
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Pralsetinib",
+        "monolinks" : "",
+        "name" : "Pralsetinib",
+        "SUID" : 259,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -404.52083981082524,
+        "y" : 806.142825741302
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "Matching_Attribute" : [ "" ],
+        "classification" : "",
+        "drug" : "drug",
+        "target_original" : "",
+        "shared_name" : "Dimethyl fumarate",
+        "monolinks" : "",
+        "name" : "Dimethyl fumarate",
+        "SUID" : 258,
+        "domain_annotation" : "",
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -408.0410729651221,
+        "y" : 975.9014927334895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "RELA" ],
+        "classification" : "dual",
+        "log2FoldChange" : 0.862539937,
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "RELA",
+        "monolinks" : "",
+        "name" : "RELA",
+        "SUID" : 120,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -410.3626633887061,
+        "y" : 1083.6408420987239
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PRKACA" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "PRKACA",
+        "monolinks" : "",
+        "name" : "PRKACA",
+        "SUID" : 106,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -218.5519944433936,
+        "y" : 860.043460506927
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "CSNK2A1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 0.876488079,
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "CSNK2A1",
+        "monolinks" : "",
+        "name" : "CSNK2A1",
+        "SUID" : 68,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -140.6308518652686,
+        "y" : 650.6118809170832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "PIM1" ],
+        "classification" : "dual",
+        "log2FoldChange" : 2.123420825,
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "PIM1",
+        "monolinks" : "",
+        "name" : "PIM1",
+        "SUID" : 87,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -225.71378338382328,
+        "y" : 617.4089085049739
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "is_horizontal_expansion" : true,
+        "Matching_Attribute" : [ "DAPK1" ],
+        "classification" : "dual",
+        "drug" : "",
+        "target_original" : "drug target",
+        "shared_name" : "DAPK1",
+        "monolinks" : "",
+        "name" : "DAPK1",
+        "SUID" : 70,
+        "domain_annotation" : "",
+        "scaling_factor" : 1.0,
+        "selected" : false,
+        "ptms" : ""
+      },
+      "position" : {
+        "x" : -297.688503385044,
+        "y" : 822.717532772552
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "636",
+        "source" : "434",
+        "target" : "101",
+        "shared_name" : "Etanercept (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Etanercept (inhibition) TNF",
+        "SUID" : 636,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "635",
+        "source" : "433",
+        "target" : "101",
+        "shared_name" : "Adalimumab (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Adalimumab (inhibition) TNF",
+        "SUID" : 635,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "634",
+        "source" : "432",
+        "target" : "101",
+        "shared_name" : "Infliximab (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Infliximab (inhibition) TNF",
+        "SUID" : 634,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "633",
+        "source" : "431",
+        "target" : "101",
+        "shared_name" : "Chloroquine (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Chloroquine (inhibition) TNF",
+        "SUID" : 633,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "632",
+        "source" : "430",
+        "target" : "101",
+        "shared_name" : "Epinephrine (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Epinephrine (inhibition) TNF",
+        "SUID" : 632,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "631",
+        "source" : "429",
+        "target" : "101",
+        "shared_name" : "Pseudoephedrine (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Pseudoephedrine (inhibition) TNF",
+        "SUID" : 631,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "630",
+        "source" : "429",
+        "target" : "81",
+        "shared_name" : "Pseudoephedrine (inhibition) NFKB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Pseudoephedrine (inhibition) NFKB1",
+        "SUID" : 630,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "629",
+        "source" : "428",
+        "target" : "101",
+        "shared_name" : "Thalidomide (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Thalidomide (inhibition) TNF",
+        "SUID" : 629,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "628",
+        "source" : "428",
+        "target" : "81",
+        "shared_name" : "Thalidomide (inhibition) NFKB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Thalidomide (inhibition) NFKB1",
+        "SUID" : 628,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "627",
+        "source" : "427",
+        "target" : "101",
+        "shared_name" : "Glucosamine (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Glucosamine (inhibition) TNF",
+        "SUID" : 627,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "626",
+        "source" : "426",
+        "target" : "101",
+        "shared_name" : "Clenbuterol (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clenbuterol (inhibition) TNF",
+        "SUID" : 626,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "625",
+        "source" : "425",
+        "target" : "101",
+        "shared_name" : "Amrinone (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Amrinone (inhibition) TNF",
+        "SUID" : 625,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "624",
+        "source" : "424",
+        "target" : "101",
+        "shared_name" : "Golimumab (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Golimumab (inhibition) TNF",
+        "SUID" : 624,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "623",
+        "source" : "423",
+        "target" : "101",
+        "shared_name" : "Certolizumab pegol (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Certolizumab pegol (inhibition) TNF",
+        "SUID" : 623,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "622",
+        "source" : "422",
+        "target" : "101",
+        "shared_name" : "Pomalidomide (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Pomalidomide (inhibition) TNF",
+        "SUID" : 622,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "621",
+        "source" : "421",
+        "target" : "101",
+        "shared_name" : "Foreskin fibroblast (neonatal) (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Foreskin fibroblast (neonatal) (inhibition) TNF",
+        "SUID" : 621,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "620",
+        "source" : "421",
+        "target" : "97",
+        "shared_name" : "Foreskin fibroblast (neonatal) (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Foreskin fibroblast (neonatal) (inhibition) TGFB1",
+        "SUID" : 620,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "619",
+        "source" : "420",
+        "target" : "101",
+        "shared_name" : "Foreskin keratinocyte (neonatal) (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Foreskin keratinocyte (neonatal) (inhibition) TNF",
+        "SUID" : 619,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "618",
+        "source" : "420",
+        "target" : "97",
+        "shared_name" : "Foreskin keratinocyte (neonatal) (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Foreskin keratinocyte (neonatal) (inhibition) TGFB1",
+        "SUID" : 618,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "617",
+        "source" : "419",
+        "target" : "101",
+        "shared_name" : "Binimetinib (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Binimetinib (inhibition) TNF",
+        "SUID" : 617,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "616",
+        "source" : "418",
+        "target" : "101",
+        "shared_name" : "Glycyrrhizic acid (inhibition) TNF",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Glycyrrhizic acid (inhibition) TNF",
+        "SUID" : 616,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "615",
+        "source" : "417",
+        "target" : "97",
+        "shared_name" : "Hyaluronidase (ovine) (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hyaluronidase (ovine) (inhibition) TGFB1",
+        "SUID" : 615,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "614",
+        "source" : "416",
+        "target" : "97",
+        "shared_name" : "Terazosin (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Terazosin (inhibition) TGFB1",
+        "SUID" : 614,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "613",
+        "source" : "415",
+        "target" : "97",
+        "shared_name" : "Hyaluronidase (human recombinant) (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hyaluronidase (human recombinant) (inhibition) TGFB1",
+        "SUID" : 613,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "612",
+        "source" : "414",
+        "target" : "97",
+        "shared_name" : "Hyaluronidase (inhibition) TGFB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hyaluronidase (inhibition) TGFB1",
+        "SUID" : 612,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "611",
+        "source" : "413",
+        "target" : "65",
+        "shared_name" : "Adenosine phosphate (inhibition) CREB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Adenosine phosphate (inhibition) CREB1",
+        "SUID" : 611,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "610",
+        "source" : "412",
+        "target" : "65",
+        "shared_name" : "Naloxone (inhibition) CREB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Naloxone (inhibition) CREB1",
+        "SUID" : 610,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "609",
+        "source" : "411",
+        "target" : "88",
+        "shared_name" : "alpha-Linolenic acid (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "alpha-Linolenic acid (inhibition) PPARG",
+        "SUID" : 609,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "608",
+        "source" : "410",
+        "target" : "88",
+        "shared_name" : "Icosapent (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Icosapent (inhibition) PPARG",
+        "SUID" : 608,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "607",
+        "source" : "409",
+        "target" : "88",
+        "shared_name" : "Troglitazone (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Troglitazone (inhibition) PPARG",
+        "SUID" : 607,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "606",
+        "source" : "408",
+        "target" : "88",
+        "shared_name" : "Mesalazine (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Mesalazine (inhibition) PPARG",
+        "SUID" : 606,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "605",
+        "source" : "407",
+        "target" : "88",
+        "shared_name" : "Valproic acid (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Valproic acid (inhibition) PPARG",
+        "SUID" : 605,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "604",
+        "source" : "406",
+        "target" : "88",
+        "shared_name" : "Indomethacin (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Indomethacin (inhibition) PPARG",
+        "SUID" : 604,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "603",
+        "source" : "405",
+        "target" : "88",
+        "shared_name" : "Rosiglitazone (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Rosiglitazone (inhibition) PPARG",
+        "SUID" : 603,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "602",
+        "source" : "404",
+        "target" : "88",
+        "shared_name" : "Fenoprofen (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fenoprofen (inhibition) PPARG",
+        "SUID" : 602,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "601",
+        "source" : "403",
+        "target" : "88",
+        "shared_name" : "Nateglinide (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nateglinide (inhibition) PPARG",
+        "SUID" : 601,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "600",
+        "source" : "402",
+        "target" : "88",
+        "shared_name" : "Sulfasalazine (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Sulfasalazine (inhibition) PPARG",
+        "SUID" : 600,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "599",
+        "source" : "401",
+        "target" : "88",
+        "shared_name" : "Clofazimine (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clofazimine (inhibition) PPARG",
+        "SUID" : 599,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "598",
+        "source" : "400",
+        "target" : "88",
+        "shared_name" : "Repaglinide (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Repaglinide (inhibition) PPARG",
+        "SUID" : 598,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "597",
+        "source" : "399",
+        "target" : "88",
+        "shared_name" : "Telmisartan (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Telmisartan (inhibition) PPARG",
+        "SUID" : 597,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "596",
+        "source" : "398",
+        "target" : "88",
+        "shared_name" : "Balsalazide (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Balsalazide (inhibition) PPARG",
+        "SUID" : 596,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "595",
+        "source" : "397",
+        "target" : "88",
+        "shared_name" : "Ibuprofen (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ibuprofen (inhibition) PPARG",
+        "SUID" : 595,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "594",
+        "source" : "396",
+        "target" : "88",
+        "shared_name" : "Glipizide (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Glipizide (inhibition) PPARG",
+        "SUID" : 594,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "593",
+        "source" : "395",
+        "target" : "88",
+        "shared_name" : "Amiodarone (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Amiodarone (inhibition) PPARG",
+        "SUID" : 593,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "592",
+        "source" : "394",
+        "target" : "88",
+        "shared_name" : "Pioglitazone (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Pioglitazone (inhibition) PPARG",
+        "SUID" : 592,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "591",
+        "source" : "393",
+        "target" : "88",
+        "shared_name" : "Bezafibrate (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Bezafibrate (inhibition) PPARG",
+        "SUID" : 591,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "590",
+        "source" : "392",
+        "target" : "88",
+        "shared_name" : "Flufenamic acid (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flufenamic acid (inhibition) PPARG",
+        "SUID" : 590,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "589",
+        "source" : "392",
+        "target" : "61",
+        "shared_name" : "Flufenamic acid (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flufenamic acid (inhibition) AR",
+        "SUID" : 589,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "588",
+        "source" : "391",
+        "target" : "88",
+        "shared_name" : "Doconexent (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Doconexent (inhibition) PPARG",
+        "SUID" : 588,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "587",
+        "source" : "390",
+        "target" : "88",
+        "shared_name" : "Oleic Acid (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Oleic Acid (inhibition) PPARG",
+        "SUID" : 587,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "586",
+        "source" : "389",
+        "target" : "88",
+        "shared_name" : "Triclosan (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Triclosan (inhibition) PPARG",
+        "SUID" : 586,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "585",
+        "source" : "389",
+        "target" : "61",
+        "shared_name" : "Triclosan (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Triclosan (inhibition) AR",
+        "SUID" : 585,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "584",
+        "source" : "388",
+        "target" : "88",
+        "shared_name" : "Cannabidiol (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Cannabidiol (inhibition) PPARG",
+        "SUID" : 584,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "583",
+        "source" : "387",
+        "target" : "88",
+        "shared_name" : "Dexibuprofen (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dexibuprofen (inhibition) PPARG",
+        "SUID" : 583,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "582",
+        "source" : "386",
+        "target" : "88",
+        "shared_name" : "Omega-3 fatty acids (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Omega-3 fatty acids (inhibition) PPARG",
+        "SUID" : 582,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "581",
+        "source" : "385",
+        "target" : "88",
+        "shared_name" : "Curcumin (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Curcumin (inhibition) PPARG",
+        "SUID" : 581,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "580",
+        "source" : "384",
+        "target" : "88",
+        "shared_name" : "Fenofibric acid (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fenofibric acid (inhibition) PPARG",
+        "SUID" : 580,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "579",
+        "source" : "383",
+        "target" : "88",
+        "shared_name" : "Fish oil (inhibition) PPARG",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fish oil (inhibition) PPARG",
+        "SUID" : 579,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "578",
+        "source" : "382",
+        "target" : "90",
+        "shared_name" : "Flunisolide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flunisolide (inhibition) NR3C1",
+        "SUID" : 578,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "577",
+        "source" : "381",
+        "target" : "90",
+        "shared_name" : "Diflorasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Diflorasone (inhibition) NR3C1",
+        "SUID" : 577,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "576",
+        "source" : "380",
+        "target" : "90",
+        "shared_name" : "Alclometasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Alclometasone (inhibition) NR3C1",
+        "SUID" : 576,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "575",
+        "source" : "379",
+        "target" : "90",
+        "shared_name" : "Medrysone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Medrysone (inhibition) NR3C1",
+        "SUID" : 575,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "574",
+        "source" : "378",
+        "target" : "90",
+        "shared_name" : "Amcinonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Amcinonide (inhibition) NR3C1",
+        "SUID" : 574,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "573",
+        "source" : "377",
+        "target" : "90",
+        "shared_name" : "Fluorometholone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluorometholone (inhibition) NR3C1",
+        "SUID" : 573,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "572",
+        "source" : "376",
+        "target" : "90",
+        "shared_name" : "Megestrol acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Megestrol acetate (inhibition) NR3C1",
+        "SUID" : 572,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "571",
+        "source" : "375",
+        "target" : "90",
+        "shared_name" : "Levonorgestrel (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Levonorgestrel (inhibition) NR3C1",
+        "SUID" : 571,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "570",
+        "source" : "375",
+        "target" : "61",
+        "shared_name" : "Levonorgestrel (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Levonorgestrel (inhibition) AR",
+        "SUID" : 570,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "569",
+        "source" : "374",
+        "target" : "90",
+        "shared_name" : "Beclomethasone dipropionate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Beclomethasone dipropionate (inhibition) NR3C1",
+        "SUID" : 569,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "568",
+        "source" : "373",
+        "target" : "90",
+        "shared_name" : "Progesterone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Progesterone (inhibition) NR3C1",
+        "SUID" : 568,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "567",
+        "source" : "373",
+        "target" : "61",
+        "shared_name" : "Progesterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Progesterone (inhibition) AR",
+        "SUID" : 567,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "566",
+        "source" : "372",
+        "target" : "90",
+        "shared_name" : "Spironolactone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Spironolactone (inhibition) NR3C1",
+        "SUID" : 566,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "565",
+        "source" : "372",
+        "target" : "61",
+        "shared_name" : "Spironolactone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Spironolactone (inhibition) AR",
+        "SUID" : 565,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "564",
+        "source" : "371",
+        "target" : "90",
+        "shared_name" : "Betamethasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Betamethasone (inhibition) NR3C1",
+        "SUID" : 564,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "563",
+        "source" : "370",
+        "target" : "90",
+        "shared_name" : "Desoximetasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Desoximetasone (inhibition) NR3C1",
+        "SUID" : 563,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "562",
+        "source" : "369",
+        "target" : "90",
+        "shared_name" : "Fluticasone propionate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluticasone propionate (inhibition) NR3C1",
+        "SUID" : 562,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "561",
+        "source" : "368",
+        "target" : "90",
+        "shared_name" : "Fluocinolone acetonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluocinolone acetonide (inhibition) NR3C1",
+        "SUID" : 561,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "560",
+        "source" : "367",
+        "target" : "90",
+        "shared_name" : "Ulobetasol (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ulobetasol (inhibition) NR3C1",
+        "SUID" : 560,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "559",
+        "source" : "366",
+        "target" : "90",
+        "shared_name" : "Triamcinolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Triamcinolone (inhibition) NR3C1",
+        "SUID" : 559,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "558",
+        "source" : "365",
+        "target" : "90",
+        "shared_name" : "Prednisone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prednisone (inhibition) NR3C1",
+        "SUID" : 558,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "557",
+        "source" : "364",
+        "target" : "90",
+        "shared_name" : "Flumethasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flumethasone (inhibition) NR3C1",
+        "SUID" : 557,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "556",
+        "source" : "363",
+        "target" : "90",
+        "shared_name" : "Fludrocortisone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fludrocortisone (inhibition) NR3C1",
+        "SUID" : 556,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "555",
+        "source" : "362",
+        "target" : "90",
+        "shared_name" : "Norethisterone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norethisterone (inhibition) NR3C1",
+        "SUID" : 555,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "554",
+        "source" : "362",
+        "target" : "61",
+        "shared_name" : "Norethisterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norethisterone (inhibition) AR",
+        "SUID" : 554,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "553",
+        "source" : "361",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone (inhibition) NR3C1",
+        "SUID" : 553,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "552",
+        "source" : "360",
+        "target" : "90",
+        "shared_name" : "Hydrocortamate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortamate (inhibition) NR3C1",
+        "SUID" : 552,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "551",
+        "source" : "359",
+        "target" : "90",
+        "shared_name" : "Mifepristone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Mifepristone (inhibition) NR3C1",
+        "SUID" : 551,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "550",
+        "source" : "358",
+        "target" : "90",
+        "shared_name" : "Clocortolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clocortolone (inhibition) NR3C1",
+        "SUID" : 550,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "549",
+        "source" : "357",
+        "target" : "90",
+        "shared_name" : "Flurandrenolide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flurandrenolide (inhibition) NR3C1",
+        "SUID" : 549,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "548",
+        "source" : "356",
+        "target" : "90",
+        "shared_name" : "Prednisolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prednisolone (inhibition) NR3C1",
+        "SUID" : 548,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "547",
+        "source" : "355",
+        "target" : "90",
+        "shared_name" : "Rimexolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Rimexolone (inhibition) NR3C1",
+        "SUID" : 547,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "546",
+        "source" : "354",
+        "target" : "90",
+        "shared_name" : "Methylprednisolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Methylprednisolone (inhibition) NR3C1",
+        "SUID" : 546,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "545",
+        "source" : "353",
+        "target" : "90",
+        "shared_name" : "Clobetasol propionate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clobetasol propionate (inhibition) NR3C1",
+        "SUID" : 545,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "544",
+        "source" : "352",
+        "target" : "90",
+        "shared_name" : "Fluocinonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluocinonide (inhibition) NR3C1",
+        "SUID" : 544,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "543",
+        "source" : "351",
+        "target" : "90",
+        "shared_name" : "Prednicarbate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prednicarbate (inhibition) NR3C1",
+        "SUID" : 543,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "542",
+        "source" : "350",
+        "target" : "90",
+        "shared_name" : "Fluoxymesterone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluoxymesterone (inhibition) NR3C1",
+        "SUID" : 542,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "541",
+        "source" : "350",
+        "target" : "61",
+        "shared_name" : "Fluoxymesterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluoxymesterone (inhibition) AR",
+        "SUID" : 541,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "540",
+        "source" : "349",
+        "target" : "90",
+        "shared_name" : "Budesonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Budesonide (inhibition) NR3C1",
+        "SUID" : 540,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "539",
+        "source" : "348",
+        "target" : "90",
+        "shared_name" : "Dexamethasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dexamethasone (inhibition) NR3C1",
+        "SUID" : 539,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "538",
+        "source" : "347",
+        "target" : "90",
+        "shared_name" : "Desonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Desonide (inhibition) NR3C1",
+        "SUID" : 538,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "537",
+        "source" : "346",
+        "target" : "90",
+        "shared_name" : "Cortisone acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Cortisone acetate (inhibition) NR3C1",
+        "SUID" : 537,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "536",
+        "source" : "345",
+        "target" : "90",
+        "shared_name" : "Drospirenone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Drospirenone (inhibition) NR3C1",
+        "SUID" : 536,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "535",
+        "source" : "345",
+        "target" : "61",
+        "shared_name" : "Drospirenone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Drospirenone (inhibition) AR",
+        "SUID" : 535,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "534",
+        "source" : "344",
+        "target" : "90",
+        "shared_name" : "Ciclesonide (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ciclesonide (inhibition) NR3C1",
+        "SUID" : 534,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "533",
+        "source" : "343",
+        "target" : "90",
+        "shared_name" : "Difluprednate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Difluprednate (inhibition) NR3C1",
+        "SUID" : 533,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "532",
+        "source" : "342",
+        "target" : "90",
+        "shared_name" : "Ulipristal (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ulipristal (inhibition) NR3C1",
+        "SUID" : 532,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "531",
+        "source" : "342",
+        "target" : "61",
+        "shared_name" : "Ulipristal (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ulipristal (inhibition) AR",
+        "SUID" : 531,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "530",
+        "source" : "341",
+        "target" : "90",
+        "shared_name" : "Fluticasone furoate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluticasone furoate (inhibition) NR3C1",
+        "SUID" : 530,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "529",
+        "source" : "340",
+        "target" : "90",
+        "shared_name" : "Tixocortol (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Tixocortol (inhibition) NR3C1",
+        "SUID" : 529,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "528",
+        "source" : "339",
+        "target" : "90",
+        "shared_name" : "Difluocortolone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Difluocortolone (inhibition) NR3C1",
+        "SUID" : 528,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "527",
+        "source" : "338",
+        "target" : "90",
+        "shared_name" : "Gestrinone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Gestrinone (inhibition) NR3C1",
+        "SUID" : 527,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "526",
+        "source" : "338",
+        "target" : "61",
+        "shared_name" : "Gestrinone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Gestrinone (inhibition) AR",
+        "SUID" : 526,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "525",
+        "source" : "337",
+        "target" : "90",
+        "shared_name" : "Deflazacort (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Deflazacort (inhibition) NR3C1",
+        "SUID" : 525,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "524",
+        "source" : "336",
+        "target" : "90",
+        "shared_name" : "Clobetasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clobetasone (inhibition) NR3C1",
+        "SUID" : 524,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "523",
+        "source" : "335",
+        "target" : "90",
+        "shared_name" : "Fluticasone (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluticasone (inhibition) NR3C1",
+        "SUID" : 523,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "522",
+        "source" : "334",
+        "target" : "90",
+        "shared_name" : "Mometasone furoate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Mometasone furoate (inhibition) NR3C1",
+        "SUID" : 522,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "521",
+        "source" : "333",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone acetate (inhibition) NR3C1",
+        "SUID" : 521,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "520",
+        "source" : "332",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone butyrate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone butyrate (inhibition) NR3C1",
+        "SUID" : 520,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "519",
+        "source" : "331",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone cypionate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone cypionate (inhibition) NR3C1",
+        "SUID" : 519,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "518",
+        "source" : "330",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone phosphate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone phosphate (inhibition) NR3C1",
+        "SUID" : 518,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "517",
+        "source" : "329",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone probutate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone probutate (inhibition) NR3C1",
+        "SUID" : 517,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "516",
+        "source" : "328",
+        "target" : "90",
+        "shared_name" : "Hydrocortisone valerate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Hydrocortisone valerate (inhibition) NR3C1",
+        "SUID" : 516,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "515",
+        "source" : "327",
+        "target" : "90",
+        "shared_name" : "Segesterone acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Segesterone acetate (inhibition) NR3C1",
+        "SUID" : 515,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "514",
+        "source" : "327",
+        "target" : "61",
+        "shared_name" : "Segesterone acetate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Segesterone acetate (inhibition) AR",
+        "SUID" : 514,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "513",
+        "source" : "326",
+        "target" : "90",
+        "shared_name" : "Loteprednol etabonate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Loteprednol etabonate (inhibition) NR3C1",
+        "SUID" : 513,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "512",
+        "source" : "325",
+        "target" : "90",
+        "shared_name" : "Prednisolone phosphate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prednisolone phosphate (inhibition) NR3C1",
+        "SUID" : 512,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "511",
+        "source" : "324",
+        "target" : "90",
+        "shared_name" : "Dexamethasone acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dexamethasone acetate (inhibition) NR3C1",
+        "SUID" : 511,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "510",
+        "source" : "323",
+        "target" : "90",
+        "shared_name" : "Betamethasone phosphate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Betamethasone phosphate (inhibition) NR3C1",
+        "SUID" : 510,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "509",
+        "source" : "322",
+        "target" : "90",
+        "shared_name" : "Prednisolone acetate (inhibition) NR3C1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prednisolone acetate (inhibition) NR3C1",
+        "SUID" : 509,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "508",
+        "source" : "321",
+        "target" : "61",
+        "shared_name" : "Diethylstilbestrol (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Diethylstilbestrol (inhibition) AR",
+        "SUID" : 508,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "507",
+        "source" : "320",
+        "target" : "61",
+        "shared_name" : "Flutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Flutamide (inhibition) AR",
+        "SUID" : 507,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "506",
+        "source" : "319",
+        "target" : "61",
+        "shared_name" : "Oxandrolone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Oxandrolone (inhibition) AR",
+        "SUID" : 506,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "505",
+        "source" : "318",
+        "target" : "61",
+        "shared_name" : "Fluphenazine (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fluphenazine (inhibition) AR",
+        "SUID" : 505,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "504",
+        "source" : "317",
+        "target" : "61",
+        "shared_name" : "Testosterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Testosterone (inhibition) AR",
+        "SUID" : 504,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "503",
+        "source" : "316",
+        "target" : "61",
+        "shared_name" : "Mitotane (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Mitotane (inhibition) AR",
+        "SUID" : 503,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "502",
+        "source" : "315",
+        "target" : "61",
+        "shared_name" : "Estrone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Estrone (inhibition) AR",
+        "SUID" : 502,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "501",
+        "source" : "314",
+        "target" : "61",
+        "shared_name" : "Nilutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nilutamide (inhibition) AR",
+        "SUID" : 501,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "500",
+        "source" : "313",
+        "target" : "61",
+        "shared_name" : "Tamoxifen (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Tamoxifen (inhibition) AR",
+        "SUID" : 500,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "499",
+        "source" : "313",
+        "target" : "76",
+        "shared_name" : "Tamoxifen (inhibition) MAPK8",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Tamoxifen (inhibition) MAPK8",
+        "SUID" : 499,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "498",
+        "source" : "312",
+        "target" : "61",
+        "shared_name" : "Norgestimate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norgestimate (inhibition) AR",
+        "SUID" : 498,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "497",
+        "source" : "311",
+        "target" : "61",
+        "shared_name" : "Nandrolone phenpropionate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nandrolone phenpropionate (inhibition) AR",
+        "SUID" : 497,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "496",
+        "source" : "310",
+        "target" : "61",
+        "shared_name" : "Ketoconazole (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ketoconazole (inhibition) AR",
+        "SUID" : 496,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "495",
+        "source" : "309",
+        "target" : "61",
+        "shared_name" : "Acetophenazine (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Acetophenazine (inhibition) AR",
+        "SUID" : 495,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "494",
+        "source" : "308",
+        "target" : "61",
+        "shared_name" : "Bicalutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Bicalutamide (inhibition) AR",
+        "SUID" : 494,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "493",
+        "source" : "307",
+        "target" : "61",
+        "shared_name" : "Danazol (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Danazol (inhibition) AR",
+        "SUID" : 493,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "492",
+        "source" : "306",
+        "target" : "61",
+        "shared_name" : "Testosterone propionate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Testosterone propionate (inhibition) AR",
+        "SUID" : 492,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "491",
+        "source" : "305",
+        "target" : "61",
+        "shared_name" : "Oxybenzone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Oxybenzone (inhibition) AR",
+        "SUID" : 491,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "490",
+        "source" : "304",
+        "target" : "61",
+        "shared_name" : "Periciazine (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Periciazine (inhibition) AR",
+        "SUID" : 490,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "489",
+        "source" : "303",
+        "target" : "61",
+        "shared_name" : "Prasterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Prasterone (inhibition) AR",
+        "SUID" : 489,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "488",
+        "source" : "302",
+        "target" : "61",
+        "shared_name" : "Cyproterone acetate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Cyproterone acetate (inhibition) AR",
+        "SUID" : 488,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "487",
+        "source" : "301",
+        "target" : "61",
+        "shared_name" : "Oxymetholone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Oxymetholone (inhibition) AR",
+        "SUID" : 487,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "486",
+        "source" : "300",
+        "target" : "61",
+        "shared_name" : "Methyltestosterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Methyltestosterone (inhibition) AR",
+        "SUID" : 486,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "485",
+        "source" : "299",
+        "target" : "61",
+        "shared_name" : "Norelgestromin (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norelgestromin (inhibition) AR",
+        "SUID" : 485,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "484",
+        "source" : "298",
+        "target" : "61",
+        "shared_name" : "Stanozolol (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Stanozolol (inhibition) AR",
+        "SUID" : 484,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "483",
+        "source" : "297",
+        "target" : "61",
+        "shared_name" : "Nandrolone decanoate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nandrolone decanoate (inhibition) AR",
+        "SUID" : 483,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "482",
+        "source" : "296",
+        "target" : "61",
+        "shared_name" : "Enzalutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Enzalutamide (inhibition) AR",
+        "SUID" : 482,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "481",
+        "source" : "295",
+        "target" : "61",
+        "shared_name" : "Eugenol (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Eugenol (inhibition) AR",
+        "SUID" : 481,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "480",
+        "source" : "294",
+        "target" : "61",
+        "shared_name" : "Dienogest (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dienogest (inhibition) AR",
+        "SUID" : 480,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "479",
+        "source" : "293",
+        "target" : "61",
+        "shared_name" : "Norethynodrel (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norethynodrel (inhibition) AR",
+        "SUID" : 479,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "478",
+        "source" : "292",
+        "target" : "61",
+        "shared_name" : "Norgestrel (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Norgestrel (inhibition) AR",
+        "SUID" : 478,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "477",
+        "source" : "291",
+        "target" : "61",
+        "shared_name" : "Homosalate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Homosalate (inhibition) AR",
+        "SUID" : 477,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "476",
+        "source" : "290",
+        "target" : "61",
+        "shared_name" : "Enzacamene (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Enzacamene (inhibition) AR",
+        "SUID" : 476,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "475",
+        "source" : "289",
+        "target" : "61",
+        "shared_name" : "Apalutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Apalutamide (inhibition) AR",
+        "SUID" : 475,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "474",
+        "source" : "288",
+        "target" : "61",
+        "shared_name" : "Clascoterone (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Clascoterone (inhibition) AR",
+        "SUID" : 474,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "473",
+        "source" : "287",
+        "target" : "61",
+        "shared_name" : "Darolutamide (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Darolutamide (inhibition) AR",
+        "SUID" : 473,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "472",
+        "source" : "286",
+        "target" : "61",
+        "shared_name" : "Esculin (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Esculin (inhibition) AR",
+        "SUID" : 472,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "471",
+        "source" : "285",
+        "target" : "61",
+        "shared_name" : "Testosterone cypionate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Testosterone cypionate (inhibition) AR",
+        "SUID" : 471,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "470",
+        "source" : "284",
+        "target" : "61",
+        "shared_name" : "Testosterone enanthate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Testosterone enanthate (inhibition) AR",
+        "SUID" : 470,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "469",
+        "source" : "283",
+        "target" : "61",
+        "shared_name" : "Testosterone undecanoate (inhibition) AR",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Testosterone undecanoate (inhibition) AR",
+        "SUID" : 469,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "468",
+        "source" : "282",
+        "target" : "81",
+        "shared_name" : "Triflusal (inhibition) NFKB1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Triflusal (inhibition) NFKB1",
+        "SUID" : 468,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "467",
+        "source" : "281",
+        "target" : "119",
+        "shared_name" : "Acetylsalicylic acid (inhibition) TP53",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Acetylsalicylic acid (inhibition) TP53",
+        "SUID" : 467,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "466",
+        "source" : "281",
+        "target" : "80",
+        "shared_name" : "Acetylsalicylic acid (inhibition) MYC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Acetylsalicylic acid (inhibition) MYC",
+        "SUID" : 466,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "465",
+        "source" : "280",
+        "target" : "119",
+        "shared_name" : "Zinc (inhibition) TP53",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Zinc (inhibition) TP53",
+        "SUID" : 465,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "464",
+        "source" : "279",
+        "target" : "119",
+        "shared_name" : "Zinc acetate (inhibition) TP53",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Zinc acetate (inhibition) TP53",
+        "SUID" : 464,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "463",
+        "source" : "278",
+        "target" : "119",
+        "shared_name" : "Zinc chloride (inhibition) TP53",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Zinc chloride (inhibition) TP53",
+        "SUID" : 463,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "462",
+        "source" : "277",
+        "target" : "119",
+        "shared_name" : "Zinc sulfate, unspecified form (inhibition) TP53",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Zinc sulfate, unspecified form (inhibition) TP53",
+        "SUID" : 462,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "461",
+        "source" : "276",
+        "target" : "80",
+        "shared_name" : "Nadroparin (inhibition) MYC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nadroparin (inhibition) MYC",
+        "SUID" : 461,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "460",
+        "source" : "275",
+        "target" : "91",
+        "shared_name" : "Isoprenaline (inhibition) MAPK1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Isoprenaline (inhibition) MAPK1",
+        "SUID" : 460,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "459",
+        "source" : "274",
+        "target" : "91",
+        "shared_name" : "Arsenic trioxide (inhibition) MAPK1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Arsenic trioxide (inhibition) MAPK1",
+        "SUID" : 459,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "458",
+        "source" : "273",
+        "target" : "91",
+        "shared_name" : "Turpentine (inhibition) MAPK1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Turpentine (inhibition) MAPK1",
+        "SUID" : 458,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "457",
+        "source" : "272",
+        "target" : "93",
+        "shared_name" : "Dasatinib (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dasatinib (inhibition) SRC",
+        "SUID" : 457,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "456",
+        "source" : "272",
+        "target" : "73",
+        "shared_name" : "Dasatinib (inhibition) FYN",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dasatinib (inhibition) FYN",
+        "SUID" : 456,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "455",
+        "source" : "271",
+        "target" : "93",
+        "shared_name" : "Citric acid (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Citric acid (inhibition) SRC",
+        "SUID" : 455,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "454",
+        "source" : "270",
+        "target" : "93",
+        "shared_name" : "Tirbanibulin (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Tirbanibulin (inhibition) SRC",
+        "SUID" : 454,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "453",
+        "source" : "269",
+        "target" : "93",
+        "shared_name" : "Bosutinib (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Bosutinib (inhibition) SRC",
+        "SUID" : 453,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "452",
+        "source" : "269",
+        "target" : "64",
+        "shared_name" : "Bosutinib (inhibition) CDK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Bosutinib (inhibition) CDK2",
+        "SUID" : 452,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451",
+        "source" : "268",
+        "target" : "93",
+        "shared_name" : "Ponatinib (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ponatinib (inhibition) SRC",
+        "SUID" : 451,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "450",
+        "source" : "267",
+        "target" : "93",
+        "shared_name" : "Nintedanib (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Nintedanib (inhibition) SRC",
+        "SUID" : 450,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "449",
+        "source" : "266",
+        "target" : "93",
+        "shared_name" : "Fostamatinib (inhibition) SRC",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) SRC",
+        "SUID" : 449,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "448",
+        "source" : "266",
+        "target" : "73",
+        "shared_name" : "Fostamatinib (inhibition) FYN",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) FYN",
+        "SUID" : 448,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "447",
+        "source" : "266",
+        "target" : "75",
+        "shared_name" : "Fostamatinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) JAK2",
+        "SUID" : 447,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "446",
+        "source" : "266",
+        "target" : "106",
+        "shared_name" : "Fostamatinib (inhibition) PRKACA",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) PRKACA",
+        "SUID" : 446,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "445",
+        "source" : "266",
+        "target" : "68",
+        "shared_name" : "Fostamatinib (inhibition) CSNK2A1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) CSNK2A1",
+        "SUID" : 445,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "444",
+        "source" : "266",
+        "target" : "87",
+        "shared_name" : "Fostamatinib (inhibition) PIM1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) PIM1",
+        "SUID" : 444,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "443",
+        "source" : "266",
+        "target" : "70",
+        "shared_name" : "Fostamatinib (inhibition) DAPK1",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fostamatinib (inhibition) DAPK1",
+        "SUID" : 443,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "442",
+        "source" : "265",
+        "target" : "75",
+        "shared_name" : "Ruxolitinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Ruxolitinib (inhibition) JAK2",
+        "SUID" : 442,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "441",
+        "source" : "264",
+        "target" : "75",
+        "shared_name" : "Tofacitinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Tofacitinib (inhibition) JAK2",
+        "SUID" : 441,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "440",
+        "source" : "263",
+        "target" : "75",
+        "shared_name" : "Baricitinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Baricitinib (inhibition) JAK2",
+        "SUID" : 440,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "439",
+        "source" : "262",
+        "target" : "75",
+        "shared_name" : "Entrectinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Entrectinib (inhibition) JAK2",
+        "SUID" : 439,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "438",
+        "source" : "261",
+        "target" : "75",
+        "shared_name" : "Fedratinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Fedratinib (inhibition) JAK2",
+        "SUID" : 438,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "437",
+        "source" : "260",
+        "target" : "75",
+        "shared_name" : "Zanubrutinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Zanubrutinib (inhibition) JAK2",
+        "SUID" : 437,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "436",
+        "source" : "259",
+        "target" : "75",
+        "shared_name" : "Pralsetinib (inhibition) JAK2",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Pralsetinib (inhibition) JAK2",
+        "SUID" : 436,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "435",
+        "source" : "258",
+        "target" : "120",
+        "shared_name" : "Dimethyl fumarate (inhibition) RELA",
+        "shared_interaction" : "inhibition",
+        "selected" : false,
+        "name" : "Dimethyl fumarate (inhibition) RELA",
+        "SUID" : 435,
+        "interaction" : "inhibition"
+      },
+      "selected" : false
+    } ]
+  }
+}
